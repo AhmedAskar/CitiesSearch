@@ -1,0 +1,9694 @@
+[
+	{
+		"country": "GL",
+		"name": "Qaanaaq",
+		"_id": 3831208,
+		"coord": {
+			"lon": -69.363213,
+			"lat": 77.483971
+		}
+	},
+	{
+		"country": "GL",
+		"name": "Qaarsut",
+		"_id": 3420937,
+		"coord": {
+			"lon": -52.650002,
+			"lat": 70.73333
+		}
+	},
+	{
+		"country": "GL",
+		"name": "Qaasuitsup",
+		"_id": 7602003,
+		"coord": {
+			"lon": -51.103512,
+			"lat": 69.216621
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qabala Rayon",
+		"_id": 585738,
+		"coord": {
+			"lon": 47.833328,
+			"lat": 40.916672
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qabalan",
+		"_id": 282477,
+		"coord": {
+			"lon": 35.289379,
+			"lat": 32.101822
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qabaqcol",
+		"_id": 823981,
+		"coord": {
+			"lon": 46.264721,
+			"lat": 41.720001
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qabatiyah",
+		"_id": 282476,
+		"coord": {
+			"lon": 35.288231,
+			"lat": 32.412552
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qabqa",
+		"_id": 1798403,
+		"coord": {
+			"lon": 100.61306,
+			"lat": 36.281391
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qabqir",
+		"_id": 1798402,
+		"coord": {
+			"lon": 106.873611,
+			"lat": 39.616112
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qabāghlū",
+		"_id": 3530,
+		"coord": {
+			"lon": 46.168499,
+			"lat": 36.173302
+		}
+	},
+	{
+		"country": "LY",
+		"name": "Qabīlat Awlād Dhiyāb",
+		"_id": 2214234,
+		"coord": {
+			"lon": 13.27083,
+			"lat": 32.902222
+		}
+	},
+	{
+		"country": "LS",
+		"name": "Qachas Nek",
+		"_id": 932218,
+		"coord": {
+			"lon": 28.68936,
+			"lat": -30.11537
+		}
+	},
+	{
+		"country": "LS",
+		"name": "Qacha’s Nek District",
+		"_id": 932219,
+		"coord": {
+			"lon": 28.75,
+			"lat": -30
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qada Talkif",
+		"_id": 90353,
+		"coord": {
+			"lon": 43.119171,
+			"lat": 36.489441
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qada al Hamdaniyah",
+		"_id": 92430,
+		"coord": {
+			"lon": 43.37373,
+			"lat": 36.271461
+		}
+	},
+	{
+		"country": "IN",
+		"name": "Qadian",
+		"_id": 1259110,
+		"coord": {
+			"lon": 75.391937,
+			"lat": 31.81778
+		}
+	},
+	{
+		"country": "PK",
+		"name": "Qadirpur Ran",
+		"_id": 1167648,
+		"coord": {
+			"lon": 71.671173,
+			"lat": 30.292379
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qadis",
+		"_id": 1130233,
+		"coord": {
+			"lon": 63.430031,
+			"lat": 34.808498
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qaffin",
+		"_id": 282463,
+		"coord": {
+			"lon": 35.082661,
+			"lat": 32.432739
+		}
+	},
+	{
+		"country": "JO",
+		"name": "Qafqafa",
+		"_id": 247659,
+		"coord": {
+			"lon": 35.939499,
+			"lat": 32.348309
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Qafur",
+		"_id": 2468349,
+		"coord": {
+			"lon": 9.32424,
+			"lat": 36.32045
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qahderijan",
+		"_id": 418571,
+		"coord": {
+			"lon": 51.455002,
+			"lat": 32.576698
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qakh Rayon",
+		"_id": 586290,
+		"coord": {
+			"lon": 46.75,
+			"lat": 41.333328
+		}
+	},
+	{
+		"country": "MT",
+		"name": "Qala",
+		"_id": 2562655,
+		"coord": {
+			"lon": 14.30944,
+			"lat": 36.03611
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qala",
+		"_id": 586289,
+		"coord": {
+			"lon": 50.168121,
+			"lat": 40.441818
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qala i Naw",
+		"_id": 1129867,
+		"coord": {
+			"lon": 63.12891,
+			"lat": 34.98735
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalah-ye Farsi",
+		"_id": 1142234,
+		"coord": {
+			"lon": 63.247349,
+			"lat": 33.78529
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalah-ye Kuf",
+		"_id": 1129928,
+		"coord": {
+			"lon": 70.474716,
+			"lat": 38.040089
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalah-ye Kuhnah",
+		"_id": 1129932,
+		"coord": {
+			"lon": 63.666809,
+			"lat": 32.61591
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalah-ye Naim",
+		"_id": 1469237,
+		"coord": {
+			"lon": 69.166786,
+			"lat": 34.399799
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalah-ye Shahi",
+		"_id": 1130132,
+		"coord": {
+			"lon": 70.5914,
+			"lat": 34.649212
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalah-ye Shahr",
+		"_id": 1130065,
+		"coord": {
+			"lon": 65.567596,
+			"lat": 35.547291
+		}
+	},
+	{
+		"country": "TJ",
+		"name": "Qalaikhumb",
+		"_id": 1221559,
+		"coord": {
+			"lon": 70.789017,
+			"lat": 38.453732
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qalandiya",
+		"_id": 282461,
+		"coord": {
+			"lon": 35.20816,
+			"lat": 31.86289
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qalansuwa",
+		"_id": 293896,
+		"coord": {
+			"lon": 34.98106,
+			"lat": 32.284931
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalat",
+		"_id": 1130131,
+		"coord": {
+			"lon": 66.908333,
+			"lat": 32.105751
+		}
+	},
+	{
+		"country": "SA",
+		"name": "Qalat Bishah",
+		"_id": 103369,
+		"coord": {
+			"lon": 42.605202,
+			"lat": 20.00054
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Qalat al Andalus",
+		"_id": 2468329,
+		"coord": {
+			"lon": 10.11829,
+			"lat": 37.062901
+		}
+	},
+	{
+		"country": "SY",
+		"name": "Qalat al Madiq",
+		"_id": 166227,
+		"coord": {
+			"lon": 36.39085,
+			"lat": 35.41465
+		}
+	},
+	{
+		"country": "SO",
+		"name": "Qaloocan",
+		"_id": 53172,
+		"coord": {
+			"lon": 44.04784,
+			"lat": 9.52943
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qalqaman",
+		"_id": 1523605,
+		"coord": {
+			"lon": 76.021111,
+			"lat": 51.952499
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qalqas",
+		"_id": 283096,
+		"coord": {
+			"lon": 35.095348,
+			"lat": 31.492121
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qalqilyah",
+		"_id": 282457,
+		"coord": {
+			"lon": 34.970341,
+			"lat": 32.18924
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qalwazah ‘Ulyā",
+		"_id": 417262,
+		"coord": {
+			"lon": 45.7855,
+			"lat": 35.253201
+		}
+	},
+	{
+		"country": "EG",
+		"name": "Qalyub",
+		"_id": 350789,
+		"coord": {
+			"lon": 31.205601,
+			"lat": 30.17922
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qalāt-e Qāẕī",
+		"_id": 1129844,
+		"coord": {
+			"lon": 61.41721,
+			"lat": 34.440552
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qal‘ah-ye ‘Abd ul Aḩmad Khān",
+		"_id": 1447263,
+		"coord": {
+			"lon": 68.427498,
+			"lat": 33.53722
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qal‘at as Sādah",
+		"_id": 92628,
+		"coord": {
+			"lon": 44.157219,
+			"lat": 33.161388
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qal‘eh-ye Moḩammad ‘Alī Khān",
+		"_id": 120219,
+		"coord": {
+			"lon": 50.981098,
+			"lat": 35.2528
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qamashi Shahri",
+		"_id": 1346489,
+		"coord": {
+			"lon": 66.464409,
+			"lat": 38.819981
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qamdo",
+		"_id": 1280281,
+		"coord": {
+			"lon": 97.23333,
+			"lat": 31.16667
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qamishlī",
+		"_id": 1129733,
+		"coord": {
+			"lon": 66.574287,
+			"lat": 36.428902
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qamysty",
+		"_id": 609707,
+		"coord": {
+			"lon": 47.183331,
+			"lat": 49.816669
+		}
+	},
+	{
+		"country": "SO",
+		"name": "Qandala",
+		"_id": 53157,
+		"coord": {
+			"lon": 49.872822,
+			"lat": 11.47197
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qanlikol",
+		"_id": 601306,
+		"coord": {
+			"lon": 59.000931,
+			"lat": 42.8395
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qapshaghay",
+		"_id": 1519948,
+		"coord": {
+			"lon": 77.083328,
+			"lat": 43.883331
+		}
+	},
+	{
+		"country": "GL",
+		"name": "Qaqortoq",
+		"_id": 3420846,
+		"coord": {
+			"lon": -46.033329,
+			"lat": 60.716671
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qarabas",
+		"_id": 1523469,
+		"coord": {
+			"lon": 72.89389,
+			"lat": 49.573334
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qaracala",
+		"_id": 147307,
+		"coord": {
+			"lon": 48.952301,
+			"lat": 39.813179
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qaracuxur",
+		"_id": 585103,
+		"coord": {
+			"lon": 49.97361,
+			"lat": 40.396671
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qaraghandy",
+		"_id": 1519942,
+		"coord": {
+			"lon": 73.099442,
+			"lat": 49.798889
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qaraghandy",
+		"_id": 1523400,
+		"coord": {
+			"lon": 71.051392,
+			"lat": 54.666672
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qaraghandy Oblysy",
+		"_id": 1523401,
+		"coord": {
+			"lon": 72,
+			"lat": 48
+		}
+	},
+	{
+		"country": "SY",
+		"name": "Qarah",
+		"_id": 166111,
+		"coord": {
+			"lon": 36.74152,
+			"lat": 34.152699
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarah Bagh",
+		"_id": 1129678,
+		"coord": {
+			"lon": 61.77589,
+			"lat": 34.940231
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarah Bagh",
+		"_id": 1129680,
+		"coord": {
+			"lon": 68.104721,
+			"lat": 33.191669
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarah Bagh Bazar",
+		"_id": 1349709,
+		"coord": {
+			"lon": 69.170624,
+			"lat": 34.852901
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarah Bātūr Qishlāq",
+		"_id": 1129676,
+		"coord": {
+			"lon": 68.65226,
+			"lat": 36.509819
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qarah Gawl al ‘Ulyā",
+		"_id": 384848,
+		"coord": {
+			"lon": 45.6325,
+			"lat": 35.353889
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarah Qishlāq",
+		"_id": 1467993,
+		"coord": {
+			"lon": 68.892883,
+			"lat": 36.657059
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qarah Zia od Din",
+		"_id": 119730,
+		"coord": {
+			"lon": 45.025501,
+			"lat": 38.891499
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qaram Qol",
+		"_id": 1464552,
+		"coord": {
+			"lon": 65.042992,
+			"lat": 36.830059
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qaranghu Toghai",
+		"_id": 1427089,
+		"coord": {
+			"lon": 67.639717,
+			"lat": 37.215279
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qaraton",
+		"_id": 609537,
+		"coord": {
+			"lon": 53.486389,
+			"lat": 46.43528
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qarauyl",
+		"_id": 1519936,
+		"coord": {
+			"lon": 79.25502,
+			"lat": 48.945091
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qarawat Bani Hasan",
+		"_id": 282439,
+		"coord": {
+			"lon": 35.100609,
+			"lat": 32.125679
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qarawat Bani Zayd",
+		"_id": 282438,
+		"coord": {
+			"lon": 35.129082,
+			"lat": 32.054699
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarawul",
+		"_id": 1129648,
+		"coord": {
+			"lon": 68.780411,
+			"lat": 37.220188
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qarayeri",
+		"_id": 586135,
+		"coord": {
+			"lon": 46.306591,
+			"lat": 40.78862
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qarazhal",
+		"_id": 1519935,
+		"coord": {
+			"lon": 70.790283,
+			"lat": 48.007778
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qarchak",
+		"_id": 32767,
+		"coord": {
+			"lon": 51.56889,
+			"lat": 35.439442
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarchi Gak",
+		"_id": 1129636,
+		"coord": {
+			"lon": 66.78891,
+			"lat": 37.039989
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarghahi",
+		"_id": 1129555,
+		"coord": {
+			"lon": 70.24292,
+			"lat": 34.55402
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Beratit",
+		"_id": 865730,
+		"coord": {
+			"lon": 20.066669,
+			"lat": 40.650002
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Dibrës",
+		"_id": 865731,
+		"coord": {
+			"lon": 20.16667,
+			"lat": 41.666672
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Durrësit",
+		"_id": 3344947,
+		"coord": {
+			"lon": 19.58333,
+			"lat": 41.48333
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Elbasanit",
+		"_id": 865732,
+		"coord": {
+			"lon": 20.299999,
+			"lat": 41.116669
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Fierit",
+		"_id": 3344948,
+		"coord": {
+			"lon": 19.75,
+			"lat": 40.75
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Gjirokastrës",
+		"_id": 865733,
+		"coord": {
+			"lon": 20.200001,
+			"lat": 40.216671
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Korçës",
+		"_id": 865734,
+		"coord": {
+			"lon": 20.65,
+			"lat": 40.583328
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Kukësit",
+		"_id": 865735,
+		"coord": {
+			"lon": 20.366671,
+			"lat": 42.200001
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Lezhës",
+		"_id": 3344949,
+		"coord": {
+			"lon": 19.866671,
+			"lat": 41.833328
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Shkodrës",
+		"_id": 3344950,
+		"coord": {
+			"lon": 19.75,
+			"lat": 42.183331
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Tiranës",
+		"_id": 3344951,
+		"coord": {
+			"lon": 19.89167,
+			"lat": 41.299999
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qarku i Vlorës",
+		"_id": 3344952,
+		"coord": {
+			"lon": 19.799999,
+			"lat": 40.166672
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qarqaraly",
+		"_id": 1519934,
+		"coord": {
+			"lon": 75.474167,
+			"lat": 49.40583
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qarqin",
+		"_id": 1129516,
+		"coord": {
+			"lon": 66.043579,
+			"lat": 37.41853
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qarshi",
+		"_id": 1216311,
+		"coord": {
+			"lon": 65.800003,
+			"lat": 38.866669
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qaryah-ye Band Now",
+		"_id": 1461264,
+		"coord": {
+			"lon": 63.382301,
+			"lat": 32.360828
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat Bānī Mālik",
+		"_id": 92365,
+		"coord": {
+			"lon": 47.700001,
+			"lat": 30.566669
+		}
+	},
+	{
+		"country": "YE",
+		"name": "Qaryat ad Dais",
+		"_id": 7356864,
+		"coord": {
+			"lon": 44.274899,
+			"lat": 13.9877
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat al Majarrah",
+		"_id": 448779,
+		"coord": {
+			"lon": 43.510658,
+			"lat": 33.198212
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat al Muftiyāt",
+		"_id": 6860746,
+		"coord": {
+			"lon": 43.333359,
+			"lat": 36.077229
+		}
+	},
+	{
+		"country": "YE",
+		"name": "Qaryat al Qabil",
+		"_id": 78708,
+		"coord": {
+			"lon": 44.127682,
+			"lat": 15.45033
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat al Qahārah",
+		"_id": 6837283,
+		"coord": {
+			"lon": 43.098122,
+			"lat": 35.452641
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat al ‘Ankūr",
+		"_id": 435805,
+		"coord": {
+			"lon": 43.42918,
+			"lat": 33.220909
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat al ‘Arbīd",
+		"_id": 98756,
+		"coord": {
+			"lon": 43.08062,
+			"lat": 36.198238
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat as Sādah",
+		"_id": 6752102,
+		"coord": {
+			"lon": 44.295872,
+			"lat": 34.559769
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qaryat ‘Ayn Nāşir",
+		"_id": 98299,
+		"coord": {
+			"lon": 43.070259,
+			"lat": 36.125061
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qaryeh-ye Owbeh",
+		"_id": 1131406,
+		"coord": {
+			"lon": 63.176392,
+			"lat": 34.36972
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qaryut",
+		"_id": 282423,
+		"coord": {
+			"lon": 35.294319,
+			"lat": 32.070042
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qarālar-e Mīrzā Ḩoseynqolī",
+		"_id": 18557,
+		"coord": {
+			"lon": 45.067501,
+			"lat": 37.674702
+		}
+	},
+	{
+		"country": "IN",
+		"name": "Qasba",
+		"_id": 1259108,
+		"coord": {
+			"lon": 87.550003,
+			"lat": 25.85
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qashqadaryo Province",
+		"_id": 1114928,
+		"coord": {
+			"lon": 66,
+			"lat": 38.583328
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qashqal",
+		"_id": 1125362,
+		"coord": {
+			"lon": 69.006851,
+			"lat": 35.039749
+		}
+	},
+	{
+		"country": "GL",
+		"name": "Qasigiannguit",
+		"_id": 3420768,
+		"coord": {
+			"lon": -51.192211,
+			"lat": 68.81926
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qaskeleng",
+		"_id": 1519931,
+		"coord": {
+			"lon": 76.622223,
+			"lat": 43.200279
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qasq",
+		"_id": 2035416,
+		"coord": {
+			"lon": 111.128891,
+			"lat": 40.712219
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Qasr Hallal",
+		"_id": 2468106,
+		"coord": {
+			"lon": 10.89046,
+			"lat": 35.647732
+		}
+	},
+	{
+		"country": "EG",
+		"name": "Qasr al Farafirah",
+		"_id": 350661,
+		"coord": {
+			"lon": 27.96979,
+			"lat": 27.056801
+		}
+	},
+	{
+		"country": "SY",
+		"name": "Qastal Maaf",
+		"_id": 165940,
+		"coord": {
+			"lon": 35.952541,
+			"lat": 35.824581
+		}
+	},
+	{
+		"country": "YE",
+		"name": "Qatabah",
+		"_id": 71904,
+		"coord": {
+			"lon": 44.705799,
+			"lat": 13.85493
+		}
+	},
+	{
+		"country": "SY",
+		"name": "Qatana",
+		"_id": 165929,
+		"coord": {
+			"lon": 36.081478,
+			"lat": 33.43544
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qatanne",
+		"_id": 282376,
+		"coord": {
+			"lon": 35.118938,
+			"lat": 31.83366
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qax",
+		"_id": 585227,
+		"coord": {
+			"lon": 46.924171,
+			"lat": 41.422501
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qayen",
+		"_id": 120694,
+		"coord": {
+			"lon": 59.184391,
+			"lat": 33.72654
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qazakh Rayon",
+		"_id": 586087,
+		"coord": {
+			"lon": 45.166672,
+			"lat": 41.166672
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qazaly",
+		"_id": 1522862,
+		"coord": {
+			"lon": 62.107498,
+			"lat": 45.762779
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qazax",
+		"_id": 585226,
+		"coord": {
+			"lon": 45.366112,
+			"lat": 41.09333
+		}
+	},
+	{
+		"country": "IN",
+		"name": "Qazigund",
+		"_id": 1259102,
+		"coord": {
+			"lon": 75.150002,
+			"lat": 33.633331
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qazvin",
+		"_id": 119505,
+		"coord": {
+			"lon": 50.004902,
+			"lat": 36.279701
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qazyqurt",
+		"_id": 1521351,
+		"coord": {
+			"lon": 69.386391,
+			"lat": 41.758888
+		}
+	},
+	{
+		"country": "SA",
+		"name": "Qaşr al Quraynah",
+		"_id": 108947,
+		"coord": {
+			"lon": 46.421291,
+			"lat": 24.46747
+		}
+	},
+	{
+		"country": "GL",
+		"name": "Qeqertarsuaq",
+		"_id": 3420635,
+		"coord": {
+			"lon": -53.536819,
+			"lat": 69.247208
+		}
+	},
+	{
+		"country": "GL",
+		"name": "Qeqqata",
+		"_id": 7602006,
+		"coord": {
+			"lon": -53.675171,
+			"lat": 66.933052
+		}
+	},
+	{
+		"country": "AL",
+		"name": "Qerek",
+		"_id": 3184368,
+		"coord": {
+			"lon": 19.735001,
+			"lat": 41.41
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qesarya",
+		"_id": 7117228,
+		"coord": {
+			"lon": 34.904591,
+			"lat": 32.518879
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qeshm",
+		"_id": 119374,
+		"coord": {
+			"lon": 56.2719,
+			"lat": 26.958099
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qevuẕat Yavne",
+		"_id": 293857,
+		"coord": {
+			"lon": 34.720798,
+			"lat": 31.81555
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiagai",
+		"_id": 1798382,
+		"coord": {
+			"lon": 103.459129,
+			"lat": 34.844959
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qian",
+		"_id": 1798203,
+		"coord": {
+			"lon": 121.04467,
+			"lat": 32.175819
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianan",
+		"_id": 2035410,
+		"coord": {
+			"lon": 124.058113,
+			"lat": 44.99324
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiancheng",
+		"_id": 1798371,
+		"coord": {
+			"lon": 109.765427,
+			"lat": 27.185011
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianchuan",
+		"_id": 7679875,
+		"coord": {
+			"lon": 119.390266,
+			"lat": 30.091141
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiandeng",
+		"_id": 1798364,
+		"coord": {
+			"lon": 120.996941,
+			"lat": 31.266979
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiandian",
+		"_id": 2054195,
+		"coord": {
+			"lon": 124.00238,
+			"lat": 41.894619
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiandong",
+		"_id": 1798361,
+		"coord": {
+			"lon": 108.637779,
+			"lat": 34.521111
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiandong",
+		"_id": 1798362,
+		"coord": {
+			"lon": 116.914497,
+			"lat": 23.673809
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianfang",
+		"_id": 1798353,
+		"coord": {
+			"lon": 116.233566,
+			"lat": 28.52351
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianfeng",
+		"_id": 8053615,
+		"coord": {
+			"lon": 112.520821,
+			"lat": 37.849419
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianfoling",
+		"_id": 7520825,
+		"coord": {
+			"lon": 113.825317,
+			"lat": 39.53479
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiangbai",
+		"_id": 1798349,
+		"coord": {
+			"lon": 109.810379,
+			"lat": 34.747139
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiangqinxue",
+		"_id": 1280277,
+		"coord": {
+			"lon": 89.900002,
+			"lat": 29.26667
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiangtou",
+		"_id": 1798343,
+		"coord": {
+			"lon": 121.780563,
+			"lat": 29.46389
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianguo",
+		"_id": 2035399,
+		"coord": {
+			"lon": 124.856758,
+			"lat": 45.117119
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianhe",
+		"_id": 7367798,
+		"coord": {
+			"lon": 107.302429,
+			"lat": 34.393551
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianhong",
+		"_id": 7679683,
+		"coord": {
+			"lon": 119.396156,
+			"lat": 30.260651
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianjia",
+		"_id": 1798323,
+		"coord": {
+			"lon": 109.082031,
+			"lat": 18.569241
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianjiadong",
+		"_id": 6422929,
+		"coord": {
+			"lon": 111.323891,
+			"lat": 25.371941
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianjin",
+		"_id": 6929522,
+		"coord": {
+			"lon": 101.697449,
+			"lat": 26.5425
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianjin",
+		"_id": 7735206,
+		"coord": {
+			"lon": 120.237839,
+			"lat": 30.6777
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiankou",
+		"_id": 1798299,
+		"coord": {
+			"lon": 118.29528,
+			"lat": 29.87056
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianling",
+		"_id": 1798292,
+		"coord": {
+			"lon": 109.616669,
+			"lat": 28.716669
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianliu",
+		"_id": 7885419,
+		"coord": {
+			"lon": 122.634399,
+			"lat": 40.841709
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianming",
+		"_id": 2051340,
+		"coord": {
+			"lon": 109.973328,
+			"lat": 40.544998
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianqiao",
+		"_id": 1798271,
+		"coord": {
+			"lon": 120.22496,
+			"lat": 31.603001
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianqing",
+		"_id": 1798268,
+		"coord": {
+			"lon": 120.405121,
+			"lat": 30.125059
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianquan",
+		"_id": 7904017,
+		"coord": {
+			"lon": 114.372581,
+			"lat": 30.87126
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianshan",
+		"_id": 1798256,
+		"coord": {
+			"lon": 114.13353,
+			"lat": 27.34815
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianshan",
+		"_id": 1924048,
+		"coord": {
+			"lon": 116.469833,
+			"lat": 26.931179
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiansuo",
+		"_id": 2035381,
+		"coord": {
+			"lon": 119.947762,
+			"lat": 40.09486
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiantong",
+		"_id": 1881319,
+		"coord": {
+			"lon": 121.352547,
+			"lat": 29.224609
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianwei",
+		"_id": 1910308,
+		"coord": {
+			"lon": 109.223541,
+			"lat": 34.126362
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianwei",
+		"_id": 6824732,
+		"coord": {
+			"lon": 102.728851,
+			"lat": 24.341261
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianxiang",
+		"_id": 1798227,
+		"coord": {
+			"lon": 120.313583,
+			"lat": 29.042601
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianxu Zhen",
+		"_id": 7525001,
+		"coord": {
+			"lon": 121.241943,
+			"lat": 30.77672
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianyang Chengguanzhen",
+		"_id": 7428592,
+		"coord": {
+			"lon": 107.130188,
+			"lat": 34.642078
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianying",
+		"_id": 6979981,
+		"coord": {
+			"lon": 123.180702,
+			"lat": 40.158482
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianying",
+		"_id": 7070927,
+		"coord": {
+			"lon": 112.909264,
+			"lat": 33.979649
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qianzhan",
+		"_id": 1916300,
+		"coord": {
+			"lon": 116.423561,
+			"lat": 22.94359
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaobian",
+		"_id": 1813647,
+		"coord": {
+			"lon": 111.186638,
+			"lat": 30.682301
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaochong",
+		"_id": 1916285,
+		"coord": {
+			"lon": 115.782639,
+			"lat": 22.921619
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaochuan",
+		"_id": 7518949,
+		"coord": {
+			"lon": 107.669693,
+			"lat": 36.763729
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaodi",
+		"_id": 1910256,
+		"coord": {
+			"lon": 108.71611,
+			"lat": 34.606392
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaodong",
+		"_id": 1798190,
+		"coord": {
+			"lon": 115.819572,
+			"lat": 28.05839
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaodong",
+		"_id": 7021128,
+		"coord": {
+			"lon": 116.655602,
+			"lat": 23.66395
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaodong",
+		"_id": 7738998,
+		"coord": {
+			"lon": 116.361977,
+			"lat": 27.99976
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaogu",
+		"_id": 1798183,
+		"coord": {
+			"lon": 117.724716,
+			"lat": 39.3125
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaojiang",
+		"_id": 1798176,
+		"coord": {
+			"lon": 110.676392,
+			"lat": 27.93722
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaole",
+		"_id": 1925100,
+		"coord": {
+			"lon": 115.563751,
+			"lat": 28.64414
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaolin",
+		"_id": 6957991,
+		"coord": {
+			"lon": 118.520912,
+			"lat": 31.949699
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaomu",
+		"_id": 1798159,
+		"coord": {
+			"lon": 118.077263,
+			"lat": 30.703671
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaonan",
+		"_id": 1798158,
+		"coord": {
+			"lon": 109.592621,
+			"lat": 34.34333
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaoshan",
+		"_id": 7652324,
+		"coord": {
+			"lon": 117.719269,
+			"lat": 29.76399
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaoshe",
+		"_id": 1798150,
+		"coord": {
+			"lon": 115.98333,
+			"lat": 28.85
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaoshi",
+		"_id": 6423046,
+		"coord": {
+			"lon": 111.588608,
+			"lat": 25.06583
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaosi",
+		"_id": 1798148,
+		"coord": {
+			"lon": 120.285591,
+			"lat": 30.351601
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaoting",
+		"_id": 1798147,
+		"coord": {
+			"lon": 118.546669,
+			"lat": 30.388889
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaoting",
+		"_id": 7020048,
+		"coord": {
+			"lon": 106.898232,
+			"lat": 32.46492
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1798133,
+		"coord": {
+			"lon": 104.814178,
+			"lat": 33.753689
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1798134,
+		"coord": {
+			"lon": 104.811684,
+			"lat": 33.107632
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1798135,
+		"coord": {
+			"lon": 112.810158,
+			"lat": 33.055149
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1798146,
+		"coord": {
+			"lon": 109.926369,
+			"lat": 19.96451
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1898905,
+		"coord": {
+			"lon": 121.35688,
+			"lat": 30.160959
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1917207,
+		"coord": {
+			"lon": 113.768311,
+			"lat": 24.249689
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 1928005,
+		"coord": {
+			"lon": 110.283249,
+			"lat": 29.346991
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 6422333,
+		"coord": {
+			"lon": 111.41806,
+			"lat": 25.74333
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 6423003,
+		"coord": {
+			"lon": 111.536942,
+			"lat": 25.29278
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaotou",
+		"_id": 7001762,
+		"coord": {
+			"lon": 114.09211,
+			"lat": 23.02339
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaowa",
+		"_id": 1798116,
+		"coord": {
+			"lon": 101.277809,
+			"lat": 27.93079
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaoxi",
+		"_id": 7690182,
+		"coord": {
+			"lon": 114.769562,
+			"lat": 28.38814
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaozhen",
+		"_id": 1798107,
+		"coord": {
+			"lon": 107.139183,
+			"lat": 34.486549
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiaozhuang",
+		"_id": 1798105,
+		"coord": {
+			"lon": 105.233429,
+			"lat": 32.59026
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiawan",
+		"_id": 1798100,
+		"coord": {
+			"lon": 116.574989,
+			"lat": 27.27412
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qibray",
+		"_id": 1513567,
+		"coord": {
+			"lon": 69.464996,
+			"lat": 41.389721
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qibu",
+		"_id": 1798093,
+		"coord": {
+			"lon": 116.863983,
+			"lat": 28.72151
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qibu",
+		"_id": 1798095,
+		"coord": {
+			"lon": 119.544998,
+			"lat": 26.5075
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qibye",
+		"_id": 282348,
+		"coord": {
+			"lon": 35.009838,
+			"lat": 31.977341
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qicha",
+		"_id": 1915877,
+		"coord": {
+			"lon": 109.04628,
+			"lat": 19.11623
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qicun",
+		"_id": 2000890,
+		"coord": {
+			"lon": 109.109444,
+			"lat": 34.822708
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidaogou",
+		"_id": 2035368,
+		"coord": {
+			"lon": 126.303062,
+			"lat": 41.547131
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidi",
+		"_id": 1929499,
+		"coord": {
+			"lon": 113.668892,
+			"lat": 26.93528
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidian",
+		"_id": 6825169,
+		"coord": {
+			"lon": 102.946747,
+			"lat": 24.96034
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidong Yanchang",
+		"_id": 1887171,
+		"coord": {
+			"lon": 121.838943,
+			"lat": 31.91128
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidou",
+		"_id": 6698821,
+		"coord": {
+			"lon": 120.38813,
+			"lat": 30.95273
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidu",
+		"_id": 1798078,
+		"coord": {
+			"lon": 119.547218,
+			"lat": 26.76528
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qidu",
+		"_id": 1925107,
+		"coord": {
+			"lon": 115.55632,
+			"lat": 27.2756
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiecha",
+		"_id": 7371349,
+		"coord": {
+			"lon": 99.598587,
+			"lat": 36.995121
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qifang",
+		"_id": 1915772,
+		"coord": {
+			"lon": 109.235741,
+			"lat": 19.299919
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qifang",
+		"_id": 1921720,
+		"coord": {
+			"lon": 116.099449,
+			"lat": 25.10001
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qifo",
+		"_id": 6861732,
+		"coord": {
+			"lon": 105.284813,
+			"lat": 32.303982
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qigang",
+		"_id": 6958812,
+		"coord": {
+			"lon": 113.825706,
+			"lat": 22.63973
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qigong",
+		"_id": 1798056,
+		"coord": {
+			"lon": 112.568901,
+			"lat": 24.310381
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qihe",
+		"_id": 1798043,
+		"coord": {
+			"lon": 111.375389,
+			"lat": 29.13278
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qihong",
+		"_id": 1798047,
+		"coord": {
+			"lon": 117.6688,
+			"lat": 29.69524
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qijiang",
+		"_id": 1983329,
+		"coord": {
+			"lon": 110.973061,
+			"lat": 27.44944
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qijiaping",
+		"_id": 1798037,
+		"coord": {
+			"lon": 110.853638,
+			"lat": 28.88485
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qijiaxi",
+		"_id": 1798031,
+		"coord": {
+			"lon": 110.647926,
+			"lat": 28.86874
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Qikiqtarjuaq",
+		"_id": 6114685,
+		"coord": {
+			"lon": -64.024933,
+			"lat": 67.555458
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qikou",
+		"_id": 2035344,
+		"coord": {
+			"lon": 122.423363,
+			"lat": 40.854919
+		}
+	},
+	{
+		"country": "PK",
+		"name": "Qila Abdullah",
+		"_id": 1167579,
+		"coord": {
+			"lon": 66.660828,
+			"lat": 30.72917
+		}
+	},
+	{
+		"country": "PK",
+		"name": "Qila Saifullah",
+		"_id": 1167550,
+		"coord": {
+			"lon": 68.359932,
+			"lat": 30.7013
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qili",
+		"_id": 1794996,
+		"coord": {
+			"lon": 117.477982,
+			"lat": 30.19906
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qili",
+		"_id": 1798016,
+		"coord": {
+			"lon": 116.268478,
+			"lat": 28.447809
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qili",
+		"_id": 7408177,
+		"coord": {
+			"lon": 107.056229,
+			"lat": 33.079262
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiligang",
+		"_id": 1925110,
+		"coord": {
+			"lon": 116.424156,
+			"lat": 28.009701
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qilin",
+		"_id": 1797988,
+		"coord": {
+			"lon": 121.349129,
+			"lat": 31.936621
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qilin",
+		"_id": 1919746,
+		"coord": {
+			"lon": 116.285004,
+			"lat": 23.422779
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiling",
+		"_id": 1797996,
+		"coord": {
+			"lon": 115.449997,
+			"lat": 24.08333
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qilushan",
+		"_id": 1923404,
+		"coord": {
+			"lon": 115.298447,
+			"lat": 25.695801
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qimeng",
+		"_id": 1797971,
+		"coord": {
+			"lon": 108.999443,
+			"lat": 26.48472
+		}
+	},
+	{
+		"country": "EG",
+		"name": "Qina",
+		"_id": 350550,
+		"coord": {
+			"lon": 32.726711,
+			"lat": 26.164181
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qincheng",
+		"_id": 1797959,
+		"coord": {
+			"lon": 116.530083,
+			"lat": 27.2127
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qindu",
+		"_id": 7063959,
+		"coord": {
+			"lon": 108.708237,
+			"lat": 34.341862
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qindu",
+		"_id": 1797955,
+		"coord": {
+			"lon": 108.750832,
+			"lat": 34.102501
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinganping",
+		"_id": 1928037,
+		"coord": {
+			"lon": 110.155037,
+			"lat": 29.28083
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingban",
+		"_id": 7064497,
+		"coord": {
+			"lon": 117.572021,
+			"lat": 28.509541
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingcheng",
+		"_id": 1797656,
+		"coord": {
+			"lon": 107.885483,
+			"lat": 35.998901
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingchengzi",
+		"_id": 2035332,
+		"coord": {
+			"lon": 123.605003,
+			"lat": 40.730282
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingciyao",
+		"_id": 1797934,
+		"coord": {
+			"lon": 113.767609,
+			"lat": 39.619831
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingcun",
+		"_id": 1797933,
+		"coord": {
+			"lon": 121.579941,
+			"lat": 30.92473
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingdao",
+		"_id": 1797929,
+		"coord": {
+			"lon": 120.371941,
+			"lat": 36.09861
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingduizi",
+		"_id": 2035328,
+		"coord": {
+			"lon": 121.908478,
+			"lat": 41.44561
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingfu",
+		"_id": 1797915,
+		"coord": {
+			"lon": 104.51622,
+			"lat": 28.43701
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinggang",
+		"_id": 2035325,
+		"coord": {
+			"lon": 126.083328,
+			"lat": 46.683331
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinggilik",
+		"_id": 1280240,
+		"coord": {
+			"lon": 84.533333,
+			"lat": 37.833328
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinggis Han",
+		"_id": 2035322,
+		"coord": {
+			"lon": 122.833328,
+			"lat": 47.75
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinggou",
+		"_id": 8035493,
+		"coord": {
+			"lon": 119.398849,
+			"lat": 33.704021
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingguang",
+		"_id": 1797905,
+		"coord": {
+			"lon": 117.026672,
+			"lat": 39.195
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghai Sheng",
+		"_id": 1280239,
+		"coord": {
+			"lon": 96,
+			"lat": 36
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghe",
+		"_id": 2035319,
+		"coord": {
+			"lon": 125.92865,
+			"lat": 41.43874
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghe",
+		"_id": 7069748,
+		"coord": {
+			"lon": 112.905312,
+			"lat": 33.250679
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghecheng",
+		"_id": 2035311,
+		"coord": {
+			"lon": 124.225212,
+			"lat": 41.454601
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghu",
+		"_id": 7064530,
+		"coord": {
+			"lon": 117.351631,
+			"lat": 28.34532
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghua",
+		"_id": 1797883,
+		"coord": {
+			"lon": 107.836311,
+			"lat": 34.42569
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghua",
+		"_id": 1797884,
+		"coord": {
+			"lon": 108.028542,
+			"lat": 34.18409
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghua",
+		"_id": 1797886,
+		"coord": {
+			"lon": 117.774338,
+			"lat": 29.41901
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinghua",
+		"_id": 7886497,
+		"coord": {
+			"lon": 122.211777,
+			"lat": 40.66431
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingjiang",
+		"_id": 1797875,
+		"coord": {
+			"lon": 114.78714,
+			"lat": 29.19211
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingjiangqiao",
+		"_id": 1797870,
+		"coord": {
+			"lon": 110.985283,
+			"lat": 26.604441
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingjiangyi",
+		"_id": 1899294,
+		"coord": {
+			"lon": 105.439178,
+			"lat": 35.677391
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingkeng",
+		"_id": 1920434,
+		"coord": {
+			"lon": 112.90612,
+			"lat": 24.42
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingkou",
+		"_id": 1797859,
+		"coord": {
+			"lon": 119.108353,
+			"lat": 34.848282
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinglang",
+		"_id": 1797676,
+		"coord": {
+			"lon": 108.73278,
+			"lat": 27.12472
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinglian",
+		"_id": 1797852,
+		"coord": {
+			"lon": 112.755363,
+			"lat": 24.461081
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingliangfeng",
+		"_id": 7679862,
+		"coord": {
+			"lon": 119.028313,
+			"lat": 30.139339
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinglin",
+		"_id": 1928454,
+		"coord": {
+			"lon": 111.468903,
+			"lat": 28.95426
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinglin",
+		"_id": 6912413,
+		"coord": {
+			"lon": 106.034576,
+			"lat": 32.775909
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinglong",
+		"_id": 1553833,
+		"coord": {
+			"lon": 118.900002,
+			"lat": 30.620831
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinglong",
+		"_id": 1797836,
+		"coord": {
+			"lon": 102.982498,
+			"lat": 24.44278
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingminghe",
+		"_id": 7653971,
+		"coord": {
+			"lon": 113.689171,
+			"lat": 31.03537
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingnianlu",
+		"_id": 1799009,
+		"coord": {
+			"lon": 103.098061,
+			"lat": 24.223061
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingping",
+		"_id": 7059716,
+		"coord": {
+			"lon": 110.228081,
+			"lat": 29.02824
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingpu",
+		"_id": 1797798,
+		"coord": {
+			"lon": 121.114082,
+			"lat": 31.15394
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingqiaoyi",
+		"_id": 1797795,
+		"coord": {
+			"lon": 106.976173,
+			"lat": 33.328972
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingquan",
+		"_id": 1797793,
+		"coord": {
+			"lon": 115.255928,
+			"lat": 30.45113
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshan",
+		"_id": 1797767,
+		"coord": {
+			"lon": 116.697937,
+			"lat": 29.69416
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshan",
+		"_id": 1941584,
+		"coord": {
+			"lon": 120.683327,
+			"lat": 36.15472
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshan",
+		"_id": 2035297,
+		"coord": {
+			"lon": 126.89946,
+			"lat": 45.089149
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshan",
+		"_id": 7741545,
+		"coord": {
+			"lon": 114.019279,
+			"lat": 29.438881
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshanhu",
+		"_id": 1797782,
+		"coord": {
+			"lon": 119.81208,
+			"lat": 30.250601
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshi",
+		"_id": 2035289,
+		"coord": {
+			"lon": 126.512962,
+			"lat": 41.359379
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshiling",
+		"_id": 2035287,
+		"coord": {
+			"lon": 122.413986,
+			"lat": 40.475311
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshu",
+		"_id": 7407926,
+		"coord": {
+			"lon": 106.903236,
+			"lat": 32.936291
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshui",
+		"_id": 1797747,
+		"coord": {
+			"lon": 118.47686,
+			"lat": 31.31724
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshui",
+		"_id": 7064916,
+		"coord": {
+			"lon": 117.885391,
+			"lat": 28.546459
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshui",
+		"_id": 7343063,
+		"coord": {
+			"lon": 103.902748,
+			"lat": 34.459579
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshuihe",
+		"_id": 1797736,
+		"coord": {
+			"lon": 113.107841,
+			"lat": 39.721981
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshuiqiao",
+		"_id": 6422128,
+		"coord": {
+			"lon": 111.940277,
+			"lat": 25.872219
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingshuitang",
+		"_id": 1797805,
+		"coord": {
+			"lon": 109.06942,
+			"lat": 29.797689
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingsong",
+		"_id": 6862208,
+		"coord": {
+			"lon": 106.152748,
+			"lat": 30.79842
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingtang",
+		"_id": 1992517,
+		"coord": {
+			"lon": 110.047783,
+			"lat": 25.21056
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingtang",
+		"_id": 1797704,
+		"coord": {
+			"lon": 113.916672,
+			"lat": 24.200001
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingtang",
+		"_id": 1912824,
+		"coord": {
+			"lon": 115.862968,
+			"lat": 26.440821
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingtang",
+		"_id": 6422372,
+		"coord": {
+			"lon": 111.433891,
+			"lat": 25.50222
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingxi",
+		"_id": 1797677,
+		"coord": {
+			"lon": 110.359718,
+			"lat": 26.42861
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingxi",
+		"_id": 1797679,
+		"coord": {
+			"lon": 115.613922,
+			"lat": 25.22949
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingxi",
+		"_id": 1797680,
+		"coord": {
+			"lon": 114.155357,
+			"lat": 22.84894
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingxi",
+		"_id": 1916993,
+		"coord": {
+			"lon": 114.954018,
+			"lat": 23.53754
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingxi",
+		"_id": 7064594,
+		"coord": {
+			"lon": 117.863907,
+			"lat": 28.30447
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyang",
+		"_id": 1797645,
+		"coord": {
+			"lon": 120.247063,
+			"lat": 31.765949
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyang",
+		"_id": 1798688,
+		"coord": {
+			"lon": 113.417213,
+			"lat": 36.207119
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyangyi",
+		"_id": 1797646,
+		"coord": {
+			"lon": 106.390106,
+			"lat": 33.084431
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyu",
+		"_id": 1899371,
+		"coord": {
+			"lon": 107.178787,
+			"lat": 32.21571
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyuan",
+		"_id": 1797945,
+		"coord": {
+			"lon": 113.033333,
+			"lat": 23.700001
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyuan",
+		"_id": 1797630,
+		"coord": {
+			"lon": 112.325829,
+			"lat": 37.617481
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyun",
+		"_id": 1917521,
+		"coord": {
+			"lon": 113.176552,
+			"lat": 25.396641
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyun",
+		"_id": 1925117,
+		"coord": {
+			"lon": 116.924721,
+			"lat": 28.662081
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyun",
+		"_id": 7739012,
+		"coord": {
+			"lon": 116.356461,
+			"lat": 27.98538
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingyunqiao",
+		"_id": 1881670,
+		"coord": {
+			"lon": 120.610352,
+			"lat": 30.498119
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qingzhou",
+		"_id": 1786731,
+		"coord": {
+			"lon": 118.479721,
+			"lat": 36.696671
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinhe",
+		"_id": 1797554,
+		"coord": {
+			"lon": 112.324722,
+			"lat": 36.501389
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinhe",
+		"_id": 2000712,
+		"coord": {
+			"lon": 108.592781,
+			"lat": 34.92028
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinhuangdao",
+		"_id": 1797595,
+		"coord": {
+			"lon": 119.588333,
+			"lat": 39.931671
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinling Jieban",
+		"_id": 1910312,
+		"coord": {
+			"lon": 109.249283,
+			"lat": 34.38678
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinnan",
+		"_id": 1797575,
+		"coord": {
+			"lon": 119.91333,
+			"lat": 33.253059
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinshan",
+		"_id": 7735275,
+		"coord": {
+			"lon": 120.923058,
+			"lat": 30.43457
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinxi",
+		"_id": 1552304,
+		"coord": {
+			"lon": 118.491058,
+			"lat": 30.729429
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinxu",
+		"_id": 7343039,
+		"coord": {
+			"lon": 103.994408,
+			"lat": 34.36768
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qinzhou",
+		"_id": 1797551,
+		"coord": {
+			"lon": 108.616669,
+			"lat": 21.950001
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiongshan",
+		"_id": 1797535,
+		"coord": {
+			"lon": 110.354172,
+			"lat": 20.005831
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiongxi",
+		"_id": 1797537,
+		"coord": {
+			"lon": 102.542938,
+			"lat": 32.792721
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiping",
+		"_id": 1797524,
+		"coord": {
+			"lon": 114.204407,
+			"lat": 28.665489
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiqihar",
+		"_id": 2035265,
+		"coord": {
+			"lon": 123.967216,
+			"lat": 47.340832
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiqin",
+		"_id": 1797519,
+		"coord": {
+			"lon": 115.605087,
+			"lat": 27.70569
+		}
+	},
+	{
+		"country": "JO",
+		"name": "Qir Moav",
+		"_id": 250624,
+		"coord": {
+			"lon": 35.699989,
+			"lat": 31.18248
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qirah",
+		"_id": 282342,
+		"coord": {
+			"lon": 35.17173,
+			"lat": 32.122139
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qirmizi Bazar",
+		"_id": 147695,
+		"coord": {
+			"lon": 46.948841,
+			"lat": 39.678329
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qiryat Arba‘",
+		"_id": 282340,
+		"coord": {
+			"lon": 35.118969,
+			"lat": 31.528379
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Ata",
+		"_id": 293845,
+		"coord": {
+			"lon": 35.106392,
+			"lat": 32.80056
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Bialik",
+		"_id": 293844,
+		"coord": {
+			"lon": 35.085831,
+			"lat": 32.827499
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Gat",
+		"_id": 293842,
+		"coord": {
+			"lon": 34.764221,
+			"lat": 31.60998
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat H̱ayyim",
+		"_id": 293836,
+		"coord": {
+			"lon": 35.05611,
+			"lat": 32.83194
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Motzkin",
+		"_id": 293831,
+		"coord": {
+			"lon": 35.075279,
+			"lat": 32.836391
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Ono",
+		"_id": 293977,
+		"coord": {
+			"lon": 34.866669,
+			"lat": 32.022221
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Shemona",
+		"_id": 293825,
+		"coord": {
+			"lon": 35.572121,
+			"lat": 33.207329
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Shemu’el",
+		"_id": 293824,
+		"coord": {
+			"lon": 35.064442,
+			"lat": 32.838058
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Tiv‘on",
+		"_id": 293823,
+		"coord": {
+			"lon": 35.12722,
+			"lat": 32.723888
+		}
+	},
+	{
+		"country": "IL",
+		"name": "Qiryat Yam",
+		"_id": 293822,
+		"coord": {
+			"lon": 35.070278,
+			"lat": 32.85083
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qishan",
+		"_id": 1797972,
+		"coord": {
+			"lon": 117.719368,
+			"lat": 29.844311
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qishi",
+		"_id": 1797501,
+		"coord": {
+			"lon": 114.01236,
+			"lat": 23.0681
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qishi",
+		"_id": 1916282,
+		"coord": {
+			"lon": 116.123833,
+			"lat": 22.917561
+		}
+	},
+	{
+		"country": "YE",
+		"name": "Qishn",
+		"_id": 71834,
+		"coord": {
+			"lon": 51.681389,
+			"lat": 15.42278
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qishuba",
+		"_id": 7407964,
+		"coord": {
+			"lon": 106.59285,
+			"lat": 32.957951
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qitai",
+		"_id": 2035032,
+		"coord": {
+			"lon": 113.53389,
+			"lat": 41.549438
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qitaihe",
+		"_id": 2035261,
+		"coord": {
+			"lon": 130.850006,
+			"lat": 45.799999
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qitao",
+		"_id": 1797487,
+		"coord": {
+			"lon": 119.849998,
+			"lat": 34.166672
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qitao",
+		"_id": 1922280,
+		"coord": {
+			"lon": 117.868813,
+			"lat": 26.052401
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiuai",
+		"_id": 1797479,
+		"coord": {
+			"lon": 121.631607,
+			"lat": 29.85198
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiuchang",
+		"_id": 1916226,
+		"coord": {
+			"lon": 114.425858,
+			"lat": 22.821529
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiuchuan",
+		"_id": 1797476,
+		"coord": {
+			"lon": 118.316673,
+			"lat": 28.866671
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiucun",
+		"_id": 1552492,
+		"coord": {
+			"lon": 119.439491,
+			"lat": 31.01408
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiucun",
+		"_id": 1797475,
+		"coord": {
+			"lon": 121.621391,
+			"lat": 29.604441
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiujia",
+		"_id": 2038117,
+		"coord": {
+			"lon": 124.072617,
+			"lat": 43.117359
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiujiang",
+		"_id": 7469573,
+		"coord": {
+			"lon": 117.774879,
+			"lat": 26.39267
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiujin",
+		"_id": 1797466,
+		"coord": {
+			"lon": 115.678947,
+			"lat": 29.169439
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiukou",
+		"_id": 1797465,
+		"coord": {
+			"lon": 117.899643,
+			"lat": 29.34701
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiuxi",
+		"_id": 1797451,
+		"coord": {
+			"lon": 116.271797,
+			"lat": 27.84877
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qixia",
+		"_id": 1797438,
+		"coord": {
+			"lon": 120.825562,
+			"lat": 37.297501
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qixia",
+		"_id": 1917184,
+		"coord": {
+			"lon": 114.034439,
+			"lat": 24.189171
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qixian",
+		"_id": 1790755,
+		"coord": {
+			"lon": 120.537064,
+			"lat": 30.12248
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qixing",
+		"_id": 7735289,
+		"coord": {
+			"lon": 120.812057,
+			"lat": 30.813551
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qixingtai",
+		"_id": 7696232,
+		"coord": {
+			"lon": 111.88739,
+			"lat": 30.413549
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qixu",
+		"_id": 7526456,
+		"coord": {
+			"lon": 120.014671,
+			"lat": 32.02739
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qiying",
+		"_id": 1797414,
+		"coord": {
+			"lon": 106.148621,
+			"lat": 36.503239
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qizhen",
+		"_id": 1797404,
+		"coord": {
+			"lon": 107.7136,
+			"lat": 34.210621
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qizhou",
+		"_id": 1797402,
+		"coord": {
+			"lon": 115.333328,
+			"lat": 30.066669
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qizilhacili",
+		"_id": 585666,
+		"coord": {
+			"lon": 46.840981,
+			"lat": 40.574558
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qizili",
+		"_id": 1797398,
+		"coord": {
+			"lon": 118.740578,
+			"lat": 30.001699
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qiziltepa",
+		"_id": 1513288,
+		"coord": {
+			"lon": 64.849998,
+			"lat": 40.033058
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qiziltepa Shahri",
+		"_id": 1538233,
+		"coord": {
+			"lon": 64.82885,
+			"lat": 40.025398
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qizilābād",
+		"_id": 1129070,
+		"coord": {
+			"lon": 67.19574,
+			"lat": 36.7201
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qobu",
+		"_id": 585838,
+		"coord": {
+			"lon": 49.713058,
+			"lat": 40.40472
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qobustan",
+		"_id": 585223,
+		"coord": {
+			"lon": 49.412048,
+			"lat": 40.082378
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qom",
+		"_id": 119208,
+		"coord": {
+			"lon": 50.8764,
+			"lat": 34.640099
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qongirot Shahri",
+		"_id": 829955,
+		"coord": {
+			"lon": 58.845959,
+			"lat": 43.052071
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qoqon",
+		"_id": 1512979,
+		"coord": {
+			"lon": 70.942497,
+			"lat": 40.52861
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qoraozak",
+		"_id": 1513733,
+		"coord": {
+			"lon": 60.01701,
+			"lat": 43.022072
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qorashina",
+		"_id": 1346480,
+		"coord": {
+			"lon": 66.563423,
+			"lat": 38.34185
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qorghas",
+		"_id": 1522684,
+		"coord": {
+			"lon": 80.38028,
+			"lat": 44.224998
+		}
+	},
+	{
+		"country": "MT",
+		"name": "Qormi",
+		"_id": 2562629,
+		"coord": {
+			"lon": 14.472,
+			"lat": 35.876011
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qorovulbozor",
+		"_id": 1217035,
+		"coord": {
+			"lon": 64.79361,
+			"lat": 39.500561
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qorovulbozor Shahri",
+		"_id": 1346442,
+		"coord": {
+			"lon": 64.811417,
+			"lat": 39.503078
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Qorveh",
+		"_id": 119161,
+		"coord": {
+			"lon": 47.804501,
+			"lat": 35.166401
+		}
+	},
+	{
+		"country": "SO",
+		"name": "Qoryooley",
+		"_id": 52867,
+		"coord": {
+			"lon": 44.529991,
+			"lat": 1.78784
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qostanay",
+		"_id": 1519928,
+		"coord": {
+			"lon": 63.583328,
+			"lat": 53.166672
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qostanay Oblysy",
+		"_id": 1521671,
+		"coord": {
+			"lon": 64,
+			"lat": 51.5
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qozonketkan",
+		"_id": 601351,
+		"coord": {
+			"lon": 59.36425,
+			"lat": 43.01907
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Qquea",
+		"_id": 3953762,
+		"coord": {
+			"lon": -71.385834,
+			"lat": -14.05417
+		}
+	},
+	{
+		"country": "MT",
+		"name": "Qrendi",
+		"_id": 2562622,
+		"coord": {
+			"lon": 14.45833,
+			"lat": 35.834721
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Qu'Appelle",
+		"_id": 6114889,
+		"coord": {
+			"lon": -103.884361,
+			"lat": 50.550072
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quaal",
+		"_id": 2851538,
+		"coord": {
+			"lon": 11.3,
+			"lat": 53.833328
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quaal",
+		"_id": 2851536,
+		"coord": {
+			"lon": 10.96667,
+			"lat": 54.23333
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quaama",
+		"_id": 2152337,
+		"coord": {
+			"lon": 149.866669,
+			"lat": -36.466671
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quadrath-Ichendorf",
+		"_id": 2851525,
+		"coord": {
+			"lon": 6.67943,
+			"lat": 50.933552
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quadrelle",
+		"_id": 3169734,
+		"coord": {
+			"lon": 14.63934,
+			"lat": 40.948509
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quadri",
+		"_id": 3169732,
+		"coord": {
+			"lon": 14.28822,
+			"lat": 41.924931
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quaedypre",
+		"_id": 2984883,
+		"coord": {
+			"lon": 2.45445,
+			"lat": 50.935268
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quagliuzzo",
+		"_id": 3169725,
+		"coord": {
+			"lon": 7.78162,
+			"lat": 45.426762
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quail Valley",
+		"_id": 5385346,
+		"coord": {
+			"lon": -117.245041,
+			"lat": 33.70697
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quairading",
+		"_id": 7839631,
+		"coord": {
+			"lon": 117.398354,
+			"lat": -32.014622
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quairading",
+		"_id": 2062829,
+		"coord": {
+			"lon": 117.416672,
+			"lat": -32.01667
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quakenbruck",
+		"_id": 2851523,
+		"coord": {
+			"lon": 7.95,
+			"lat": 52.683331
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quakers Hill",
+		"_id": 2152329,
+		"coord": {
+			"lon": 150.883331,
+			"lat": -33.73333
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quakertown",
+		"_id": 5207381,
+		"coord": {
+			"lon": -75.341568,
+			"lat": 40.441769
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Qualeup",
+		"_id": 2062823,
+		"coord": {
+			"lon": 116.800003,
+			"lat": -33.833328
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Qualiano",
+		"_id": 6537346,
+		"coord": {
+			"lon": 14.15013,
+			"lat": 40.922611
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Qualiano",
+		"_id": 3169724,
+		"coord": {
+			"lon": 14.15013,
+			"lat": 40.922611
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Qualicum Beach",
+		"_id": 6114862,
+		"coord": {
+			"lon": -124.436058,
+			"lat": 49.346828
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quambatook",
+		"_id": 2152328,
+		"coord": {
+			"lon": 143.533325,
+			"lat": -35.849998
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quambone",
+		"_id": 2152326,
+		"coord": {
+			"lon": 147.866669,
+			"lat": -30.933331
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quamby Brook",
+		"_id": 2152320,
+		"coord": {
+			"lon": 146.716675,
+			"lat": -41.583328
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quanah",
+		"_id": 4721023,
+		"coord": {
+			"lon": -99.740372,
+			"lat": 34.297859
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanan",
+		"_id": 1917443,
+		"coord": {
+			"lon": 114.249168,
+			"lat": 25.138611
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanbo",
+		"_id": 7066232,
+		"coord": {
+			"lon": 118.334213,
+			"lat": 28.38077
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quandialla",
+		"_id": 2152314,
+		"coord": {
+			"lon": 147.783325,
+			"lat": -34.01667
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanfeng",
+		"_id": 7745046,
+		"coord": {
+			"lon": 114.070137,
+			"lat": 29.12879
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanfu",
+		"_id": 1799899,
+		"coord": {
+			"lon": 120.220169,
+			"lat": 29.103901
+		}
+	},
+	{
+		"country": "VN",
+		"name": "Quang Ngai",
+		"_id": 1568770,
+		"coord": {
+			"lon": 108.800003,
+			"lat": 15.11667
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quangang",
+		"_id": 1797385,
+		"coord": {
+			"lon": 115.596581,
+			"lat": 28.155939
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quangou",
+		"_id": 2036196,
+		"coord": {
+			"lon": 124.261208,
+			"lat": 43.18198
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quankou",
+		"_id": 7746302,
+		"coord": {
+			"lon": 115.027519,
+			"lat": 29.49856
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanling",
+		"_id": 1925122,
+		"coord": {
+			"lon": 116.072021,
+			"lat": 28.377991
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanshang",
+		"_id": 1797368,
+		"coord": {
+			"lon": 116.962357,
+			"lat": 26.41922
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanshui",
+		"_id": 7330032,
+		"coord": {
+			"lon": 104.78714,
+			"lat": 33.850128
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quantang",
+		"_id": 1896758,
+		"coord": {
+			"lon": 121.223892,
+			"lat": 30.682079
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quantico Station",
+		"_id": 7258517,
+		"coord": {
+			"lon": -77.318336,
+			"lat": 38.522629
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quantou",
+		"_id": 2035237,
+		"coord": {
+			"lon": 124.170319,
+			"lat": 42.865372
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanyang",
+		"_id": 2035234,
+		"coord": {
+			"lon": 127.54528,
+			"lat": 42.351669
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanzhai",
+		"_id": 1797355,
+		"coord": {
+			"lon": 113.85836,
+			"lat": 33.442459
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanzhou",
+		"_id": 1797353,
+		"coord": {
+			"lon": 118.585831,
+			"lat": 24.913891
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quanzhou",
+		"_id": 1797352,
+		"coord": {
+			"lon": 111.0364,
+			"lat": 25.944599
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quao",
+		"_id": 7413715,
+		"coord": {
+			"lon": 102.878448,
+			"lat": 35.366489
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quaqtaq",
+		"_id": 6114894,
+		"coord": {
+			"lon": -69.614723,
+			"lat": 61.033749
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quarai",
+		"_id": 3452179,
+		"coord": {
+			"lon": -56.451389,
+			"lat": -30.387501
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quarante",
+		"_id": 6432603,
+		"coord": {
+			"lon": 2.96667,
+			"lat": 43.349998
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quarante",
+		"_id": 2984879,
+		"coord": {
+			"lon": 2.96228,
+			"lat": 43.347111
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quaranti",
+		"_id": 6534340,
+		"coord": {
+			"lon": 8.44914,
+			"lat": 44.75095
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quaregna",
+		"_id": 6535683,
+		"coord": {
+			"lon": 8.16372,
+			"lat": 45.581161
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quaregnon",
+		"_id": 2788499,
+		"coord": {
+			"lon": 3.8653,
+			"lat": 50.44067
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quaregnon",
+		"_id": 2788500,
+		"coord": {
+			"lon": 3.86702,
+			"lat": 50.441711
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quargnento",
+		"_id": 3169716,
+		"coord": {
+			"lon": 8.48704,
+			"lat": 44.94495
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarmbeck",
+		"_id": 3207094,
+		"coord": {
+			"lon": 11.13333,
+			"lat": 51.76667
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarna Sopra",
+		"_id": 3169715,
+		"coord": {
+			"lon": 8.37262,
+			"lat": 45.873669
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarna Sotto",
+		"_id": 6535382,
+		"coord": {
+			"lon": 8.36332,
+			"lat": 45.869171
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarnbek",
+		"_id": 6551905,
+		"coord": {
+			"lon": 9.98333,
+			"lat": 54.333302
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarnbek",
+		"_id": 2851502,
+		"coord": {
+			"lon": 9.98333,
+			"lat": 54.333328
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarnstedt",
+		"_id": 2851500,
+		"coord": {
+			"lon": 11.47024,
+			"lat": 53.02655
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarnstedt",
+		"_id": 6552234,
+		"coord": {
+			"lon": 9.78736,
+			"lat": 53.954849
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarnstedt",
+		"_id": 2851499,
+		"coord": {
+			"lon": 9.78736,
+			"lat": 53.954849
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarona",
+		"_id": 3169714,
+		"coord": {
+			"lon": 8.26572,
+			"lat": 45.75787
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quarouble",
+		"_id": 6438425,
+		"coord": {
+			"lon": 3.61667,
+			"lat": 50.383331
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quarouble",
+		"_id": 2984874,
+		"coord": {
+			"lon": 3.62306,
+			"lat": 50.386341
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarrata",
+		"_id": 6540468,
+		"coord": {
+			"lon": 10.98072,
+			"lat": 43.84985
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarrata",
+		"_id": 3169713,
+		"coord": {
+			"lon": 10.98072,
+			"lat": 43.84985
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quarrendorf",
+		"_id": 2851498,
+		"coord": {
+			"lon": 10.03333,
+			"lat": 53.283329
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quarry St. Anns",
+		"_id": 6114942,
+		"coord": {
+			"lon": -60.648479,
+			"lat": 46.250141
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quarryville",
+		"_id": 6114943,
+		"coord": {
+			"lon": -65.782051,
+			"lat": 46.833401
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quarryville",
+		"_id": 4560577,
+		"coord": {
+			"lon": -76.163567,
+			"lat": 39.897049
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quart",
+		"_id": 6534109,
+		"coord": {
+			"lon": 2.88184,
+			"lat": 41.95182
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quart",
+		"_id": 3169712,
+		"coord": {
+			"lon": 7.4152,
+			"lat": 45.740959
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quart dOnyar",
+		"_id": 3112615,
+		"coord": {
+			"lon": 2.84079,
+			"lat": 41.940472
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quart de Poblet",
+		"_id": 6361967,
+		"coord": {
+			"lon": -0.44246,
+			"lat": 39.481651
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quart de Poblet",
+		"_id": 2519068,
+		"coord": {
+			"lon": -0.43937,
+			"lat": 39.481392
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quart de les Valls",
+		"_id": 2519069,
+		"coord": {
+			"lon": -0.26667,
+			"lat": 39.73333
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quarteira",
+		"_id": 8012006,
+		"coord": {
+			"lon": -8.10469,
+			"lat": 37.08514
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quarteira",
+		"_id": 2264299,
+		"coord": {
+			"lon": -8.10064,
+			"lat": 37.069462
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quartel Geral",
+		"_id": 3452170,
+		"coord": {
+			"lon": -45.55722,
+			"lat": -19.273609
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quartell",
+		"_id": 2519066,
+		"coord": {
+			"lon": -0.26667,
+			"lat": 39.73333
+		}
+	},
+	{
+		"country": "CH",
+		"name": "Quarten",
+		"_id": 7286845,
+		"coord": {
+			"lon": 9.22094,
+			"lat": 47.084332
+		}
+	},
+	{
+		"country": "CH",
+		"name": "Quarten",
+		"_id": 2659122,
+		"coord": {
+			"lon": 9.23401,
+			"lat": 47.100159
+		}
+	},
+	{
+		"country": "LC",
+		"name": "Quarter of Castries",
+		"_id": 3576810,
+		"coord": {
+			"lon": -60.966671,
+			"lat": 13.98333
+		}
+	},
+	{
+		"country": "LC",
+		"name": "Quarter of Gros-Islet",
+		"_id": 3576685,
+		"coord": {
+			"lon": -60.950001,
+			"lat": 14.05
+		}
+	},
+	{
+		"country": "LC",
+		"name": "Quarter of Vieux-Fort",
+		"_id": 3576413,
+		"coord": {
+			"lon": -60.966671,
+			"lat": 13.78333
+		}
+	},
+	{
+		"country": "MF",
+		"name": "Quartier D’Orleans Sud",
+		"_id": 6985378,
+		"coord": {
+			"lon": -63.033539,
+			"lat": 18.069111
+		}
+	},
+	{
+		"country": "MQ",
+		"name": "Quartier Gillot",
+		"_id": 3570058,
+		"coord": {
+			"lon": -60.900002,
+			"lat": 14.6
+		}
+	},
+	{
+		"country": "MU",
+		"name": "Quartier Militaire",
+		"_id": 934133,
+		"coord": {
+			"lon": 57.589169,
+			"lat": -20.243891
+		}
+	},
+	{
+		"country": "HT",
+		"name": "Quartier Morin",
+		"_id": 3718278,
+		"coord": {
+			"lon": -72.156937,
+			"lat": 19.696671
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarto",
+		"_id": 6542330,
+		"coord": {
+			"lon": 14.13943,
+			"lat": 40.876808
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarto",
+		"_id": 6534256,
+		"coord": {
+			"lon": 14.13943,
+			"lat": 40.876808
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarto d'Altino",
+		"_id": 6538320,
+		"coord": {
+			"lon": 12.37172,
+			"lat": 45.577702
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quarto dAltino",
+		"_id": 3169700,
+		"coord": {
+			"lon": 12.37333,
+			"lat": 45.579441
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quartu Sant'Elena",
+		"_id": 6542141,
+		"coord": {
+			"lon": 9.1832,
+			"lat": 39.242001
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quartu SantElena",
+		"_id": 2523665,
+		"coord": {
+			"lon": 9.18389,
+			"lat": 39.24194
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quartucciu",
+		"_id": 2523666,
+		"coord": {
+			"lon": 9.17944,
+			"lat": 39.251942
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quartz Hill",
+		"_id": 5385393,
+		"coord": {
+			"lon": -118.218132,
+			"lat": 34.64526
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quartzsite",
+		"_id": 5310183,
+		"coord": {
+			"lon": -114.22995,
+			"lat": 33.66391
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quaschwitz",
+		"_id": 6550467,
+		"coord": {
+			"lon": 11.7,
+			"lat": 50.6833
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quaschwitz",
+		"_id": 2851493,
+		"coord": {
+			"lon": 11.7,
+			"lat": 50.683331
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quassel",
+		"_id": 2851491,
+		"coord": {
+			"lon": 11.08333,
+			"lat": 53.333328
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quassolo",
+		"_id": 3169690,
+		"coord": {
+			"lon": 7.83232,
+			"lat": 45.522861
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quata",
+		"_id": 3452167,
+		"coord": {
+			"lon": -50.69833,
+			"lat": -22.247499
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quathiaski Cove",
+		"_id": 7290266,
+		"coord": {
+			"lon": -125.217529,
+			"lat": 50.052681
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quatis",
+		"_id": 3452148,
+		"coord": {
+			"lon": -44.25806,
+			"lat": -22.407221
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quatitz",
+		"_id": 2851478,
+		"coord": {
+			"lon": 14.45,
+			"lat": 51.23333
+		}
+	},
+	{
+		"country": "MU",
+		"name": "Quatre Bornes",
+		"_id": 934131,
+		"coord": {
+			"lon": 57.471939,
+			"lat": -20.264441
+		}
+	},
+	{
+		"country": "MU",
+		"name": "Quatre Cocos",
+		"_id": 1106643,
+		"coord": {
+			"lon": 57.762501,
+			"lat": -20.207781
+		}
+	},
+	{
+		"country": "MU",
+		"name": "Quatre Soeurs",
+		"_id": 934127,
+		"coord": {
+			"lon": 57.770561,
+			"lat": -20.29917
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quatretonda",
+		"_id": 6361969,
+		"coord": {
+			"lon": -0.39547,
+			"lat": 38.96302
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quatretonda",
+		"_id": 2519061,
+		"coord": {
+			"lon": -0.4,
+			"lat": 38.950001
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quatro Barras",
+		"_id": 3452141,
+		"coord": {
+			"lon": -49.076939,
+			"lat": -25.365561
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quatro Pontes",
+		"_id": 3452137,
+		"coord": {
+			"lon": -53.97694,
+			"lat": -24.575001
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quattordio",
+		"_id": 3169688,
+		"coord": {
+			"lon": 8.40494,
+			"lat": 44.896351
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quattro Castella",
+		"_id": 3169687,
+		"coord": {
+			"lon": 10.47429,
+			"lat": 44.63496
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quay County",
+		"_id": 5485605,
+		"coord": {
+			"lon": -103.542221,
+			"lat": 35.041672
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quaëdypre",
+		"_id": 6438424,
+		"coord": {
+			"lon": 2.46667,
+			"lat": 50.933331
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Quba",
+		"_id": 585221,
+		"coord": {
+			"lon": 48.51519,
+			"lat": 41.362591
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Quba Rayon",
+		"_id": 585786,
+		"coord": {
+			"lon": 48.416672,
+			"lat": 41.166672
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qubadli",
+		"_id": 147305,
+		"coord": {
+			"lon": 46.581959,
+			"lat": 39.34396
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qubadli Rayon",
+		"_id": 147694,
+		"coord": {
+			"lon": 46.583328,
+			"lat": 39.333328
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Quballat",
+		"_id": 2467980,
+		"coord": {
+			"lon": 9.66334,
+			"lat": 36.541779
+		}
+	},
+	{
+		"country": "TJ",
+		"name": "Qubodiyon",
+		"_id": 1221583,
+		"coord": {
+			"lon": 68.186333,
+			"lat": 37.411442
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qubucangka",
+		"_id": 7384129,
+		"coord": {
+			"lon": 100.442871,
+			"lat": 35.60009
+		}
+	},
+	{
+		"country": "IR",
+		"name": "Quchan",
+		"_id": 119115,
+		"coord": {
+			"lon": 58.509548,
+			"lat": 37.105999
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Quchanghi",
+		"_id": 1129013,
+		"coord": {
+			"lon": 66.275833,
+			"lat": 34.061668
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qucun",
+		"_id": 1797342,
+		"coord": {
+			"lon": 111.545029,
+			"lat": 35.733341
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Queanbeyan",
+		"_id": 7839766,
+		"coord": {
+			"lon": 149.228378,
+			"lat": -35.419651
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Queanbeyan",
+		"_id": 2152286,
+		"coord": {
+			"lon": 149.233337,
+			"lat": -35.349998
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quebec",
+		"_id": 6325494,
+		"coord": {
+			"lon": -71.214539,
+			"lat": 46.812279
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quebiauan",
+		"_id": 1692241,
+		"coord": {
+			"lon": 120.683327,
+			"lat": 15.03333
+		}
+	},
+	{
+		"country": "GW",
+		"name": "Quebo",
+		"_id": 2370473,
+		"coord": {
+			"lon": -14.93333,
+			"lat": 11.33333
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quebra Dentes",
+		"_id": 3452120,
+		"coord": {
+			"lon": -49.216671,
+			"lat": -27.683331
+		}
+	},
+	{
+		"country": "UY",
+		"name": "Quebracho",
+		"_id": 3440925,
+		"coord": {
+			"lon": -57.883331,
+			"lat": -31.950001
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quebracho Herrado",
+		"_id": 3839801,
+		"coord": {
+			"lon": -62.2262,
+			"lat": -31.54891
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quebrada",
+		"_id": 6380342,
+		"coord": {
+			"lon": -77.60083,
+			"lat": -9.35111
+		}
+	},
+	{
+		"country": "PR",
+		"name": "Quebrada",
+		"_id": 4566997,
+		"coord": {
+			"lon": -66.832123,
+			"lat": 18.356621
+		}
+	},
+	{
+		"country": "PA",
+		"name": "Quebrada Bonita Adentro",
+		"_id": 3702276,
+		"coord": {
+			"lon": -79.699997,
+			"lat": 9.3
+		}
+	},
+	{
+		"country": "PA",
+		"name": "Quebrada Canoa",
+		"_id": 3702269,
+		"coord": {
+			"lon": -81.783333,
+			"lat": 8.43333
+		}
+	},
+	{
+		"country": "CR",
+		"name": "Quebrada Honda",
+		"_id": 3622205,
+		"coord": {
+			"lon": -85.298622,
+			"lat": 10.18617
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quebrada Larga",
+		"_id": 3603041,
+		"coord": {
+			"lon": -86.366669,
+			"lat": 14.1
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quebrada Seca",
+		"_id": 3603028,
+		"coord": {
+			"lon": -87.949997,
+			"lat": 15.66667
+		}
+	},
+	{
+		"country": "VE",
+		"name": "Quebrada Seca",
+		"_id": 3629490,
+		"coord": {
+			"lon": -70.319412,
+			"lat": 8.70015
+		}
+	},
+	{
+		"country": "CR",
+		"name": "Quebrada Yeguas",
+		"_id": 3622196,
+		"coord": {
+			"lon": -84.150002,
+			"lat": 9.95
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quebrada de Arena",
+		"_id": 3603097,
+		"coord": {
+			"lon": -85.916672,
+			"lat": 15.76667
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quebradanegra",
+		"_id": 3671161,
+		"coord": {
+			"lon": -74.479439,
+			"lat": 5.11737
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quebradas",
+		"_id": 3603035,
+		"coord": {
+			"lon": -87.349998,
+			"lat": 14.5
+		}
+	},
+	{
+		"country": "PR",
+		"name": "Quebradillas",
+		"_id": 4567552,
+		"coord": {
+			"lon": -66.938507,
+			"lat": 18.473829
+		}
+	},
+	{
+		"country": "PR",
+		"name": "Quebradillas Municipio",
+		"_id": 4567734,
+		"coord": {
+			"lon": -66.924622,
+			"lat": 18.439671
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quebrangulo",
+		"_id": 3391090,
+		"coord": {
+			"lon": -36.471111,
+			"lat": -9.31889
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quebriac",
+		"_id": 2984853,
+		"coord": {
+			"lon": -1.82723,
+			"lat": 48.34444
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Quecholac",
+		"_id": 3520926,
+		"coord": {
+			"lon": -97.666672,
+			"lat": 18.950001
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Quechultenango",
+		"_id": 3520922,
+		"coord": {
+			"lon": -99.216667,
+			"lat": 17.41667
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queck",
+		"_id": 2851474,
+		"coord": {
+			"lon": 9.58333,
+			"lat": 50.716671
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queckborn",
+		"_id": 2851473,
+		"coord": {
+			"lon": 8.93333,
+			"lat": 50.566669
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queckhain",
+		"_id": 2851467,
+		"coord": {
+			"lon": 13.96667,
+			"lat": 51.133331
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quedantang",
+		"_id": 1801298,
+		"coord": {
+			"lon": 100.60006,
+			"lat": 35.650219
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quedillac",
+		"_id": 2984852,
+		"coord": {
+			"lon": -2.1424,
+			"lat": 48.249039
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quedlinburg",
+		"_id": 2851465,
+		"coord": {
+			"lon": 11.15,
+			"lat": 51.783329
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queen City",
+		"_id": 5056965,
+		"coord": {
+			"lon": -92.567688,
+			"lat": 40.409199
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queen City",
+		"_id": 4721041,
+		"coord": {
+			"lon": -94.150192,
+			"lat": 33.148739
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queen Creek",
+		"_id": 5310193,
+		"coord": {
+			"lon": -111.6343,
+			"lat": 33.248661
+		}
+	},
+	{
+		"country": "MU",
+		"name": "Queen Victoria",
+		"_id": 934126,
+		"coord": {
+			"lon": 57.7075,
+			"lat": -20.219999
+		}
+	},
+	{
+		"country": "GB",
+		"name": "Queenborough",
+		"_id": 2639796,
+		"coord": {
+			"lon": 0.74767,
+			"lat": 51.416199
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queens County",
+		"_id": 5133268,
+		"coord": {
+			"lon": -73.799583,
+			"lat": 40.7001
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queensbridge Houses",
+		"_id": 6332485,
+		"coord": {
+			"lon": -73.945,
+			"lat": 40.75528
+		}
+	},
+	{
+		"country": "ZA",
+		"name": "Queensburgh",
+		"_id": 963528,
+		"coord": {
+			"lon": 30.906429,
+			"lat": -29.877689
+		}
+	},
+	{
+		"country": "GB",
+		"name": "Queensbury",
+		"_id": 2639792,
+		"coord": {
+			"lon": -1.91667,
+			"lat": 53.76667
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queensbury",
+		"_id": 5133279,
+		"coord": {
+			"lon": -73.613167,
+			"lat": 43.377289
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Queenscliff",
+		"_id": 2152279,
+		"coord": {
+			"lon": 144.649994,
+			"lat": -38.26667
+		}
+	},
+	{
+		"country": "ZA",
+		"name": "Queensdale",
+		"_id": 963525,
+		"coord": {
+			"lon": 26.978621,
+			"lat": -31.87101
+		}
+	},
+	{
+		"country": "GB",
+		"name": "Queensferry",
+		"_id": 2639788,
+		"coord": {
+			"lon": -3.4,
+			"lat": 55.98333
+		}
+	},
+	{
+		"country": "GB",
+		"name": "Queensferry",
+		"_id": 2639789,
+		"coord": {
+			"lon": -3.03333,
+			"lat": 53.200001
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Queenston",
+		"_id": 6115144,
+		"coord": {
+			"lon": -79.049568,
+			"lat": 43.166821
+		}
+	},
+	{
+		"country": "ZA",
+		"name": "Queenstown",
+		"_id": 963516,
+		"coord": {
+			"lon": 26.87533,
+			"lat": -31.89756
+		}
+	},
+	{
+		"country": "US",
+		"name": "Queenstown",
+		"_id": 5268222,
+		"coord": {
+			"lon": -90.2882,
+			"lat": 45.35191
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Queenstown",
+		"_id": 6115148,
+		"coord": {
+			"lon": -66.115562,
+			"lat": 45.683441
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Queenstown",
+		"_id": 2152272,
+		"coord": {
+			"lon": 145.550003,
+			"lat": -42.083328
+		}
+	},
+	{
+		"country": "NZ",
+		"name": "Queenstown",
+		"_id": 6204696,
+		"coord": {
+			"lon": 168.662704,
+			"lat": -45.030231
+		}
+	},
+	{
+		"country": "NZ",
+		"name": "Queenstown-Lakes District",
+		"_id": 7910058,
+		"coord": {
+			"lon": 168.918091,
+			"lat": -44.661491
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Queershan",
+		"_id": 7516451,
+		"coord": {
+			"lon": 112.943283,
+			"lat": 40.119141
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queidersbach",
+		"_id": 6555056,
+		"coord": {
+			"lon": 7.63333,
+			"lat": 49.366699
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queidersbach",
+		"_id": 2851459,
+		"coord": {
+			"lon": 7.63333,
+			"lat": 49.366669
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queienfeld",
+		"_id": 2851456,
+		"coord": {
+			"lon": 10.45,
+			"lat": 50.450001
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queige",
+		"_id": 6442854,
+		"coord": {
+			"lon": 6.46667,
+			"lat": 45.716671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queige",
+		"_id": 2984848,
+		"coord": {
+			"lon": 6.46667,
+			"lat": 45.716671
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queijada",
+		"_id": 8013349,
+		"coord": {
+			"lon": -8.5351,
+			"lat": 41.71365
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queijada",
+		"_id": 2735675,
+		"coord": {
+			"lon": -8.5377,
+			"lat": 41.717529
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queijas",
+		"_id": 8012544,
+		"coord": {
+			"lon": -9.26166,
+			"lat": 38.721062
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queijas",
+		"_id": 6930155,
+		"coord": {
+			"lon": -9.26336,
+			"lat": 38.71907
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Queilén",
+		"_id": 3874453,
+		"coord": {
+			"lon": -73.474159,
+			"lat": -42.88905
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queimada",
+		"_id": 8013744,
+		"coord": {
+			"lon": -7.73515,
+			"lat": 41.095058
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queimada",
+		"_id": 2735672,
+		"coord": {
+			"lon": -7.73795,
+			"lat": 41.097729
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Queimadas",
+		"_id": 3391040,
+		"coord": {
+			"lon": -35.898331,
+			"lat": -7.35833
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Queimadas",
+		"_id": 3452085,
+		"coord": {
+			"lon": -39.626389,
+			"lat": -10.97833
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Queimados",
+		"_id": 3452073,
+		"coord": {
+			"lon": -43.555279,
+			"lat": -22.71611
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queiriga",
+		"_id": 8013979,
+		"coord": {
+			"lon": -7.73918,
+			"lat": 40.804352
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queiriga",
+		"_id": 2735663,
+		"coord": {
+			"lon": -7.74853,
+			"lat": 40.806782
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Queiroz",
+		"_id": 3452069,
+		"coord": {
+			"lon": -50.24028,
+			"lat": -21.798889
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Queis",
+		"_id": 2851455,
+		"coord": {
+			"lon": 12.13333,
+			"lat": 51.48333
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quejas",
+		"_id": 2264270,
+		"coord": {
+			"lon": -9.26593,
+			"lat": 38.722359
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quejo",
+		"_id": 3112595,
+		"coord": {
+			"lon": -3.54806,
+			"lat": 43.49667
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quel",
+		"_id": 6359106,
+		"coord": {
+			"lon": -2.04448,
+			"lat": 42.205551
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quel",
+		"_id": 3112593,
+		"coord": {
+			"lon": -2.05196,
+			"lat": 42.22979
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quelaines-Saint-Gault",
+		"_id": 2984846,
+		"coord": {
+			"lon": -0.8,
+			"lat": 47.933331
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quelaines-Saint-Gault",
+		"_id": 6617032,
+		"coord": {
+			"lon": -0.802,
+			"lat": 47.924999
+		}
+	},
+	{
+		"country": "MZ",
+		"name": "Quelimane",
+		"_id": 1028434,
+		"coord": {
+			"lon": 36.888329,
+			"lat": -17.878611
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quelle",
+		"_id": 2851452,
+		"coord": {
+			"lon": 8.48333,
+			"lat": 52
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quellendorf",
+		"_id": 2851450,
+		"coord": {
+			"lon": 12.13333,
+			"lat": 51.75
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quellental",
+		"_id": 2851446,
+		"coord": {
+			"lon": 9.8,
+			"lat": 53.650002
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quellón",
+		"_id": 3969858,
+		"coord": {
+			"lon": -73.596107,
+			"lat": -43.099171
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queluz",
+		"_id": 8012550,
+		"coord": {
+			"lon": -9.25912,
+			"lat": 38.75494
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Queluz",
+		"_id": 2264268,
+		"coord": {
+			"lon": -9.25451,
+			"lat": 38.756569
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quemada",
+		"_id": 6356544,
+		"coord": {
+			"lon": -3.58364,
+			"lat": 41.712479
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quemada",
+		"_id": 3112592,
+		"coord": {
+			"lon": -3.57476,
+			"lat": 41.700729
+		}
+	},
+	{
+		"country": "CU",
+		"name": "Quemado de Guines",
+		"_id": 3543077,
+		"coord": {
+			"lon": -80.253609,
+			"lat": 22.78528
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quemamacho",
+		"_id": 3811264,
+		"coord": {
+			"lon": -87.08889,
+			"lat": 13.18722
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quemeneven",
+		"_id": 2984835,
+		"coord": {
+			"lon": -4.11667,
+			"lat": 48.116669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quemper-Guezennec",
+		"_id": 2984830,
+		"coord": {
+			"lon": -3.10522,
+			"lat": 48.703781
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quemper-Guézennec",
+		"_id": 6429104,
+		"coord": {
+			"lon": -3.1,
+			"lat": 48.700001
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quemu Quemu",
+		"_id": 3839668,
+		"coord": {
+			"lon": -63.564281,
+			"lat": -36.05463
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quend",
+		"_id": 6454770,
+		"coord": {
+			"lon": 1.63333,
+			"lat": 50.316669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quend",
+		"_id": 2984828,
+		"coord": {
+			"lon": 1.63609,
+			"lat": 50.315842
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quendorf",
+		"_id": 6552942,
+		"coord": {
+			"lon": 7.18333,
+			"lat": 52.333302
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quendorf",
+		"_id": 3204963,
+		"coord": {
+			"lon": 7.18333,
+			"lat": 52.333328
+		}
+	},
+	{
+		"country": "GB",
+		"name": "Queniborough",
+		"_id": 2639779,
+		"coord": {
+			"lon": -1.04749,
+			"lat": 52.70591
+		}
+	},
+	{
+		"country": "VE",
+		"name": "Queniquea",
+		"_id": 3629459,
+		"coord": {
+			"lon": -72.015572,
+			"lat": 7.91717
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quenstedt",
+		"_id": 2851430,
+		"coord": {
+			"lon": 11.46667,
+			"lat": 51.700001
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quentar",
+		"_id": 2512110,
+		"coord": {
+			"lon": -3.46653,
+			"lat": 37.192532
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quepacc",
+		"_id": 3930975,
+		"coord": {
+			"lon": -73.241943,
+			"lat": -15.45861
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quepe",
+		"_id": 3874367,
+		"coord": {
+			"lon": -72.616669,
+			"lat": -38.849998
+		}
+	},
+	{
+		"country": "IN",
+		"name": "Quepem",
+		"_id": 1259098,
+		"coord": {
+			"lon": 74.066673,
+			"lat": 15.21667
+		}
+	},
+	{
+		"country": "CR",
+		"name": "Quepos",
+		"_id": 3622193,
+		"coord": {
+			"lon": -84.165222,
+			"lat": 9.42357
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quequén",
+		"_id": 3429664,
+		"coord": {
+			"lon": -58.7155,
+			"lat": -38.53532
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quer",
+		"_id": 6357999,
+		"coord": {
+			"lon": -3.28117,
+			"lat": 40.614799
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quer",
+		"_id": 3112586,
+		"coord": {
+			"lon": -3.2753,
+			"lat": 40.60532
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Querecotillo",
+		"_id": 3693057,
+		"coord": {
+			"lon": -80.645561,
+			"lat": -4.83778
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Querendaro",
+		"_id": 3991169,
+		"coord": {
+			"lon": -100.916672,
+			"lat": 19.866671
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Querenhorst",
+		"_id": 6552369,
+		"coord": {
+			"lon": 10.9667,
+			"lat": 52.333302
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Querenhorst",
+		"_id": 2851395,
+		"coord": {
+			"lon": 10.96667,
+			"lat": 52.333328
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Querença",
+		"_id": 8012007,
+		"coord": {
+			"lon": -7.97543,
+			"lat": 37.204151
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Querença",
+		"_id": 2264266,
+		"coord": {
+			"lon": -7.98634,
+			"lat": 37.201839
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Querfurt",
+		"_id": 2851393,
+		"coord": {
+			"lon": 11.6,
+			"lat": 51.383331
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quern",
+		"_id": 6552047,
+		"coord": {
+			"lon": 9.71667,
+			"lat": 54.75
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quern",
+		"_id": 2851385,
+		"coord": {
+			"lon": 9.71667,
+			"lat": 54.75
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quernheim",
+		"_id": 6552455,
+		"coord": {
+			"lon": 8.4,
+			"lat": 52.466702
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quernheim",
+		"_id": 2851381,
+		"coord": {
+			"lon": 8.4,
+			"lat": 52.466671
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quero",
+		"_id": 6361801,
+		"coord": {
+			"lon": -3.27265,
+			"lat": 39.494228
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quero",
+		"_id": 2512109,
+		"coord": {
+			"lon": -3.24741,
+			"lat": 39.511108
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quero",
+		"_id": 3169673,
+		"coord": {
+			"lon": 11.9315,
+			"lat": 45.92181
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Querol",
+		"_id": 6361362,
+		"coord": {
+			"lon": 1.43839,
+			"lat": 41.420219
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Querol",
+		"_id": 3112582,
+		"coord": {
+			"lon": 1.39684,
+			"lat": 41.422932
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Queromarca",
+		"_id": 3953732,
+		"coord": {
+			"lon": -71.384438,
+			"lat": -14.1825
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Querqueville",
+		"_id": 6435542,
+		"coord": {
+			"lon": -1.7,
+			"lat": 49.666672
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Querqueville",
+		"_id": 2984799,
+		"coord": {
+			"lon": -1.69119,
+			"lat": 49.66251
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Querrien",
+		"_id": 6431032,
+		"coord": {
+			"lon": -3.53333,
+			"lat": 47.966671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Querrien",
+		"_id": 2984794,
+		"coord": {
+			"lon": -3.53333,
+			"lat": 47.966671
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quersa",
+		"_id": 2851376,
+		"coord": {
+			"lon": 13.63333,
+			"lat": 51.299999
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Querstedt",
+		"_id": 2851373,
+		"coord": {
+			"lon": 11.66667,
+			"lat": 52.599998
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Querum",
+		"_id": 2851370,
+		"coord": {
+			"lon": 10.56667,
+			"lat": 52.299999
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Queréndaro",
+		"_id": 3991170,
+		"coord": {
+			"lon": -100.883331,
+			"lat": 19.799999
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quesa",
+		"_id": 6362071,
+		"coord": {
+			"lon": -0.8096,
+			"lat": 39.07687
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quesa",
+		"_id": 2512108,
+		"coord": {
+			"lon": -0.74,
+			"lat": 39.119701
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quesada",
+		"_id": 6358522,
+		"coord": {
+			"lon": -3.09766,
+			"lat": 37.746929
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quesada",
+		"_id": 2512107,
+		"coord": {
+			"lon": -3.06561,
+			"lat": 37.84338
+		}
+	},
+	{
+		"country": "CR",
+		"name": "Quesada",
+		"_id": 3622190,
+		"coord": {
+			"lon": -84.427139,
+			"lat": 10.32381
+		}
+	},
+	{
+		"country": "GT",
+		"name": "Quesada",
+		"_id": 3590987,
+		"coord": {
+			"lon": -90.040283,
+			"lat": 14.27028
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quesnel",
+		"_id": 6115187,
+		"coord": {
+			"lon": -122.502892,
+			"lat": 52.999882
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quesnoy-sur-Deule",
+		"_id": 2984787,
+		"coord": {
+			"lon": 2.99996,
+			"lat": 50.713589
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quesnoy-sur-Deûle",
+		"_id": 6438427,
+		"coord": {
+			"lon": 3,
+			"lat": 50.716671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quessoy",
+		"_id": 6429106,
+		"coord": {
+			"lon": -2.66667,
+			"lat": 48.416672
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quessoy",
+		"_id": 2984783,
+		"coord": {
+			"lon": -2.66089,
+			"lat": 48.422081
+		}
+	},
+	{
+		"country": "US",
+		"name": "Questa",
+		"_id": 5485658,
+		"coord": {
+			"lon": -105.595009,
+			"lat": 36.703911
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Questembert",
+		"_id": 6437353,
+		"coord": {
+			"lon": -2.46667,
+			"lat": 47.666672
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Questembert",
+		"_id": 2984781,
+		"coord": {
+			"lon": -2.4522,
+			"lat": 47.66296
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quetame",
+		"_id": 3671119,
+		"coord": {
+			"lon": -73.86142,
+			"lat": 4.33234
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quetigny",
+		"_id": 6613918,
+		"coord": {
+			"lon": 5.11667,
+			"lat": 47.316669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quetigny",
+		"_id": 2984775,
+		"coord": {
+			"lon": 5.11667,
+			"lat": 47.316669
+		}
+	},
+	{
+		"country": "PK",
+		"name": "Quetta",
+		"_id": 1167528,
+		"coord": {
+			"lon": 67.009712,
+			"lat": 30.198999
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quettehou",
+		"_id": 6435543,
+		"coord": {
+			"lon": -1.3,
+			"lat": 49.599998
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quettehou",
+		"_id": 2984774,
+		"coord": {
+			"lon": -1.30352,
+			"lat": 49.593079
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quettetot",
+		"_id": 6435544,
+		"coord": {
+			"lon": -1.66667,
+			"lat": 49.48333
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quettetot",
+		"_id": 2984773,
+		"coord": {
+			"lon": -1.66702,
+			"lat": 49.487381
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quetteville",
+		"_id": 6427393,
+		"coord": {
+			"lon": 0.3,
+			"lat": 49.333328
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quetteville",
+		"_id": 2984772,
+		"coord": {
+			"lon": 0.3076,
+			"lat": 49.33532
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quettreville-sur-Sienne",
+		"_id": 6435545,
+		"coord": {
+			"lon": -1.46667,
+			"lat": 48.966671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quettreville-sur-Sienne",
+		"_id": 2984771,
+		"coord": {
+			"lon": -1.46782,
+			"lat": 48.968021
+		}
+	},
+	{
+		"country": "GT",
+		"name": "Quetzaltenango",
+		"_id": 3590979,
+		"coord": {
+			"lon": -91.51667,
+			"lat": 14.83333
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queuille",
+		"_id": 6440144,
+		"coord": {
+			"lon": 2.85,
+			"lat": 45.966671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queuille",
+		"_id": 2984766,
+		"coord": {
+			"lon": 2.84582,
+			"lat": 45.971142
+		}
+	},
+	{
+		"country": "IN",
+		"name": "Queula",
+		"_id": 1259094,
+		"coord": {
+			"lon": 73.966667,
+			"lat": 15.38333
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quevaucamps",
+		"_id": 2788449,
+		"coord": {
+			"lon": 3.26667,
+			"lat": 50.716671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quevauvillers",
+		"_id": 6444691,
+		"coord": {
+			"lon": 2.08333,
+			"lat": 49.816669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quevauvillers",
+		"_id": 2984761,
+		"coord": {
+			"lon": 2.08431,
+			"lat": 49.823761
+		}
+	},
+	{
+		"country": "EC",
+		"name": "Quevedo",
+		"_id": 3652567,
+		"coord": {
+			"lon": -79.449997,
+			"lat": -1.03333
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queven",
+		"_id": 2984760,
+		"coord": {
+			"lon": -3.41667,
+			"lat": 47.783329
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quevert",
+		"_id": 2984759,
+		"coord": {
+			"lon": -2.08745,
+			"lat": 48.46402
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quevy-le-Petit",
+		"_id": 2788446,
+		"coord": {
+			"lon": 3.93602,
+			"lat": 50.36879
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queyrac",
+		"_id": 6454017,
+		"coord": {
+			"lon": -0.98333,
+			"lat": 45.366669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queyrac",
+		"_id": 2984754,
+		"coord": {
+			"lon": -0.98074,
+			"lat": 45.362438
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queyrières",
+		"_id": 6434392,
+		"coord": {
+			"lon": 4.1,
+			"lat": 45.066669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Queyrières",
+		"_id": 2984751,
+		"coord": {
+			"lon": 4.0984,
+			"lat": 45.072319
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quezailica",
+		"_id": 3602984,
+		"coord": {
+			"lon": -88.73333,
+			"lat": 14.88333
+		}
+	},
+	{
+		"country": "NI",
+		"name": "Quezalguaque",
+		"_id": 3617115,
+		"coord": {
+			"lon": -86.902924,
+			"lat": 12.50683
+		}
+	},
+	{
+		"country": "GT",
+		"name": "Quezaltepeque",
+		"_id": 3590973,
+		"coord": {
+			"lon": -89.449997,
+			"lat": 14.63333
+		}
+	},
+	{
+		"country": "SV",
+		"name": "Quezaltepeque",
+		"_id": 3583981,
+		"coord": {
+			"lon": -89.274437,
+			"lat": 13.835
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692218,
+		"coord": {
+			"lon": 120.833328,
+			"lat": 15.6
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692199,
+		"coord": {
+			"lon": 120.814697,
+			"lat": 15.5512
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692221,
+		"coord": {
+			"lon": 125.133331,
+			"lat": 7.73333
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692214,
+		"coord": {
+			"lon": 125.098892,
+			"lat": 7.73028
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692196,
+		"coord": {
+			"lon": 121.606537,
+			"lat": 17.31303
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692197,
+		"coord": {
+			"lon": 121.26667,
+			"lat": 16.5
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692201,
+		"coord": {
+			"lon": 122.182503,
+			"lat": 14.00944
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692205,
+		"coord": {
+			"lon": 123.949997,
+			"lat": 12.6
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692210,
+		"coord": {
+			"lon": 123.282501,
+			"lat": 10.42917
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon",
+		"_id": 1692211,
+		"coord": {
+			"lon": 118.031387,
+			"lat": 9.24111
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quezon City",
+		"_id": 1692193,
+		"coord": {
+			"lon": 121.033333,
+			"lat": 14.63333
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quezzi",
+		"_id": 7603218,
+		"coord": {
+			"lon": 8.973,
+			"lat": 44.421921
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qufu",
+		"_id": 1797333,
+		"coord": {
+			"lon": 116.991112,
+			"lat": 35.596668
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quguoqiongwa",
+		"_id": 1793857,
+		"coord": {
+			"lon": 100.9328,
+			"lat": 35.518509
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quiaios",
+		"_id": 8011828,
+		"coord": {
+			"lon": -8.84187,
+			"lat": 40.22337
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quiaios",
+		"_id": 2735652,
+		"coord": {
+			"lon": -8.84976,
+			"lat": 40.214409
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quiapo",
+		"_id": 1692184,
+		"coord": {
+			"lon": 120.983299,
+			"lat": 14.6
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quibal",
+		"_id": 1692174,
+		"coord": {
+			"lon": 121.811348,
+			"lat": 17.7159
+		}
+	},
+	{
+		"country": "AO",
+		"name": "Quibala",
+		"_id": 3346598,
+		"coord": {
+			"lon": 14.97995,
+			"lat": -10.73366
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quibdo",
+		"_id": 3671116,
+		"coord": {
+			"lon": -76.66111,
+			"lat": 5.69472
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quiberon",
+		"_id": 2984741,
+		"coord": {
+			"lon": -3.11962,
+			"lat": 47.484119
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quiberon",
+		"_id": 6454342,
+		"coord": {
+			"lon": -3.11667,
+			"lat": 47.48333
+		}
+	},
+	{
+		"country": "VE",
+		"name": "Quibor",
+		"_id": 3629419,
+		"coord": {
+			"lon": -69.620102,
+			"lat": 9.92866
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quibou",
+		"_id": 6424432,
+		"coord": {
+			"lon": -1.2,
+			"lat": 49.066669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quibou",
+		"_id": 2984736,
+		"coord": {
+			"lon": -1.2,
+			"lat": 49.066669
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quicena",
+		"_id": 6358399,
+		"coord": {
+			"lon": -0.35003,
+			"lat": 42.152431
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quicena",
+		"_id": 3112577,
+		"coord": {
+			"lon": -0.36049,
+			"lat": 42.147968
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quickborn",
+		"_id": 2851343,
+		"coord": {
+			"lon": 9.9,
+			"lat": 53.73333
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quickborn",
+		"_id": 6551366,
+		"coord": {
+			"lon": 9.2,
+			"lat": 54.016701
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quickborn",
+		"_id": 2851342,
+		"coord": {
+			"lon": 9.2,
+			"lat": 54.01667
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quiddelbach",
+		"_id": 6553333,
+		"coord": {
+			"lon": 6.93333,
+			"lat": 50.349998
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quiddelbach",
+		"_id": 2851338,
+		"coord": {
+			"lon": 6.93333,
+			"lat": 50.349998
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quiers-sur-Bezonde",
+		"_id": 2984733,
+		"coord": {
+			"lon": 2.44141,
+			"lat": 47.996151
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quiers-sur-Bézonde",
+		"_id": 6434693,
+		"coord": {
+			"lon": 2.43333,
+			"lat": 48
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quierschied",
+		"_id": 6547512,
+		"coord": {
+			"lon": 7.05,
+			"lat": 49.3167
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quierschied",
+		"_id": 2851337,
+		"coord": {
+			"lon": 7.05,
+			"lat": 49.316669
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quiesa",
+		"_id": 3169671,
+		"coord": {
+			"lon": 10.36667,
+			"lat": 43.849998
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quievrain",
+		"_id": 2788444,
+		"coord": {
+			"lon": 3.68351,
+			"lat": 50.407372
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quievrechain",
+		"_id": 2984728,
+		"coord": {
+			"lon": 3.66815,
+			"lat": 50.39172
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quievy",
+		"_id": 2984726,
+		"coord": {
+			"lon": 3.42834,
+			"lat": 50.168041
+		}
+	},
+	{
+		"country": "PY",
+		"name": "Quiindy",
+		"_id": 3437215,
+		"coord": {
+			"lon": -57.26667,
+			"lat": -25.966669
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quijano",
+		"_id": 3112575,
+		"coord": {
+			"lon": -3.95593,
+			"lat": 43.368069
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quijas",
+		"_id": 3112574,
+		"coord": {
+			"lon": -4.13371,
+			"lat": 43.350052
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quijingue",
+		"_id": 3452029,
+		"coord": {
+			"lon": -39.209171,
+			"lat": -10.7525
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quijorna",
+		"_id": 6359340,
+		"coord": {
+			"lon": -4.05938,
+			"lat": 40.415401
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quijorna",
+		"_id": 3112573,
+		"coord": {
+			"lon": -4.05683,
+			"lat": 40.427631
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Quila",
+		"_id": 3991148,
+		"coord": {
+			"lon": -107.220001,
+			"lat": 24.422779
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quilahuani",
+		"_id": 3930871,
+		"coord": {
+			"lon": -70.258057,
+			"lat": -17.31778
+		}
+	},
+	{
+		"country": "NI",
+		"name": "Quilali",
+		"_id": 3617109,
+		"coord": {
+			"lon": -86.026001,
+			"lat": 13.56695
+		}
+	},
+	{
+		"country": "AO",
+		"name": "Quilamba",
+		"_id": 7866653,
+		"coord": {
+			"lon": 14.36468,
+			"lat": -10.84475
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quilchena",
+		"_id": 6115259,
+		"coord": {
+			"lon": -120.511948,
+			"lat": 50.16013
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quiliano",
+		"_id": 6540558,
+		"coord": {
+			"lon": 8.41265,
+			"lat": 44.292542
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quiliano",
+		"_id": 3169670,
+		"coord": {
+			"lon": 8.41265,
+			"lat": 44.292542
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quilib",
+		"_id": 1692151,
+		"coord": {
+			"lon": 121.566673,
+			"lat": 14.13333
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quilicura",
+		"_id": 3874212,
+		"coord": {
+			"lon": -70.75,
+			"lat": -33.366669
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quiling",
+		"_id": 1692147,
+		"coord": {
+			"lon": 120.543892,
+			"lat": 18.068331
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quilino",
+		"_id": 3839588,
+		"coord": {
+			"lon": -64.500633,
+			"lat": -30.21397
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quilipe",
+		"_id": 3930842,
+		"coord": {
+			"lon": -78.166672,
+			"lat": -10.06667
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quill Lake",
+		"_id": 6115274,
+		"coord": {
+			"lon": -104.251053,
+			"lat": 52.066719
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quillabamba",
+		"_id": 3930835,
+		"coord": {
+			"lon": -72.783333,
+			"lat": -12.81667
+		}
+	},
+	{
+		"country": "BO",
+		"name": "Quillacollo",
+		"_id": 3906791,
+		"coord": {
+			"lon": -66.283333,
+			"lat": -17.4
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quillan",
+		"_id": 2984719,
+		"coord": {
+			"lon": 2.18176,
+			"lat": 42.87579
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quillan",
+		"_id": 6453644,
+		"coord": {
+			"lon": 2.18333,
+			"lat": 42.866669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quillebeuf-sur-Seine",
+		"_id": 6612422,
+		"coord": {
+			"lon": 0.51667,
+			"lat": 49.466671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quillebeuf-sur-Seine",
+		"_id": 2984718,
+		"coord": {
+			"lon": 0.52793,
+			"lat": 49.469341
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quilleco",
+		"_id": 3874141,
+		"coord": {
+			"lon": -71.966667,
+			"lat": -37.466671
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quillota",
+		"_id": 3874119,
+		"coord": {
+			"lon": -71.26667,
+			"lat": -32.883331
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quilly",
+		"_id": 6434502,
+		"coord": {
+			"lon": -1.95,
+			"lat": 47.466671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quilly",
+		"_id": 2984708,
+		"coord": {
+			"lon": -1.95274,
+			"lat": 47.461311
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quillón",
+		"_id": 3874122,
+		"coord": {
+			"lon": -72.466667,
+			"lat": -36.73333
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quilmana",
+		"_id": 3930817,
+		"coord": {
+			"lon": -76.383331,
+			"lat": -12.95
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quilmes",
+		"_id": 3429652,
+		"coord": {
+			"lon": -58.252651,
+			"lat": -34.724178
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quilo-quilo",
+		"_id": 1692136,
+		"coord": {
+			"lon": 121.220901,
+			"lat": 13.8638
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quilombo",
+		"_id": 3452012,
+		"coord": {
+			"lon": -52.720558,
+			"lat": -26.72611
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quiloño",
+		"_id": 3112570,
+		"coord": {
+			"lon": -5.96667,
+			"lat": 43.549999
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quilpie",
+		"_id": 7839386,
+		"coord": {
+			"lon": 143.579361,
+			"lat": -26.15057
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quilpie",
+		"_id": 2152257,
+		"coord": {
+			"lon": 144.25,
+			"lat": -26.616671
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quilpue",
+		"_id": 3874096,
+		"coord": {
+			"lon": -71.44944,
+			"lat": -33.044998
+		}
+	},
+	{
+		"country": "IE",
+		"name": "Quilty",
+		"_id": 2961981,
+		"coord": {
+			"lon": -9.45083,
+			"lat": 52.81694
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quilós",
+		"_id": 3112569,
+		"coord": {
+			"lon": -6.72243,
+			"lat": 42.631691
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quimbaya",
+		"_id": 3671098,
+		"coord": {
+			"lon": -75.762779,
+			"lat": 4.62306
+		}
+	},
+	{
+		"country": "BO",
+		"name": "Quime",
+		"_id": 3906765,
+		"coord": {
+			"lon": -67.216667,
+			"lat": -16.98333
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quimili",
+		"_id": 3839565,
+		"coord": {
+			"lon": -62.416672,
+			"lat": -27.633329
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quimistan",
+		"_id": 3602952,
+		"coord": {
+			"lon": -88.400002,
+			"lat": 15.35
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quimper",
+		"_id": 6431033,
+		"coord": {
+			"lon": -4.1,
+			"lat": 48
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quimper",
+		"_id": 2984701,
+		"coord": {
+			"lon": -4.1,
+			"lat": 48
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quimperle",
+		"_id": 2984699,
+		"coord": {
+			"lon": -3.55,
+			"lat": 47.866669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quimperlé",
+		"_id": 6431034,
+		"coord": {
+			"lon": -3.55,
+			"lat": 47.866669
+		}
+	},
+	{
+		"country": "EC",
+		"name": "Quimshi",
+		"_id": 3652516,
+		"coord": {
+			"lon": -78.783333,
+			"lat": -2.9
+		}
+	},
+	{
+		"country": "IE",
+		"name": "Quin",
+		"_id": 2961980,
+		"coord": {
+			"lon": -8.86694,
+			"lat": 52.818611
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quinabigan",
+		"_id": 1692113,
+		"coord": {
+			"lon": 121.478119,
+			"lat": 12.9936
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quinagaringan",
+		"_id": 1692100,
+		"coord": {
+			"lon": 122.585564,
+			"lat": 11.11972
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quinalow",
+		"_id": 2152256,
+		"coord": {
+			"lon": 151.633331,
+			"lat": -27.116671
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quinapundan",
+		"_id": 1692066,
+		"coord": {
+			"lon": 125.521942,
+			"lat": 11.15833
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quinarayan",
+		"_id": 1692063,
+		"coord": {
+			"lon": 120.472198,
+			"lat": 17.444099
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincampoix",
+		"_id": 6443400,
+		"coord": {
+			"lon": 1.18333,
+			"lat": 49.533329
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincampoix",
+		"_id": 2984697,
+		"coord": {
+			"lon": 1.18848,
+			"lat": 49.5271
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quince Mil",
+		"_id": 3930769,
+		"coord": {
+			"lon": -70.754013,
+			"lat": -13.23092
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincey",
+		"_id": 6442078,
+		"coord": {
+			"lon": 6.18333,
+			"lat": 47.616669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincey",
+		"_id": 2984691,
+		"coord": {
+			"lon": 6.18556,
+			"lat": 47.611649
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quinchia",
+		"_id": 3671091,
+		"coord": {
+			"lon": -75.730179,
+			"lat": 5.33957
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinchães",
+		"_id": 8011155,
+		"coord": {
+			"lon": -8.13688,
+			"lat": 41.43317
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinchães",
+		"_id": 2735649,
+		"coord": {
+			"lon": -8.14026,
+			"lat": 41.435661
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincie-en-Beaujolais",
+		"_id": 2984689,
+		"coord": {
+			"lon": 4.62342,
+			"lat": 46.12178
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincieux",
+		"_id": 6454576,
+		"coord": {
+			"lon": 4.78333,
+			"lat": 45.916672
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincieux",
+		"_id": 2984686,
+		"coord": {
+			"lon": 4.77824,
+			"lat": 45.910358
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quincinetto",
+		"_id": 3169668,
+		"coord": {
+			"lon": 7.80732,
+			"lat": 45.562962
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincié-en-Beaujolais",
+		"_id": 6441734,
+		"coord": {
+			"lon": 4.6,
+			"lat": 46.116669
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quincoces de Yuso",
+		"_id": 3112568,
+		"coord": {
+			"lon": -3.24261,
+			"lat": 42.989262
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quincy",
+		"_id": 4247703,
+		"coord": {
+			"lon": -91.409866,
+			"lat": 39.9356
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quincy",
+		"_id": 4948247,
+		"coord": {
+			"lon": -71.002274,
+			"lat": 42.25288
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quincy",
+		"_id": 4169510,
+		"coord": {
+			"lon": -84.583252,
+			"lat": 30.587139
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quincy",
+		"_id": 5006647,
+		"coord": {
+			"lon": -84.88385,
+			"lat": 41.94421
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quincy",
+		"_id": 5385487,
+		"coord": {
+			"lon": -120.947182,
+			"lat": 39.93684
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quincy",
+		"_id": 5807713,
+		"coord": {
+			"lon": -119.852547,
+			"lat": 47.234299
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincy-Voisins",
+		"_id": 6443804,
+		"coord": {
+			"lon": 2.88333,
+			"lat": 48.900002
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincy-Voisins",
+		"_id": 2984677,
+		"coord": {
+			"lon": 2.87559,
+			"lat": 48.901138
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincy-sous-Senart",
+		"_id": 2984678,
+		"coord": {
+			"lon": 2.53419,
+			"lat": 48.672939
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quincy-sous-Sénart",
+		"_id": 6446190,
+		"coord": {
+			"lon": 2.53333,
+			"lat": 48.666672
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quindalup",
+		"_id": 2062766,
+		"coord": {
+			"lon": 115.133331,
+			"lat": -33.666672
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quindanning",
+		"_id": 2062765,
+		"coord": {
+			"lon": 116.566673,
+			"lat": -33.049999
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quindici",
+		"_id": 3169667,
+		"coord": {
+			"lon": 14.64754,
+			"lat": 40.863312
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quinebaug",
+		"_id": 4841217,
+		"coord": {
+			"lon": -71.949799,
+			"lat": 42.023708
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quingentole",
+		"_id": 3169666,
+		"coord": {
+			"lon": 11.0458,
+			"lat": 45.039082
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quingey",
+		"_id": 6453862,
+		"coord": {
+			"lon": 5.88333,
+			"lat": 47.099998
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quingey",
+		"_id": 2984675,
+		"coord": {
+			"lon": 5.88312,
+			"lat": 47.102501
+		}
+	},
+	{
+		"country": "GW",
+		"name": "Quinhamel",
+		"_id": 2370358,
+		"coord": {
+			"lon": -15.85,
+			"lat": 11.88333
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quinipot",
+		"_id": 1692032,
+		"coord": {
+			"lon": 122.220284,
+			"lat": 7.18028
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quinlan",
+		"_id": 4721089,
+		"coord": {
+			"lon": -96.135529,
+			"lat": 32.9104
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quinnesec",
+		"_id": 5006658,
+		"coord": {
+			"lon": -87.988457,
+			"lat": 45.806351
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quinns Crossroad",
+		"_id": 4592283,
+		"coord": {
+			"lon": -80.345078,
+			"lat": 33.989319
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quinns Rocks",
+		"_id": 2078766,
+		"coord": {
+			"lon": 115.67778,
+			"lat": -31.68611
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quinquimo",
+		"_id": 3874005,
+		"coord": {
+			"lon": -71.316673,
+			"lat": -32.450001
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quinquis",
+		"_id": 2984671,
+		"coord": {
+			"lon": -3.7,
+			"lat": 47.933331
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quinsac",
+		"_id": 6613817,
+		"coord": {
+			"lon": -0.5,
+			"lat": 44.75
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quinsac",
+		"_id": 2984664,
+		"coord": {
+			"lon": -0.48697,
+			"lat": 44.755348
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quinssaines",
+		"_id": 6425432,
+		"coord": {
+			"lon": 2.51667,
+			"lat": 46.333328
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quinssaines",
+		"_id": 2984657,
+		"coord": {
+			"lon": 2.51667,
+			"lat": 46.333328
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quinta Normal",
+		"_id": 3873992,
+		"coord": {
+			"lon": -70.699997,
+			"lat": -33.450001
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta Nova",
+		"_id": 2735552,
+		"coord": {
+			"lon": -8.60963,
+			"lat": 41.23587
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quinta Wisse",
+		"_id": 3930743,
+		"coord": {
+			"lon": -77.033333,
+			"lat": -11.98333
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta da Esperança",
+		"_id": 2264239,
+		"coord": {
+			"lon": -7.88333,
+			"lat": 38.166672
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta da Horta",
+		"_id": 2264234,
+		"coord": {
+			"lon": -9.11667,
+			"lat": 38.816669
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta da Vitória",
+		"_id": 2264194,
+		"coord": {
+			"lon": -9.11667,
+			"lat": 38.783329
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta das Areias",
+		"_id": 2264213,
+		"coord": {
+			"lon": -8.97842,
+			"lat": 38.980061
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta do Anjo",
+		"_id": 8014565,
+		"coord": {
+			"lon": -8.97229,
+			"lat": 38.588509
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta do Anjo",
+		"_id": 2264169,
+		"coord": {
+			"lon": -8.94228,
+			"lat": 38.567532
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quinta do Sobrado",
+		"_id": 2264131,
+		"coord": {
+			"lon": -8.82753,
+			"lat": 39.647598
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quinta do Sol",
+		"_id": 3451951,
+		"coord": {
+			"lon": -52.129719,
+			"lat": -23.852221
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana",
+		"_id": 3112550,
+		"coord": {
+			"lon": -4.84723,
+			"lat": 43.423561
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Quintana",
+		"_id": 3822810,
+		"coord": {
+			"lon": -88.133331,
+			"lat": 20.4625
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quintana",
+		"_id": 3451950,
+		"coord": {
+			"lon": -50.307499,
+			"lat": -22.0725
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana Redonda",
+		"_id": 6361180,
+		"coord": {
+			"lon": -2.64692,
+			"lat": 41.622608
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana Redonda",
+		"_id": 3112507,
+		"coord": {
+			"lon": -2.61449,
+			"lat": 41.63905
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana de la Serena",
+		"_id": 6355974,
+		"coord": {
+			"lon": -5.73849,
+			"lat": 38.769699
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana de la Serena",
+		"_id": 2512099,
+		"coord": {
+			"lon": -5.67233,
+			"lat": 38.745949
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Castillo",
+		"_id": 6358664,
+		"coord": {
+			"lon": -5.99183,
+			"lat": 42.65292
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Castillo",
+		"_id": 3112541,
+		"coord": {
+			"lon": -6.04978,
+			"lat": 42.65987
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Marco",
+		"_id": 6358665,
+		"coord": {
+			"lon": -5.84699,
+			"lat": 42.199162
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Marco",
+		"_id": 3112540,
+		"coord": {
+			"lon": -5.8503,
+			"lat": 42.206699
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Pidio",
+		"_id": 6356546,
+		"coord": {
+			"lon": -3.74863,
+			"lat": 41.765369
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Pidio",
+		"_id": 3112537,
+		"coord": {
+			"lon": -3.75121,
+			"lat": 41.758862
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Puente",
+		"_id": 6360091,
+		"coord": {
+			"lon": -4.20064,
+			"lat": 42.092419
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana del Puente",
+		"_id": 3112536,
+		"coord": {
+			"lon": -4.20649,
+			"lat": 42.084709
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana y Congosto",
+		"_id": 6358666,
+		"coord": {
+			"lon": -6.06096,
+			"lat": 42.26543
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintana y Congosto",
+		"_id": 3112492,
+		"coord": {
+			"lon": -6.03636,
+			"lat": 42.255852
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanabureba",
+		"_id": 6356545,
+		"coord": {
+			"lon": -3.36945,
+			"lat": 42.586208
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanabureba",
+		"_id": 3112545,
+		"coord": {
+			"lon": -3.36684,
+			"lat": 42.586651
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanadueñas",
+		"_id": 3112530,
+		"coord": {
+			"lon": -3.73533,
+			"lat": 42.384941
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanaelez",
+		"_id": 3112528,
+		"coord": {
+			"lon": -3.29877,
+			"lat": 42.669209
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanaortuno",
+		"_id": 3112513,
+		"coord": {
+			"lon": -3.68333,
+			"lat": 42.450001
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanaortuño",
+		"_id": 6356548,
+		"coord": {
+			"lon": -3.6842,
+			"lat": 42.450439
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanapalla",
+		"_id": 6356549,
+		"coord": {
+			"lon": -3.53228,
+			"lat": 42.409142
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanapalla",
+		"_id": 3112512,
+		"coord": {
+			"lon": -3.53296,
+			"lat": 42.409142
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanar de la Orden",
+		"_id": 6361802,
+		"coord": {
+			"lon": -3.00576,
+			"lat": 39.5928
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanar de la Orden",
+		"_id": 2512096,
+		"coord": {
+			"lon": -3.04165,
+			"lat": 39.593681
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanar de la Sierra",
+		"_id": 6356550,
+		"coord": {
+			"lon": -3.02753,
+			"lat": 42.002769
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanar de la Sierra",
+		"_id": 3112509,
+		"coord": {
+			"lon": -3.03765,
+			"lat": 41.98288
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanar del Rey",
+		"_id": 6357513,
+		"coord": {
+			"lon": -1.93892,
+			"lat": 39.338188
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanar del Rey",
+		"_id": 2512095,
+		"coord": {
+			"lon": -1.93333,
+			"lat": 39.333328
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanarraya",
+		"_id": 3112506,
+		"coord": {
+			"lon": -3.33855,
+			"lat": 41.787022
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanas de Gormaz",
+		"_id": 6361181,
+		"coord": {
+			"lon": -2.96223,
+			"lat": 41.50396
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanas de Gormaz",
+		"_id": 3112502,
+		"coord": {
+			"lon": -2.97631,
+			"lat": 41.509258
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanavides",
+		"_id": 6356551,
+		"coord": {
+			"lon": -3.41964,
+			"lat": 42.476151
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanavides",
+		"_id": 3112493,
+		"coord": {
+			"lon": -3.42449,
+			"lat": 42.480839
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanaélez",
+		"_id": 6356547,
+		"coord": {
+			"lon": -3.30217,
+			"lat": 42.67514
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla Vivar",
+		"_id": 6356556,
+		"coord": {
+			"lon": -3.68969,
+			"lat": 42.41573
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Arriba",
+		"_id": 6362251,
+		"coord": {
+			"lon": -4.25558,
+			"lat": 41.6078
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Arriba",
+		"_id": 3112478,
+		"coord": {
+			"lon": -4.21774,
+			"lat": 41.61974
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Onesimo",
+		"_id": 3112454,
+		"coord": {
+			"lon": -4.36291,
+			"lat": 41.624901
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Onsona",
+		"_id": 3112453,
+		"coord": {
+			"lon": -4.66385,
+			"lat": 42.469372
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Onsoña",
+		"_id": 6360092,
+		"coord": {
+			"lon": -4.66707,
+			"lat": 42.483459
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Onésimo",
+		"_id": 6362253,
+		"coord": {
+			"lon": -4.35352,
+			"lat": 41.606651
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Trigueros",
+		"_id": 6362254,
+		"coord": {
+			"lon": -4.65671,
+			"lat": 41.869129
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Trigueros",
+		"_id": 3112443,
+		"coord": {
+			"lon": -4.65931,
+			"lat": 41.854488
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Urz",
+		"_id": 6362604,
+		"coord": {
+			"lon": -5.8486,
+			"lat": 42.037472
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de Urz",
+		"_id": 3112441,
+		"coord": {
+			"lon": -5.84866,
+			"lat": 42.032902
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de la Mata",
+		"_id": 6356552,
+		"coord": {
+			"lon": -3.78389,
+			"lat": 41.997478
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de la Mata",
+		"_id": 3112472,
+		"coord": {
+			"lon": -3.76756,
+			"lat": 41.988548
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla de los Oteros",
+		"_id": 3112458,
+		"coord": {
+			"lon": -5.42785,
+			"lat": 42.310822
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Coco",
+		"_id": 6356553,
+		"coord": {
+			"lon": -3.52297,
+			"lat": 41.992802
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Coco",
+		"_id": 3112467,
+		"coord": {
+			"lon": -3.51667,
+			"lat": 41.98333
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Molar",
+		"_id": 6362252,
+		"coord": {
+			"lon": -5.45911,
+			"lat": 41.991371
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Molar",
+		"_id": 3112466,
+		"coord": {
+			"lon": -5.44928,
+			"lat": 41.989349
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Monte",
+		"_id": 6362602,
+		"coord": {
+			"lon": -5.33892,
+			"lat": 41.863949
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Monte",
+		"_id": 3112465,
+		"coord": {
+			"lon": -5.34928,
+			"lat": 41.868118
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Olmo",
+		"_id": 6362603,
+		"coord": {
+			"lon": -5.41141,
+			"lat": 41.91151
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla del Olmo",
+		"_id": 3112461,
+		"coord": {
+			"lon": -5.40726,
+			"lat": 41.905609
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanilla-Vivar",
+		"_id": 3112425,
+		"coord": {
+			"lon": -3.68849,
+			"lat": 42.415852
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintanillas (Las)",
+		"_id": 6356554,
+		"coord": {
+			"lon": -3.84131,
+			"lat": 42.37109
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quintano",
+		"_id": 6535239,
+		"coord": {
+			"lon": 9.61856,
+			"lat": 45.420471
+		}
+	},
+	{
+		"country": "PR",
+		"name": "Quintas de Humacao",
+		"_id": 4567564,
+		"coord": {
+			"lon": -65.820442,
+			"lat": 18.146351
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quinte West",
+		"_id": 6115355,
+		"coord": {
+			"lon": -77.566177,
+			"lat": 44.183418
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quintela",
+		"_id": 2735527,
+		"coord": {
+			"lon": -7.71877,
+			"lat": 40.41901
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintela",
+		"_id": 3112414,
+		"coord": {
+			"lon": -8.21667,
+			"lat": 42.150002
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintela de Leirado",
+		"_id": 6359883,
+		"coord": {
+			"lon": -8.10318,
+			"lat": 42.13678
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintela de Leirado",
+		"_id": 3112407,
+		"coord": {
+			"lon": -8.10126,
+			"lat": 42.139671
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quintenas",
+		"_id": 6425765,
+		"coord": {
+			"lon": 4.68333,
+			"lat": 45.183331
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quintenas",
+		"_id": 2984653,
+		"coord": {
+			"lon": 4.68732,
+			"lat": 45.189659
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quintero",
+		"_id": 3873983,
+		"coord": {
+			"lon": -71.533333,
+			"lat": -32.783329
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quintin",
+		"_id": 6453804,
+		"coord": {
+			"lon": -2.91667,
+			"lat": 48.400002
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quintin",
+		"_id": 2984649,
+		"coord": {
+			"lon": -2.9105,
+			"lat": 48.403419
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quintião",
+		"_id": 2735508,
+		"coord": {
+			"lon": -7.79639,
+			"lat": 41.132931
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quinto",
+		"_id": 6362909,
+		"coord": {
+			"lon": -0.51937,
+			"lat": 41.412701
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quinto",
+		"_id": 3112403,
+		"coord": {
+			"lon": -0.49592,
+			"lat": 41.423779
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quinto Vercellese",
+		"_id": 3169662,
+		"coord": {
+			"lon": 8.36173,
+			"lat": 45.379662
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quinto Vicentino",
+		"_id": 3169661,
+		"coord": {
+			"lon": 11.633,
+			"lat": 45.5741
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quinto di Treviso",
+		"_id": 3169663,
+		"coord": {
+			"lon": 12.16667,
+			"lat": 45.64806
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quinton",
+		"_id": 4548780,
+		"coord": {
+			"lon": -95.371094,
+			"lat": 35.122879
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quintong",
+		"_id": 1692018,
+		"coord": {
+			"lon": 120.26722,
+			"lat": 15.99528
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quintáns",
+		"_id": 3112423,
+		"coord": {
+			"lon": -8.81061,
+			"lat": 42.48962
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quintão",
+		"_id": 2735551,
+		"coord": {
+			"lon": -7.90204,
+			"lat": 41.13232
+		}
+	},
+	{
+		"country": "PT",
+		"name": "Quintãs",
+		"_id": 2735540,
+		"coord": {
+			"lon": -7.90847,
+			"lat": 41.081921
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quinzano dOglio",
+		"_id": 3169660,
+		"coord": {
+			"lon": 10.00857,
+			"lat": 45.310879
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quinze de Novembro",
+		"_id": 3451942,
+		"coord": {
+			"lon": -53.093609,
+			"lat": -28.748329
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quipama",
+		"_id": 3775262,
+		"coord": {
+			"lon": -74.17765,
+			"lat": 5.5194
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quipapa",
+		"_id": 3390965,
+		"coord": {
+			"lon": -36.011669,
+			"lat": -8.82778
+		}
+	},
+	{
+		"country": "CO",
+		"name": "Quipile",
+		"_id": 3671072,
+		"coord": {
+			"lon": -74.563057,
+			"lat": 4.74806
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quipot",
+		"_id": 1691995,
+		"coord": {
+			"lon": 121.315826,
+			"lat": 13.93167
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quipot",
+		"_id": 1691996,
+		"coord": {
+			"lon": 123,
+			"lat": 11.28333
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quipot",
+		"_id": 1708638,
+		"coord": {
+			"lon": 121.397217,
+			"lat": 13.77911
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quireza",
+		"_id": 3112396,
+		"coord": {
+			"lon": -8.43333,
+			"lat": 42.566669
+		}
+	},
+	{
+		"country": "CL",
+		"name": "Quirihue",
+		"_id": 3873958,
+		"coord": {
+			"lon": -72.533333,
+			"lat": -36.283329
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quirindi",
+		"_id": 2152240,
+		"coord": {
+			"lon": 150.683334,
+			"lat": -31.51667
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Quiringuícharo",
+		"_id": 3991116,
+		"coord": {
+			"lon": -102.166672,
+			"lat": 20.200001
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quirino",
+		"_id": 1691976,
+		"coord": {
+			"lon": 120.669998,
+			"lat": 17.15556
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quirino",
+		"_id": 1691977,
+		"coord": {
+			"lon": 121.699997,
+			"lat": 17.133329
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quirinopolis",
+		"_id": 3451931,
+		"coord": {
+			"lon": -50.451672,
+			"lat": -18.44833
+		}
+	},
+	{
+		"country": "VE",
+		"name": "Quiriquire",
+		"_id": 3629385,
+		"coord": {
+			"lon": -63.21991,
+			"lat": 9.9795
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirla",
+		"_id": 6550391,
+		"coord": {
+			"lon": 11.7667,
+			"lat": 50.866699
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirla",
+		"_id": 2851323,
+		"coord": {
+			"lon": 11.76667,
+			"lat": 50.866669
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirnbach",
+		"_id": 6554168,
+		"coord": {
+			"lon": 7.8,
+			"lat": 50.516701
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirnbach",
+		"_id": 2851321,
+		"coord": {
+			"lon": 7.8,
+			"lat": 50.51667
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirnheim",
+		"_id": 6554920,
+		"coord": {
+			"lon": 8.12639,
+			"lat": 49.5844
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirnheim",
+		"_id": 2851320,
+		"coord": {
+			"lon": 8.12639,
+			"lat": 49.584438
+		}
+	},
+	{
+		"country": "MX",
+		"name": "Quiroga",
+		"_id": 3991110,
+		"coord": {
+			"lon": -101.533333,
+			"lat": 19.66667
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quiroga",
+		"_id": 6359209,
+		"coord": {
+			"lon": -7.20928,
+			"lat": 42.48468
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quiroga",
+		"_id": 3839516,
+		"coord": {
+			"lon": -61.406719,
+			"lat": -35.292919
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quiroga",
+		"_id": 3112395,
+		"coord": {
+			"lon": -7.27463,
+			"lat": 42.47678
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quirrenbach",
+		"_id": 2851319,
+		"coord": {
+			"lon": 7.31667,
+			"lat": 50.683331
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quiruelas de Vidriales",
+		"_id": 6362605,
+		"coord": {
+			"lon": -5.83078,
+			"lat": 42.013821
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quiruelas de Vidriales",
+		"_id": 3112393,
+		"coord": {
+			"lon": -5.82947,
+			"lat": 42.01762
+		}
+	},
+	{
+		"country": "PE",
+		"name": "Quiruvilca",
+		"_id": 3692994,
+		"coord": {
+			"lon": -78.199997,
+			"lat": -7.96667
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quirós",
+		"_id": 6359956,
+		"coord": {
+			"lon": -5.98046,
+			"lat": 43.157082
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quisao",
+		"_id": 1691973,
+		"coord": {
+			"lon": 121.334396,
+			"lat": 14.4347
+		}
+	},
+	{
+		"country": "HN",
+		"name": "Quiscamote",
+		"_id": 3602936,
+		"coord": {
+			"lon": -87.98333,
+			"lat": 14.48333
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quisdorf",
+		"_id": 2851317,
+		"coord": {
+			"lon": 10.56667,
+			"lat": 54.116669
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quise",
+		"_id": 2512089,
+		"coord": {
+			"lon": -17.256941,
+			"lat": 28.04627
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quismondo",
+		"_id": 6361803,
+		"coord": {
+			"lon": -4.31912,
+			"lat": 40.10574
+		}
+	},
+	{
+		"country": "ES",
+		"name": "Quismondo",
+		"_id": 3112391,
+		"coord": {
+			"lon": -4.32394,
+			"lat": 40.105331
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Quispamsis",
+		"_id": 6115383,
+		"coord": {
+			"lon": -65.951271,
+			"lat": 45.421349
+		}
+	},
+	{
+		"country": "DO",
+		"name": "Quisqueya",
+		"_id": 3494121,
+		"coord": {
+			"lon": -69.408142,
+			"lat": 18.55542
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quissac",
+		"_id": 6431366,
+		"coord": {
+			"lon": 4,
+			"lat": 43.916672
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quissac",
+		"_id": 2984643,
+		"coord": {
+			"lon": 3.9992,
+			"lat": 43.91341
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quissamã",
+		"_id": 3451927,
+		"coord": {
+			"lon": -41.472221,
+			"lat": -22.10667
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quistello",
+		"_id": 3169656,
+		"coord": {
+			"lon": 10.9823,
+			"lat": 45.005581
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quistinic",
+		"_id": 6437356,
+		"coord": {
+			"lon": -3.133,
+			"lat": 47.905201
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quistinic",
+		"_id": 2984640,
+		"coord": {
+			"lon": -3.134,
+			"lat": 47.904099
+		}
+	},
+	{
+		"country": "PH",
+		"name": "Quitang",
+		"_id": 1691968,
+		"coord": {
+			"lon": 123.052902,
+			"lat": 13.5513
+		}
+	},
+	{
+		"country": "AR",
+		"name": "Quitilipi",
+		"_id": 3839490,
+		"coord": {
+			"lon": -60.216831,
+			"lat": -26.869129
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quitman",
+		"_id": 4217712,
+		"coord": {
+			"lon": -83.559883,
+			"lat": 30.78492
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quitman",
+		"_id": 4442692,
+		"coord": {
+			"lon": -88.728104,
+			"lat": 32.04015
+		}
+	},
+	{
+		"country": "US",
+		"name": "Quitman",
+		"_id": 4721115,
+		"coord": {
+			"lon": -95.451057,
+			"lat": 32.795959
+		}
+	},
+	{
+		"country": "EC",
+		"name": "Quito",
+		"_id": 3652462,
+		"coord": {
+			"lon": -78.524948,
+			"lat": -0.22985
+		}
+	},
+	{
+		"country": "IT",
+		"name": "Quittengo",
+		"_id": 3169655,
+		"coord": {
+			"lon": 8.01102,
+			"lat": 45.656761
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quitzdorf",
+		"_id": 2851310,
+		"coord": {
+			"lon": 14.76667,
+			"lat": 51.283329
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quitzow",
+		"_id": 2851303,
+		"coord": {
+			"lon": 11.81667,
+			"lat": 53.099998
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quitzöbel",
+		"_id": 2851304,
+		"coord": {
+			"lon": 11.98333,
+			"lat": 52.883331
+		}
+	},
+	{
+		"country": "CU",
+		"name": "Quivican",
+		"_id": 3542965,
+		"coord": {
+			"lon": -82.355003,
+			"lat": 22.823059
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quixada",
+		"_id": 3390907,
+		"coord": {
+			"lon": -39.015282,
+			"lat": -4.97139
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quixeramobim",
+		"_id": 3390901,
+		"coord": {
+			"lon": -39.292782,
+			"lat": -5.19917
+		}
+	},
+	{
+		"country": "BR",
+		"name": "Quixere",
+		"_id": 3390896,
+		"coord": {
+			"lon": -37.988609,
+			"lat": -5.07417
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quiévrain",
+		"_id": 2788445,
+		"coord": {
+			"lon": 3.68505,
+			"lat": 50.40715
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quiévrechain",
+		"_id": 6438429,
+		"coord": {
+			"lon": 3.66952,
+			"lat": 50.393139
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quiévy",
+		"_id": 6438430,
+		"coord": {
+			"lon": 3.41667,
+			"lat": 50.166672
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qujiadian",
+		"_id": 2035231,
+		"coord": {
+			"lon": 123.929237,
+			"lat": 43.22226
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qujiang",
+		"_id": 1797326,
+		"coord": {
+			"lon": 106.96785,
+			"lat": 30.84206
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qujiang",
+		"_id": 1797327,
+		"coord": {
+			"lon": 115.79097,
+			"lat": 28.24715
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qujiang",
+		"_id": 1998335,
+		"coord": {
+			"lon": 108.988251,
+			"lat": 34.193161
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qujing",
+		"_id": 1797318,
+		"coord": {
+			"lon": 103.783333,
+			"lat": 25.48333
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qulai",
+		"_id": 1797308,
+		"coord": {
+			"lon": 114.860451,
+			"lat": 27.05966
+		}
+	},
+	{
+		"country": "YE",
+		"name": "Qulansiyah",
+		"_id": 71799,
+		"coord": {
+			"lon": 53.48333,
+			"lat": 12.68333
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Qulaybiyah",
+		"_id": 2467959,
+		"coord": {
+			"lon": 11.09386,
+			"lat": 36.847569
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qulsary",
+		"_id": 609123,
+		"coord": {
+			"lon": 54.019779,
+			"lat": 46.953072
+		}
+	},
+	{
+		"country": "JO",
+		"name": "Qumaym",
+		"_id": 247496,
+		"coord": {
+			"lon": 35.732689,
+			"lat": 32.571339
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qumkent",
+		"_id": 1521835,
+		"coord": {
+			"lon": 69.616386,
+			"lat": 43.775002
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qumong",
+		"_id": 1280194,
+		"coord": {
+			"lon": 98.097954,
+			"lat": 32.977711
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qunying",
+		"_id": 1917716,
+		"coord": {
+			"lon": 109.870842,
+			"lat": 18.58473
+		}
+	},
+	{
+		"country": "AU",
+		"name": "Quorn",
+		"_id": 2062745,
+		"coord": {
+			"lon": 138.033325,
+			"lat": -32.349998
+		}
+	},
+	{
+		"country": "GB",
+		"name": "Quorndon",
+		"_id": 2639755,
+		"coord": {
+			"lon": -1.17348,
+			"lat": 52.74461
+		}
+	},
+	{
+		"country": "DE",
+		"name": "Quotshausen",
+		"_id": 2851292,
+		"coord": {
+			"lon": 8.46667,
+			"lat": 50.849998
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Qurbus",
+		"_id": 2467914,
+		"coord": {
+			"lon": 10.56865,
+			"lat": 36.816681
+		}
+	},
+	{
+		"country": "AF",
+		"name": "Qurghan",
+		"_id": 1128954,
+		"coord": {
+			"lon": 65.064903,
+			"lat": 36.919392
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qurghontepa",
+		"_id": 1513364,
+		"coord": {
+			"lon": 72.761772,
+			"lat": 40.731918
+		}
+	},
+	{
+		"country": "TJ",
+		"name": "Qurghonteppa",
+		"_id": 1220747,
+		"coord": {
+			"lon": 68.78186,
+			"lat": 37.833988
+		}
+	},
+	{
+		"country": "TJ",
+		"name": "Quruqsoy",
+		"_id": 1514870,
+		"coord": {
+			"lon": 69.378899,
+			"lat": 40.57579
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qusar",
+		"_id": 585220,
+		"coord": {
+			"lon": 48.428928,
+			"lat": 41.42728
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qusar Rayon",
+		"_id": 585749,
+		"coord": {
+			"lon": 48.25,
+			"lat": 41.416672
+		}
+	},
+	{
+		"country": "TN",
+		"name": "Qusaybat al Madyuni",
+		"_id": 2467890,
+		"coord": {
+			"lon": 10.84256,
+			"lat": 35.685619
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qushan",
+		"_id": 1813783,
+		"coord": {
+			"lon": 122.284271,
+			"lat": 30.45005
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qushianxiang",
+		"_id": 7384096,
+		"coord": {
+			"lon": 100.232597,
+			"lat": 35.325958
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Qushkupir",
+		"_id": 1512978,
+		"coord": {
+			"lon": 60.345558,
+			"lat": 41.535
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qushoqy",
+		"_id": 1521677,
+		"coord": {
+			"lon": 73.402496,
+			"lat": 50.233891
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qusin",
+		"_id": 282284,
+		"coord": {
+			"lon": 35.182968,
+			"lat": 32.238289
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qusmuryn",
+		"_id": 1519924,
+		"coord": {
+			"lon": 64.631111,
+			"lat": 52.450279
+		}
+	},
+	{
+		"country": "PS",
+		"name": "Qusrah",
+		"_id": 282283,
+		"coord": {
+			"lon": 35.330051,
+			"lat": 32.08543
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qutang",
+		"_id": 1797293,
+		"coord": {
+			"lon": 120.32708,
+			"lat": 32.49641
+		}
+	},
+	{
+		"country": "SY",
+		"name": "Qutaylibiyah",
+		"_id": 165637,
+		"coord": {
+			"lon": 36.014961,
+			"lat": 35.28928
+		}
+	},
+	{
+		"country": "IN",
+		"name": "Quthbullapur",
+		"_id": 7302845,
+		"coord": {
+			"lon": 78.458183,
+			"lat": 17.50107
+		}
+	},
+	{
+		"country": "LS",
+		"name": "Quthing",
+		"_id": 932183,
+		"coord": {
+			"lon": 27.70027,
+			"lat": -30.400009
+		}
+	},
+	{
+		"country": "LS",
+		"name": "Quthing District",
+		"_id": 932184,
+		"coord": {
+			"lon": 28,
+			"lat": -30.41667
+		}
+	},
+	{
+		"country": "AZ",
+		"name": "Qutqashen",
+		"_id": 585231,
+		"coord": {
+			"lon": 47.845829,
+			"lat": 40.981392
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Qutun",
+		"_id": 1908853,
+		"coord": {
+			"lon": 112.025398,
+			"lat": 33.040409
+		}
+	},
+	{
+		"country": "EG",
+		"name": "Qutur",
+		"_id": 350376,
+		"coord": {
+			"lon": 30.956141,
+			"lat": 30.97225
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Quva",
+		"_id": 1526979,
+		"coord": {
+			"lon": 72.072922,
+			"lat": 40.522041
+		}
+	},
+	{
+		"country": "UZ",
+		"name": "Quvasoy",
+		"_id": 1513331,
+		"coord": {
+			"lon": 71.974442,
+			"lat": 40.302219
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quwa",
+		"_id": 7330593,
+		"coord": {
+			"lon": 103.993408,
+			"lat": 33.91885
+		}
+	},
+	{
+		"country": "EG",
+		"name": "Quwaysina",
+		"_id": 350370,
+		"coord": {
+			"lon": 31.15777,
+			"lat": 30.564819
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quxar",
+		"_id": 1280181,
+		"coord": {
+			"lon": 87.650002,
+			"lat": 29.1
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quxi",
+		"_id": 1797281,
+		"coord": {
+			"lon": 116.915169,
+			"lat": 25.653761
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quxi",
+		"_id": 1797283,
+		"coord": {
+			"lon": 116.398018,
+			"lat": 23.589939
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quxia",
+		"_id": 1797275,
+		"coord": {
+			"lon": 120.156982,
+			"lat": 32.100368
+		}
+	},
+	{
+		"country": "VN",
+		"name": "Quy Nhon",
+		"_id": 1568574,
+		"coord": {
+			"lon": 109.23333,
+			"lat": 13.76667
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quyang",
+		"_id": 1797271,
+		"coord": {
+			"lon": 109.638077,
+			"lat": 26.575069
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quzhou",
+		"_id": 1797264,
+		"coord": {
+			"lon": 118.868607,
+			"lat": 28.95944
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quzi",
+		"_id": 1797258,
+		"coord": {
+			"lon": 107.512039,
+			"lat": 36.293228
+		}
+	},
+	{
+		"country": "CN",
+		"name": "Quzi",
+		"_id": 1797259,
+		"coord": {
+			"lon": 108.187653,
+			"lat": 34.86565
+		}
+	},
+	{
+		"country": "CA",
+		"name": "Québec",
+		"_id": 6115047,
+		"coord": {
+			"lon": -71.999069,
+			"lat": 52.000172
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Québriac",
+		"_id": 6432797,
+		"coord": {
+			"lon": -1.83333,
+			"lat": 48.349998
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quédillac",
+		"_id": 6432798,
+		"coord": {
+			"lon": -2.15,
+			"lat": 48.25
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quéménéven",
+		"_id": 6431031,
+		"coord": {
+			"lon": -4.11667,
+			"lat": 48.116669
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quéven",
+		"_id": 6437354,
+		"coord": {
+			"lon": -3.41667,
+			"lat": 47.783329
+		}
+	},
+	{
+		"country": "FR",
+		"name": "Quévert",
+		"_id": 6429107,
+		"coord": {
+			"lon": -2.08333,
+			"lat": 48.466671
+		}
+	},
+	{
+		"country": "BE",
+		"name": "Quévy",
+		"_id": 2788448,
+		"coord": {
+			"lon": 3.93568,
+			"lat": 50.368351
+		}
+	},
+	{
+		"country": "VN",
+		"name": "Quảng Trị",
+		"_id": 1568738,
+		"coord": {
+			"lon": 107.199997,
+			"lat": 16.75
+		}
+	},
+	{
+		"country": "GE",
+		"name": "Qvareli",
+		"_id": 612338,
+		"coord": {
+			"lon": 45.817162,
+			"lat": 41.954922
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qyzylorda",
+		"_id": 1519922,
+		"coord": {
+			"lon": 65.509171,
+			"lat": 44.852779
+		}
+	},
+	{
+		"country": "KZ",
+		"name": "Qyzylorda Oblysy",
+		"_id": 1521406,
+		"coord": {
+			"lon": 65,
+			"lat": 45
+		}
+	},
+	{
+		"country": "SA",
+		"name": "Qārā",
+		"_id": 103331,
+		"coord": {
+			"lon": 40.22694,
+			"lat": 29.87694
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qāzaw al ‘Ulyā",
+		"_id": 92244,
+		"coord": {
+			"lon": 45.692501,
+			"lat": 35.338333
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qāzaw as Suflá",
+		"_id": 445967,
+		"coord": {
+			"lon": 45.707722,
+			"lat": 35.335911
+		}
+	},
+	{
+		"country": "IQ",
+		"name": "Qūr al Aslāf",
+		"_id": 6763613,
+		"coord": {
+			"lon": 41.305698,
+			"lat": 34.217659
+		}
+	}]

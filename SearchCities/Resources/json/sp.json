@@ -1,0 +1,5744 @@
+[
+  {
+    "country": "BE",
+    "name": "'t Hoeksken",
+    "_id": 2785543,
+    "coord": {
+      "lon": 3.96667,
+      "lat": 50.799999
+    }
+  },
+  {
+    "country": "NL",
+    "name": "'t Zand",
+    "_id": 2746031,
+    "coord": {
+      "lon": 4.75556,
+      "lat": 52.83667
+    }
+  },
+  {
+    "country": "US",
+    "name": "665 Site Colonia",
+    "_id": 4669511,
+    "coord": {
+      "lon": -98.03334,
+      "lat": 27.73031
+    }
+  },
+  {
+    "country": "AE",
+    "name": "Z̧uwayhir",
+    "_id": 290400,
+    "coord": {
+      "lon": 53.200001,
+      "lat": 23.283331
+    }
+  },
+  {
+    "country": "NL",
+    "name": "agz installatietechniek",
+    "_id": 7626528,
+    "coord": {
+      "lon": 4.81981,
+      "lat": 52.64555
+    }
+  },
+  {
+    "country": "RS",
+    "name": "bar",
+    "_id": 787615,
+    "coord": {
+      "lon": 20.219311,
+      "lat": 44.943661
+    }
+  },
+  {
+    "country": "CN",
+    "name": "cheng jiao",
+    "_id": 7011353,
+    "coord": {
+      "lon": 120.340286,
+      "lat": 40.334679
+    }
+  },
+  {
+    "country": "CN",
+    "name": "dong hai dao",
+    "_id": 7158935,
+    "coord": {
+      "lon": 110.396133,
+      "lat": 21.024481
+    }
+  },
+  {
+    "country": "HU",
+    "name": "dunaujvaros",
+    "_id": 3047474,
+    "coord": {
+      "lon": 18.93288,
+      "lat": 46.967369
+    }
+  },
+  {
+    "country": "ZA",
+    "name": "eMbalenhle",
+    "_id": 1005646,
+    "coord": {
+      "lon": 29.066669,
+      "lat": -26.533331
+    }
+  },
+  {
+    "country": "ZA",
+    "name": "eSikhawini",
+    "_id": 1005029,
+    "coord": {
+      "lon": 31.899611,
+      "lat": -28.87097
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Barri de l'Església",
+    "_id": 6459155,
+    "coord": {
+      "lon": 2.94942,
+      "lat": 42.196999
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Brull",
+    "_id": 6356062,
+    "coord": {
+      "lon": 2.30249,
+      "lat": 41.815208
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Campello",
+    "_id": 2520447,
+    "coord": {
+      "lon": -0.39774,
+      "lat": 38.428848
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Catllar",
+    "_id": 6361286,
+    "coord": {
+      "lon": 1.31205,
+      "lat": 41.179729
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Catllar",
+    "_id": 3125604,
+    "coord": {
+      "lon": 1.31667,
+      "lat": 41.166672
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Clot",
+    "_id": 3124932,
+    "coord": {
+      "lon": 2.18645,
+      "lat": 41.40955
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Cogul",
+    "_id": 6358830,
+    "coord": {
+      "lon": 0.69778,
+      "lat": 41.452419
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Cogul",
+    "_id": 3124847,
+    "coord": {
+      "lon": 0.68333,
+      "lat": 41.466671
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Masroig",
+    "_id": 6361325,
+    "coord": {
+      "lon": 0.72617,
+      "lat": 41.132092
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Masroig",
+    "_id": 3117223,
+    "coord": {
+      "lon": 0.73333,
+      "lat": 41.133331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Montmell",
+    "_id": 6361332,
+    "coord": {
+      "lon": 1.49613,
+      "lat": 41.335091
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Perello",
+    "_id": 3113733,
+    "coord": {
+      "lon": 0.71667,
+      "lat": 40.866669
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Perelló",
+    "_id": 6361346,
+    "coord": {
+      "lon": 0.68802,
+      "lat": 40.858261
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pla de Santa Maria",
+    "_id": 6361350,
+    "coord": {
+      "lon": 1.30467,
+      "lat": 41.34153
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pla del Penedes",
+    "_id": 3113348,
+    "coord": {
+      "lon": 1.71667,
+      "lat": 41.416672
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pla del Penedès",
+    "_id": 6356190,
+    "coord": {
+      "lon": 1.71965,
+      "lat": 41.41642
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Poal",
+    "_id": 6358905,
+    "coord": {
+      "lon": 0.87979,
+      "lat": 41.6754
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Poal",
+    "_id": 3113314,
+    "coord": {
+      "lon": 0.86667,
+      "lat": 41.683331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pont de Bar",
+    "_id": 6358787,
+    "coord": {
+      "lon": 1.62172,
+      "lat": 42.373539
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pont de Bar",
+    "_id": 6424314,
+    "coord": {
+      "lon": 1.60538,
+      "lat": 42.371101
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pont de Suert",
+    "_id": 6358910,
+    "coord": {
+      "lon": 0.74389,
+      "lat": 42.406601
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Pont de Suert",
+    "_id": 3113225,
+    "coord": {
+      "lon": 0.74171,
+      "lat": 42.40815
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Prat de Llobregat",
+    "_id": 6356195,
+    "coord": {
+      "lon": 2.09609,
+      "lat": 41.31781
+    }
+  },
+  {
+    "country": "FR",
+    "name": "el Tec",
+    "_id": 2999262,
+    "coord": {
+      "lon": 2.54346,
+      "lat": 42.410339
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Torrico / Altorricon",
+    "_id": 6324699,
+    "coord": {
+      "lon": 0.4139,
+      "lat": 41.802799
+    }
+  },
+  {
+    "country": "ES",
+    "name": "el Vendrell",
+    "_id": 6361405,
+    "coord": {
+      "lon": 1.52882,
+      "lat": 41.20657
+    }
+  },
+  {
+    "country": "FR",
+    "name": "el Volo",
+    "_id": 3005102,
+    "coord": {
+      "lon": 2.83336,
+      "lat": 42.524239
+    }
+  },
+  {
+    "country": "DZ",
+    "name": "el hed",
+    "_id": 2476412,
+    "coord": {
+      "lon": 4.77361,
+      "lat": 36.650002
+    }
+  },
+  {
+    "country": "FR",
+    "name": "els Banys dArles",
+    "_id": 3037875,
+    "coord": {
+      "lon": 2.66916,
+      "lat": 42.472889
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Grecs",
+    "_id": 6459096,
+    "coord": {
+      "lon": 3.18541,
+      "lat": 42.264969
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Hostalets de Pierola",
+    "_id": 3123267,
+    "coord": {
+      "lon": 1.76667,
+      "lat": 41.533329
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Pallaresos",
+    "_id": 6361342,
+    "coord": {
+      "lon": 1.25836,
+      "lat": 41.169491
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Pallaresos",
+    "_id": 3114523,
+    "coord": {
+      "lon": 1.26667,
+      "lat": 41.166672
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Plans de Sió",
+    "_id": 6358988,
+    "coord": {
+      "lon": 1.20484,
+      "lat": 41.730869
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Poblets",
+    "_id": 6355514,
+    "coord": {
+      "lon": 0.01854,
+      "lat": 38.85799
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Poblets",
+    "_id": 7290713,
+    "coord": {
+      "lon": 0.02103,
+      "lat": 38.853809
+    }
+  },
+  {
+    "country": "ES",
+    "name": "els Riells",
+    "_id": 6461762,
+    "coord": {
+      "lon": 3.13844,
+      "lat": 42.112919
+    }
+  },
+  {
+    "country": "ES",
+    "name": "es Camp de Mar",
+    "_id": 6355023,
+    "coord": {
+      "lon": 2.42386,
+      "lat": 39.538269
+    }
+  },
+  {
+    "country": "ES",
+    "name": "es Mercadal",
+    "_id": 6533958,
+    "coord": {
+      "lon": 4.12184,
+      "lat": 40.0415
+    }
+  },
+  {
+    "country": "MX",
+    "name": "francisco villa",
+    "_id": 6620235,
+    "coord": {
+      "lon": -97.76442,
+      "lat": 18.844061
+    }
+  },
+  {
+    "country": "PL",
+    "name": "gmina Miasto Łowicz",
+    "_id": 6941022,
+    "coord": {
+      "lon": 19.944651,
+      "lat": 52.10614
+    }
+  },
+  {
+    "country": "TR",
+    "name": "guengoeren merter",
+    "_id": 6354985,
+    "coord": {
+      "lon": 28.887951,
+      "lat": 41.007111
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Bubanza",
+    "_id": 428514,
+    "coord": {
+      "lon": 29.4,
+      "lat": -3.11667
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Bururi",
+    "_id": 423327,
+    "coord": {
+      "lon": 29.633329,
+      "lat": -3.85
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Cankuzo",
+    "_id": 427700,
+    "coord": {
+      "lon": 30.58333,
+      "lat": -3.13333
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Cibitoke",
+    "_id": 430020,
+    "coord": {
+      "lon": 29.25,
+      "lat": -2.88333
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Gitega",
+    "_id": 426271,
+    "coord": {
+      "lon": 29.950001,
+      "lat": -3.5
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Karuzi",
+    "_id": 428218,
+    "coord": {
+      "lon": 30.133329,
+      "lat": -3.125
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Kayanza",
+    "_id": 430951,
+    "coord": {
+      "lon": 29.66667,
+      "lat": -3.06667
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Kirundo",
+    "_id": 432455,
+    "coord": {
+      "lon": 30.16667,
+      "lat": -2.58333
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Makamba",
+    "_id": 422233,
+    "coord": {
+      "lon": 29.752781,
+      "lat": -4.16667
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Muramvya",
+    "_id": 425550,
+    "coord": {
+      "lon": 29.66667,
+      "lat": -3.25
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Muyinga",
+    "_id": 431747,
+    "coord": {
+      "lon": 30.33333,
+      "lat": -2.83333
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Ngozi",
+    "_id": 430567,
+    "coord": {
+      "lon": 29.924999,
+      "lat": -2.875
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Rutana",
+    "_id": 434147,
+    "coord": {
+      "lon": 30.1,
+      "lat": -3.86667
+    }
+  },
+  {
+    "country": "BI",
+    "name": "iProvense ya Ruyigi",
+    "_id": 426699,
+    "coord": {
+      "lon": 30.316669,
+      "lat": -3.45
+    }
+  },
+  {
+    "country": "JO",
+    "name": "isfīr al Maḩaṭṭah",
+    "_id": 250303,
+    "coord": {
+      "lon": 35.762859,
+      "lat": 30.179291
+    }
+  },
+  {
+    "country": "KR",
+    "name": "jin-angun",
+    "_id": 1846114,
+    "coord": {
+      "lon": 127.425278,
+      "lat": 35.791672
+    }
+  },
+  {
+    "country": "JP",
+    "name": "kagoshima",
+    "_id": 7303136,
+    "coord": {
+      "lon": 130.556717,
+      "lat": 31.595791
+    }
+  },
+  {
+    "country": "NP",
+    "name": "kankrabari Dovan",
+    "_id": 8199102,
+    "coord": {
+      "lon": 85.459343,
+      "lat": 27.628811
+    }
+  },
+  {
+    "country": "IN",
+    "name": "karaikal",
+    "_id": 1267887,
+    "coord": {
+      "lon": 79.833328,
+      "lat": 10.91667
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l' Argentera",
+    "_id": 3129609,
+    "coord": {
+      "lon": 0.91667,
+      "lat": 41.133331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Alfàs del Pi",
+    "_id": 6355387,
+    "coord": {
+      "lon": -0.10265,
+      "lat": 38.579708
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Ametlla de Mar",
+    "_id": 6361256,
+    "coord": {
+      "lon": 0.79242,
+      "lat": 40.896278
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Ametlla del Vallès",
+    "_id": 6356043,
+    "coord": {
+      "lon": 2.25072,
+      "lat": 41.678631
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Ampolla",
+    "_id": 6361426,
+    "coord": {
+      "lon": 0.69306,
+      "lat": 40.8302
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Argentera",
+    "_id": 6361260,
+    "coord": {
+      "lon": 0.90497,
+      "lat": 41.134579
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Escala",
+    "_id": 6534053,
+    "coord": {
+      "lon": 3.13179,
+      "lat": 42.122478
+    }
+  },
+  {
+    "country": "ES",
+    "name": "l'Hospitalet de Llobregat",
+    "_id": 6356131,
+    "coord": {
+      "lon": 2.11172,
+      "lat": 41.36578
+    }
+  },
+  {
+    "country": "ES",
+    "name": "lAlcora",
+    "_id": 3130567,
+    "coord": {
+      "lon": -0.2,
+      "lat": 40.066669
+    }
+  },
+  {
+    "country": "ES",
+    "name": "lAlfas del Pi",
+    "_id": 6559503,
+    "coord": {
+      "lon": -0.10321,
+      "lat": 38.580551
+    }
+  },
+  {
+    "country": "ES",
+    "name": "lAmetlla de Mar",
+    "_id": 3120004,
+    "coord": {
+      "lon": 0.8,
+      "lat": 40.900002
+    }
+  },
+  {
+    "country": "ES",
+    "name": "lEscala",
+    "_id": 3119779,
+    "coord": {
+      "lon": 3.13261,
+      "lat": 42.125622
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Baronia de Rialb",
+    "_id": 6358799,
+    "coord": {
+      "lon": 1.18712,
+      "lat": 41.934399
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Bisbal d'Empordà",
+    "_id": 6534020,
+    "coord": {
+      "lon": 3.04209,
+      "lat": 41.95126
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Bisbal dEmporda",
+    "_id": 3119952,
+    "coord": {
+      "lon": 3.05,
+      "lat": 41.950001
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Bisbal del Penedes",
+    "_id": 3128005,
+    "coord": {
+      "lon": 1.48333,
+      "lat": 41.283329
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Bisbal del Penedès",
+    "_id": 6361271,
+    "coord": {
+      "lon": 1.4793,
+      "lat": 41.279598
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Cellera de Ter",
+    "_id": 6534042,
+    "coord": {
+      "lon": 2.60241,
+      "lat": 41.968769
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Cellera de Ter",
+    "_id": 3118954,
+    "coord": {
+      "lon": 2.62402,
+      "lat": 41.969189
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Fatarella",
+    "_id": 6361299,
+    "coord": {
+      "lon": 0.48756,
+      "lat": 41.159679
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Fatarella",
+    "_id": 3122600,
+    "coord": {
+      "lon": 0.48333,
+      "lat": 41.166672
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Fuliola",
+    "_id": 6358844,
+    "coord": {
+      "lon": 0.99821,
+      "lat": 41.720451
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Galera",
+    "_id": 6361306,
+    "coord": {
+      "lon": 0.44895,
+      "lat": 40.696629
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Garriga",
+    "_id": 3119694,
+    "coord": {
+      "lon": 2.28333,
+      "lat": 41.683331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Granadella",
+    "_id": 6358849,
+    "coord": {
+      "lon": 0.66146,
+      "lat": 41.349289
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Granadella",
+    "_id": 3121216,
+    "coord": {
+      "lon": 0.66667,
+      "lat": 41.349998
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Granja d'Escarp",
+    "_id": 6358850,
+    "coord": {
+      "lon": 0.38404,
+      "lat": 41.40934
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Granja dEscarp",
+    "_id": 3121150,
+    "coord": {
+      "lon": 0.36667,
+      "lat": 41.416672
+    }
+  },
+  {
+    "country": "FR",
+    "name": "la Guingueta dIx",
+    "_id": 3030983,
+    "coord": {
+      "lon": 1.94391,
+      "lat": 42.434158
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Jonquera",
+    "_id": 6534071,
+    "coord": {
+      "lon": 2.87464,
+      "lat": 42.416359
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Jonquera",
+    "_id": 3119559,
+    "coord": {
+      "lon": 2.87363,
+      "lat": 42.417278
+    }
+  },
+  {
+    "country": "AD",
+    "name": "la Massana",
+    "_id": 3040132,
+    "coord": {
+      "lon": 1.51483,
+      "lat": 42.544991
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Morera de Montsant",
+    "_id": 6361338,
+    "coord": {
+      "lon": 0.83942,
+      "lat": 41.264
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Morera de Montsant",
+    "_id": 3119397,
+    "coord": {
+      "lon": 0.84157,
+      "lat": 41.265289
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Nou de Berguedà",
+    "_id": 3119319,
+    "coord": {
+      "lon": 1.88333,
+      "lat": 42.166672
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Nucia",
+    "_id": 2515701,
+    "coord": {
+      "lon": -0.1269,
+      "lat": 38.61372
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pera",
+    "_id": 6534101,
+    "coord": {
+      "lon": 2.97422,
+      "lat": 42.018921
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Claramunt",
+    "_id": 6356191,
+    "coord": {
+      "lon": 1.67778,
+      "lat": 41.55901
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Farnals",
+    "_id": 2512265,
+    "coord": {
+      "lon": -0.32672,
+      "lat": 39.57782
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Lillet",
+    "_id": 6356192,
+    "coord": {
+      "lon": 1.98289,
+      "lat": 42.231651
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Mafumet",
+    "_id": 3119214,
+    "coord": {
+      "lon": 1.21667,
+      "lat": 41.183331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Massaluca",
+    "_id": 6361352,
+    "coord": {
+      "lon": 0.36024,
+      "lat": 41.194481
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Massaluca",
+    "_id": 3113300,
+    "coord": {
+      "lon": 0.35,
+      "lat": 41.183331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Pobla de Segur",
+    "_id": 3113298,
+    "coord": {
+      "lon": 0.96667,
+      "lat": 42.25
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Riera de Gaià",
+    "_id": 3119120,
+    "coord": {
+      "lon": 1.36667,
+      "lat": 41.166672
+    }
+  },
+  {
+    "country": "FR",
+    "name": "la Roca dAlbera",
+    "_id": 3006701,
+    "coord": {
+      "lon": 2.93374,
+      "lat": 42.521301
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Roca del Vallès",
+    "_id": 6356206,
+    "coord": {
+      "lon": 2.32741,
+      "lat": 41.601181
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Secuita",
+    "_id": 6361386,
+    "coord": {
+      "lon": 1.28413,
+      "lat": 41.21526
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Selva del Camp",
+    "_id": 6361387,
+    "coord": {
+      "lon": 1.12996,
+      "lat": 41.21143
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Seu dUrgell",
+    "_id": 3109143,
+    "coord": {
+      "lon": 1.46144,
+      "lat": 42.358768
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Tallada d'Empordà",
+    "_id": 6534150,
+    "coord": {
+      "lon": 3.06563,
+      "lat": 42.079781
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Tallada dEmporda",
+    "_id": 3118799,
+    "coord": {
+      "lon": 3.05583,
+      "lat": 42.0802
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Torre de Claramunt",
+    "_id": 6356304,
+    "coord": {
+      "lon": 1.66117,
+      "lat": 41.530441
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Vall d'Uixó",
+    "_id": 6357076,
+    "coord": {
+      "lon": -0.24727,
+      "lat": 39.82357
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Vall d'en Bas",
+    "_id": 6357634,
+    "coord": {
+      "lon": 2.44105,
+      "lat": 42.138859
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Vall de Bianya",
+    "_id": 6357635,
+    "coord": {
+      "lon": 2.45674,
+      "lat": 42.22348
+    }
+  },
+  {
+    "country": "ES",
+    "name": "la Vall de Boí",
+    "_id": 6358800,
+    "coord": {
+      "lon": 0.80415,
+      "lat": 42.503681
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Avellanes",
+    "_id": 3129151,
+    "coord": {
+      "lon": 0.76667,
+      "lat": 41.900002
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Borges Blanques",
+    "_id": 3127798,
+    "coord": {
+      "lon": 0.86667,
+      "lat": 41.51667
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Borges del Camp",
+    "_id": 3127797,
+    "coord": {
+      "lon": 1.01667,
+      "lat": 41.166672
+    }
+  },
+  {
+    "country": "AD",
+    "name": "les Escaldes",
+    "_id": 3040051,
+    "coord": {
+      "lon": 1.53414,
+      "lat": 42.50729
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Franqueses del Vallès",
+    "_id": 3118929,
+    "coord": {
+      "lon": 2.29305,
+      "lat": 41.622631
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Llosses",
+    "_id": 6357611,
+    "coord": {
+      "lon": 2.07639,
+      "lat": 42.161839
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Llosses",
+    "_id": 3118906,
+    "coord": {
+      "lon": 2.11667,
+      "lat": 42.150002
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Planes dHostoles",
+    "_id": 3118866,
+    "coord": {
+      "lon": 2.54093,
+      "lat": 42.05669
+    }
+  },
+  {
+    "country": "ES",
+    "name": "les Valls de Valira",
+    "_id": 6358963,
+    "coord": {
+      "lon": 1.46254,
+      "lat": 42.445229
+    }
+  },
+  {
+    "country": "IL",
+    "name": "maalot Tarshiha",
+    "_id": 293420,
+    "coord": {
+      "lon": 35.26667,
+      "lat": 33.01667
+    }
+  },
+  {
+    "country": "TR",
+    "name": "merter keresteciler",
+    "_id": 6354984,
+    "coord": {
+      "lon": 28.885929,
+      "lat": 41.012951
+    }
+  },
+  {
+    "country": "KR",
+    "name": "ogcheongun",
+    "_id": 1839873,
+    "coord": {
+      "lon": 127.568001,
+      "lat": 36.301201
+    }
+  },
+  {
+    "country": "JP",
+    "name": "owariasahi",
+    "_id": 6698269,
+    "coord": {
+      "lon": 137.029999,
+      "lat": 35.208
+    }
+  },
+  {
+    "country": "IR",
+    "name": "pamas",
+    "_id": 134905,
+    "coord": {
+      "lon": 48.462002,
+      "lat": 34.037922
+    }
+  },
+  {
+    "country": "IN",
+    "name": "patamda",
+    "_id": 1276955,
+    "coord": {
+      "lon": 85.416672,
+      "lat": 24.299999
+    }
+  },
+  {
+    "country": "IN",
+    "name": "pedda nakkalapalem",
+    "_id": 7303915,
+    "coord": {
+      "lon": 80.162018,
+      "lat": 15.8668
+    }
+  },
+  {
+    "country": "PL",
+    "name": "powiat Łowicki",
+    "_id": 6941021,
+    "coord": {
+      "lon": 19.94606,
+      "lat": 52.10627
+    }
+  },
+  {
+    "country": "NL",
+    "name": "s Gravenmoer",
+    "_id": 2747371,
+    "coord": {
+      "lon": 4.94076,
+      "lat": 51.655941
+    }
+  },
+  {
+    "country": "ES",
+    "name": "s'Arracó",
+    "_id": 2511020,
+    "coord": {
+      "lon": 2.39266,
+      "lat": 39.578171
+    }
+  },
+  {
+    "country": "NL",
+    "name": "s-Gravenzande",
+    "_id": 2747364,
+    "coord": {
+      "lon": 4.16528,
+      "lat": 52.001671
+    }
+  },
+  {
+    "country": "NL",
+    "name": "s-Heerenberg",
+    "_id": 2747357,
+    "coord": {
+      "lon": 6.25877,
+      "lat": 51.876701
+    }
+  },
+  {
+    "country": "NL",
+    "name": "s-Hertogenbosch",
+    "_id": 2747351,
+    "coord": {
+      "lon": 5.30417,
+      "lat": 51.699169
+    }
+  },
+  {
+    "country": "ES",
+    "name": "sArenal",
+    "_id": 2518723,
+    "coord": {
+      "lon": 2.75,
+      "lat": 39.5
+    }
+  },
+  {
+    "country": "ES",
+    "name": "sa Cabaneta",
+    "_id": 2516149,
+    "coord": {
+      "lon": 2.74577,
+      "lat": 39.621658
+    }
+  },
+  {
+    "country": "ES",
+    "name": "sa Pobla",
+    "_id": 2515624,
+    "coord": {
+      "lon": 3.02394,
+      "lat": 39.769199
+    }
+  },
+  {
+    "country": "ES",
+    "name": "ses Truqueries",
+    "_id": 3107512,
+    "coord": {
+      "lon": 3.83333,
+      "lat": 40.01667
+    }
+  },
+  {
+    "country": "JP",
+    "name": "shimochi",
+    "_id": 7533595,
+    "coord": {
+      "lon": 125.149467,
+      "lat": 24.827169
+    }
+  },
+  {
+    "country": "SA",
+    "name": "shokhaib",
+    "_id": 6692745,
+    "coord": {
+      "lon": 46.268711,
+      "lat": 24.490231
+    }
+  },
+  {
+    "country": "NL",
+    "name": "t Hofke",
+    "_id": 2746354,
+    "coord": {
+      "lon": 5.51926,
+      "lat": 51.449429
+    }
+  },
+  {
+    "country": "EG",
+    "name": "testing",
+    "_id": 7522531,
+    "coord": {
+      "lon": 31.40551,
+      "lat": 30.12191
+    }
+  },
+  {
+    "country": "JP",
+    "name": "tsuruhashi",
+    "_id": 7303469,
+    "coord": {
+      "lon": 135.53009,
+      "lat": 34.665051
+    }
+  },
+  {
+    "country": "IN",
+    "name": "vadlamuru",
+    "_id": 7180617,
+    "coord": {
+      "lon": 82.165649,
+      "lat": 17.095449
+    }
+  },
+  {
+    "country": "KR",
+    "name": "yeoncheongun",
+    "_id": 1832697,
+    "coord": {
+      "lon": 127.075768,
+      "lat": 38.09404
+    }
+  },
+  {
+    "country": "CN",
+    "name": "zhengzhou",
+    "_id": 1910588,
+    "coord": {
+      "lon": 113.532501,
+      "lat": 34.683609
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Àger",
+    "_id": 6358762,
+    "coord": {
+      "lon": 0.76296,
+      "lat": 42.011688
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Ábalos",
+    "_id": 6358991,
+    "coord": {
+      "lon": -2.70349,
+      "lat": 42.566349
+    }
+  },
+  {
+    "country": "GR",
+    "name": "Ágios Ioánnis",
+    "_id": 263897,
+    "coord": {
+      "lon": 20.80722,
+      "lat": 39.701389
+    }
+  },
+  {
+    "country": "GR",
+    "name": "Ágios Rókkos",
+    "_id": 2463759,
+    "coord": {
+      "lon": 19.91861,
+      "lat": 39.62167
+    }
+  },
+  {
+    "country": "SK",
+    "name": "Ágota Majer",
+    "_id": 3061268,
+    "coord": {
+      "lon": 18.75976,
+      "lat": 48.073601
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Ágreda",
+    "_id": 6361063,
+    "coord": {
+      "lon": -1.89357,
+      "lat": 41.86137
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Água Doce",
+    "_id": 3473008,
+    "coord": {
+      "lon": -51.55611,
+      "lat": -26.99778
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Água Longa",
+    "_id": 8012877,
+    "coord": {
+      "lon": -8.49796,
+      "lat": 41.265442
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Água Longa",
+    "_id": 2743315,
+    "coord": {
+      "lon": -8.49285,
+      "lat": 41.249722
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Água de Pena",
+    "_id": 2272341,
+    "coord": {
+      "lon": -16.76667,
+      "lat": 32.700001
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Águas Boas",
+    "_id": 8013919,
+    "coord": {
+      "lon": -7.63104,
+      "lat": 40.854671
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Águas Boas",
+    "_id": 2743308,
+    "coord": {
+      "lon": -7.62576,
+      "lat": 40.85725
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Águas Santas",
+    "_id": 8012741,
+    "coord": {
+      "lon": -8.57874,
+      "lat": 41.216999
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Águas da Prata",
+    "_id": 3472873,
+    "coord": {
+      "lon": -46.716671,
+      "lat": -21.93667
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Águas de Chapecó",
+    "_id": 3472871,
+    "coord": {
+      "lon": -52.986671,
+      "lat": -27.07028
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Águas de São Pedro",
+    "_id": 3472868,
+    "coord": {
+      "lon": -47.87611,
+      "lat": -22.59944
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Águeda",
+    "_id": 8010413,
+    "coord": {
+      "lon": -8.42542,
+      "lat": 40.580521
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Águeda",
+    "_id": 8010705,
+    "coord": {
+      "lon": -8.41919,
+      "lat": 40.583241
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Águia",
+    "_id": 3665430,
+    "coord": {
+      "lon": -69.433327,
+      "lat": -6.5
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Águilas",
+    "_id": 6359508,
+    "coord": {
+      "lon": -1.55921,
+      "lat": 37.447029
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Álamo (El)",
+    "_id": 6359230,
+    "coord": {
+      "lon": -3.9873,
+      "lat": 40.232841
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Áleo",
+    "_id": 3455994,
+    "coord": {
+      "lon": -49.341942,
+      "lat": -22.941389
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Álora",
+    "_id": 6359417,
+    "coord": {
+      "lon": -4.70378,
+      "lat": 36.836681
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Álvares Florence",
+    "_id": 3472419,
+    "coord": {
+      "lon": -49.910561,
+      "lat": -20.320829
+    }
+  },
+  {
+    "country": "AR",
+    "name": "Álvarez",
+    "_id": 3865991,
+    "coord": {
+      "lon": -60.803928,
+      "lat": -33.130322
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Álvaro de Carvalho",
+    "_id": 3472414,
+    "coord": {
+      "lon": -49.718891,
+      "lat": -22.08917
+    }
+  },
+  {
+    "country": "AR",
+    "name": "Álzaga",
+    "_id": 3436369,
+    "coord": {
+      "lon": -59.969978,
+      "lat": -37.859692
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Ánsola",
+    "_id": 2521715,
+    "coord": {
+      "lon": -3.78144,
+      "lat": 37.250488
+    }
+  },
+  {
+    "country": "GR",
+    "name": "Áraxos",
+    "_id": 264694,
+    "coord": {
+      "lon": 21.41667,
+      "lat": 38.166672
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Árchez",
+    "_id": 6359421,
+    "coord": {
+      "lon": -3.99515,
+      "lat": 36.827011
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Árvore",
+    "_id": 8012904,
+    "coord": {
+      "lon": -8.71569,
+      "lat": 41.336369
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Ávila",
+    "_id": 6355632,
+    "coord": {
+      "lon": -4.66064,
+      "lat": 40.66864
+    }
+  },
+  {
+    "country": "GR",
+    "name": "Áyios Athanásios",
+    "_id": 263997,
+    "coord": {
+      "lon": 22.76667,
+      "lat": 39.23333
+    }
+  },
+  {
+    "country": "GR",
+    "name": "Áyios Konstandínos",
+    "_id": 263854,
+    "coord": {
+      "lon": 21.4,
+      "lat": 38.633331
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Ázere",
+    "_id": 8013169,
+    "coord": {
+      "lon": -8.39704,
+      "lat": 41.861198
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Ângulo",
+    "_id": 3472172,
+    "coord": {
+      "lon": -51.915279,
+      "lat": -23.194719
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Ähtäri",
+    "_id": 661897,
+    "coord": {
+      "lon": 24.25,
+      "lat": 62.583328
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Älmhults Kommun",
+    "_id": 2726568,
+    "coord": {
+      "lon": 14.11667,
+      "lat": 56.549999
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Älvdalens Kommun",
+    "_id": 2726330,
+    "coord": {
+      "lon": 13.75,
+      "lat": 61.333328
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Älvsbyns Kommun",
+    "_id": 606833,
+    "coord": {
+      "lon": 21,
+      "lat": 65.699997
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Ämmälä",
+    "_id": 661242,
+    "coord": {
+      "lon": 25.700001,
+      "lat": 60.933331
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Ängelholms Kommun",
+    "_id": 2725898,
+    "coord": {
+      "lon": 12.88333,
+      "lat": 56.23333
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Äänekoski",
+    "_id": 662096,
+    "coord": {
+      "lon": 25.716669,
+      "lat": 62.583328
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Åbenrå Kommune",
+    "_id": 2625068,
+    "coord": {
+      "lon": 9.41667,
+      "lat": 55.033329
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Åbo",
+    "_id": 633680,
+    "coord": {
+      "lon": 22.283331,
+      "lat": 60.433331
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Ålborg Kommune",
+    "_id": 6543934,
+    "coord": {
+      "lon": 9.95,
+      "lat": 57
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Ålesund",
+    "_id": 6453341,
+    "coord": {
+      "lon": 6.15424,
+      "lat": 62.471241
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Åre Kommun",
+    "_id": 2725422,
+    "coord": {
+      "lon": 13.08333,
+      "lat": 63.416672
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Århus Kommune",
+    "_id": 2624647,
+    "coord": {
+      "lon": 10.16897,
+      "lat": 56.16317
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Årjängs Kommun",
+    "_id": 2725378,
+    "coord": {
+      "lon": 12.16667,
+      "lat": 59.416672
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Årslev",
+    "_id": 2624596,
+    "coord": {
+      "lon": 9.3485,
+      "lat": 55.026772
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Årstaskog",
+    "_id": 2725194,
+    "coord": {
+      "lon": 18.043329,
+      "lat": 59.30262
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Årøy",
+    "_id": 3162880,
+    "coord": {
+      "lon": 7.26667,
+      "lat": 62.75
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Åsberg",
+    "_id": 3162771,
+    "coord": {
+      "lon": 8.43333,
+      "lat": 60.416672
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Åsele Kommun",
+    "_id": 2724956,
+    "coord": {
+      "lon": 17.33333,
+      "lat": 64.166672
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Åsumtorp",
+    "_id": 2724413,
+    "coord": {
+      "lon": 14.15,
+      "lat": 56
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Åsundatorp",
+    "_id": 2724410,
+    "coord": {
+      "lon": 13.21667,
+      "lat": 59.299999
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Åtvidabergs Kommun",
+    "_id": 2724320,
+    "coord": {
+      "lon": 16,
+      "lat": 58.166672
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Åvik",
+    "_id": 2724227,
+    "coord": {
+      "lon": 17.1,
+      "lat": 61.73333
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Ærø Kommune",
+    "_id": 6543935,
+    "coord": {
+      "lon": 10.43333,
+      "lat": 54.85833
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çanakkale",
+    "_id": 749778,
+    "coord": {
+      "lon": 26.83333,
+      "lat": 40.083328
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çankırı",
+    "_id": 749747,
+    "coord": {
+      "lon": 33.416672,
+      "lat": 40.666672
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çayırözü",
+    "_id": 319041,
+    "coord": {
+      "lon": 35.2906,
+      "lat": 38.422359
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çevrik",
+    "_id": 7624782,
+    "coord": {
+      "lon": 35.92205,
+      "lat": 36.122211
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çorum",
+    "_id": 748877,
+    "coord": {
+      "lon": 34.75,
+      "lat": 40.5
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çukurçengel",
+    "_id": 748822,
+    "coord": {
+      "lon": 27.9,
+      "lat": 41.166672
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Çıkrıkcı",
+    "_id": 318487,
+    "coord": {
+      "lon": 26.98778,
+      "lat": 39.556671
+    }
+  },
+  {
+    "country": "MX",
+    "name": "Ébano",
+    "_id": 3824132,
+    "coord": {
+      "lon": -98.383331,
+      "lat": 22.216669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Ébreuil",
+    "_id": 6425349,
+    "coord": {
+      "lon": 3.08333,
+      "lat": 46.116669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écajeul",
+    "_id": 3020563,
+    "coord": {
+      "lon": -0.03605,
+      "lat": 49.070789
+    }
+  },
+  {
+    "country": "BE",
+    "name": "Écaussinnes",
+    "_id": 2791740,
+    "coord": {
+      "lon": 4.16667,
+      "lat": 50.549999
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échabrac",
+    "_id": 3020550,
+    "coord": {
+      "lon": 4.09315,
+      "lat": 45.130981
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échalou",
+    "_id": 6439084,
+    "coord": {
+      "lon": -0.5,
+      "lat": 48.73333
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échalou",
+    "_id": 3020544,
+    "coord": {
+      "lon": -0.49245,
+      "lat": 48.727261
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échassières",
+    "_id": 6425350,
+    "coord": {
+      "lon": 2.93333,
+      "lat": 46.183331
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échassières",
+    "_id": 3020533,
+    "coord": {
+      "lon": 2.93465,
+      "lat": 46.184368
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échenevex",
+    "_id": 6424521,
+    "coord": {
+      "lon": 6.03333,
+      "lat": 46.316669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échirolles",
+    "_id": 6433192,
+    "coord": {
+      "lon": 5.71667,
+      "lat": 45.133331
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échourgnac",
+    "_id": 6429368,
+    "coord": {
+      "lon": 0.23333,
+      "lat": 45.116669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Échourgnac",
+    "_id": 3020492,
+    "coord": {
+      "lon": 0.23333,
+      "lat": 45.116669
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Écija",
+    "_id": 6360994,
+    "coord": {
+      "lon": -5.0979,
+      "lat": 37.566971
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écorcei",
+    "_id": 6439086,
+    "coord": {
+      "lon": 0.58333,
+      "lat": 48.716671
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écorcei",
+    "_id": 3020460,
+    "coord": {
+      "lon": 0.57938,
+      "lat": 48.720409
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écorches",
+    "_id": 6439087,
+    "coord": {
+      "lon": 0.1,
+      "lat": 48.866669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écorches",
+    "_id": 3020459,
+    "coord": {
+      "lon": 0.09249,
+      "lat": 48.867119
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écots",
+    "_id": 3020444,
+    "coord": {
+      "lon": 0.02832,
+      "lat": 48.988499
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écouché",
+    "_id": 6439088,
+    "coord": {
+      "lon": -0.13333,
+      "lat": 48.716671
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écrammeville",
+    "_id": 6427196,
+    "coord": {
+      "lon": -0.95,
+      "lat": 49.316669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écrammeville",
+    "_id": 3020424,
+    "coord": {
+      "lon": -0.94488,
+      "lat": 49.323448
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Écully",
+    "_id": 6450758,
+    "coord": {
+      "lon": 4.76667,
+      "lat": 45.76667
+    }
+  },
+  {
+    "country": "BE",
+    "name": "Éghezée",
+    "_id": 2798950,
+    "coord": {
+      "lon": 4.90282,
+      "lat": 50.585091
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Égletons",
+    "_id": 6447532,
+    "coord": {
+      "lon": 2.05,
+      "lat": 45.400002
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Église-Neuve-de-Vergt",
+    "_id": 6429369,
+    "coord": {
+      "lon": 0.75,
+      "lat": 45.083328
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Église-Neuve-de-Vergt",
+    "_id": 3020350,
+    "coord": {
+      "lon": 0.73159,
+      "lat": 45.083061
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Égliseneuve-d'Entraigues",
+    "_id": 6440025,
+    "coord": {
+      "lon": 2.83333,
+      "lat": 45.416672
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Égliseneuve-d'Entraigues",
+    "_id": 3020352,
+    "coord": {
+      "lon": 2.82568,
+      "lat": 45.407742
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Églisolles",
+    "_id": 6440028,
+    "coord": {
+      "lon": 3.88333,
+      "lat": 45.450001
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Églisolles",
+    "_id": 3020347,
+    "coord": {
+      "lon": 3.8863,
+      "lat": 45.455799
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Élancourt",
+    "_id": 6443956,
+    "coord": {
+      "lon": 1.95,
+      "lat": 48.783329
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Émiéville",
+    "_id": 6427198,
+    "coord": {
+      "lon": -0.21667,
+      "lat": 49.150002
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Émiéville",
+    "_id": 3020239,
+    "coord": {
+      "lon": -0.22257,
+      "lat": 49.158459
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épaignes",
+    "_id": 6430361,
+    "coord": {
+      "lon": 0.44031,
+      "lat": 49.27956
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épaney",
+    "_id": 6427201,
+    "coord": {
+      "lon": -0.16667,
+      "lat": 48.950001
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épaney",
+    "_id": 3020091,
+    "coord": {
+      "lon": -0.16872,
+      "lat": 48.948029
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épernay",
+    "_id": 6435803,
+    "coord": {
+      "lon": 3.95,
+      "lat": 49.049999
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Épila",
+    "_id": 6362791,
+    "coord": {
+      "lon": -1.33241,
+      "lat": 41.591
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épinal",
+    "_id": 6445533,
+    "coord": {
+      "lon": 6.45,
+      "lat": 48.183331
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épinay-sur-Odon",
+    "_id": 6427202,
+    "coord": {
+      "lon": -0.61667,
+      "lat": 49.083328
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épinay-sur-Odon",
+    "_id": 3020022,
+    "coord": {
+      "lon": -0.62071,
+      "lat": 49.076431
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épinay-sur-Seine",
+    "_id": 6451992,
+    "coord": {
+      "lon": 2.31667,
+      "lat": 48.950001
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épreville-en-Lieuvin",
+    "_id": 6430364,
+    "coord": {
+      "lon": 0.53333,
+      "lat": 49.200001
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épreville-en-Lieuvin",
+    "_id": 3019972,
+    "coord": {
+      "lon": 0.53675,
+      "lat": 49.201672
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épron",
+    "_id": 6427203,
+    "coord": {
+      "lon": -0.36667,
+      "lat": 49.216671
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épégard",
+    "_id": 6430362,
+    "coord": {
+      "lon": 0.88333,
+      "lat": 49.183331
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Épégard",
+    "_id": 3020078,
+    "coord": {
+      "lon": 0.8791,
+      "lat": 49.181358
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Équemauville",
+    "_id": 6427204,
+    "coord": {
+      "lon": 0.2,
+      "lat": 49.400002
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Équilly",
+    "_id": 6435399,
+    "coord": {
+      "lon": -1.38333,
+      "lat": 48.833328
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Équilly",
+    "_id": 3019956,
+    "coord": {
+      "lon": -1.39475,
+      "lat": 48.838089
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Éragny",
+    "_id": 6612921,
+    "coord": {
+      "lon": 2.1,
+      "lat": 49.01667
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Érd-Parkváros",
+    "_id": 3053228,
+    "coord": {
+      "lon": 18.90391,
+      "lat": 47.410431
+    }
+  },
+  {
+    "country": "BE",
+    "name": "Érezée",
+    "_id": 2798699,
+    "coord": {
+      "lon": 5.55,
+      "lat": 50.299999
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Érôme",
+    "_id": 6430081,
+    "coord": {
+      "lon": 4.81667,
+      "lat": 45.116669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Érôme",
+    "_id": 3019885,
+    "coord": {
+      "lon": 4.81854,
+      "lat": 45.121529
+    }
+  },
+  {
+    "country": "BE",
+    "name": "Étalle",
+    "_id": 2798594,
+    "coord": {
+      "lon": 5.61667,
+      "lat": 49.666672
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étampes",
+    "_id": 6446136,
+    "coord": {
+      "lon": 2.15,
+      "lat": 48.433331
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étaples",
+    "_id": 6439513,
+    "coord": {
+      "lon": 1.65,
+      "lat": 50.51667
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étauliers",
+    "_id": 6432218,
+    "coord": {
+      "lon": -0.56667,
+      "lat": 45.216671
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étel",
+    "_id": 6455181,
+    "coord": {
+      "lon": -3.2,
+      "lat": 47.650002
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étienville",
+    "_id": 6435401,
+    "coord": {
+      "lon": -1.41667,
+      "lat": 49.383331
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étienville",
+    "_id": 3019410,
+    "coord": {
+      "lon": -1.42783,
+      "lat": 49.385288
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étroussat",
+    "_id": 6425354,
+    "coord": {
+      "lon": 3.21667,
+      "lat": 46.216671
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étroussat",
+    "_id": 3019342,
+    "coord": {
+      "lon": 3.22022,
+      "lat": 46.219501
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étréchy",
+    "_id": 6454877,
+    "coord": {
+      "lon": 2.2,
+      "lat": 48.5
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étréham",
+    "_id": 6613366,
+    "coord": {
+      "lon": -0.8,
+      "lat": 49.316669
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Étréham",
+    "_id": 3019370,
+    "coord": {
+      "lon": -0.8,
+      "lat": 49.316669
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Étura",
+    "_id": 3122720,
+    "coord": {
+      "lon": -2.49132,
+      "lat": 42.891312
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Évaillé",
+    "_id": 6442572,
+    "coord": {
+      "lon": 0.63333,
+      "lat": 47.900002
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Évaillé",
+    "_id": 3019304,
+    "coord": {
+      "lon": 0.63126,
+      "lat": 47.899929
+    }
+  },
+  {
+    "country": "BE",
+    "name": "Évegnée-Tignée",
+    "_id": 2798565,
+    "coord": {
+      "lon": 5.70783,
+      "lat": 50.646469
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Évette-Salbert",
+    "_id": 6617939,
+    "coord": {
+      "lon": 6.7985,
+      "lat": 47.674801
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Évora",
+    "_id": 8010502,
+    "coord": {
+      "lon": -7.8946,
+      "lat": 38.566502
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Évora Monte (Santa Maria)",
+    "_id": 8011926,
+    "coord": {
+      "lon": -7.71699,
+      "lat": 38.741581
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Évreux",
+    "_id": 6453890,
+    "coord": {
+      "lon": 1.15223,
+      "lat": 49.024311
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Évry",
+    "_id": 6454878,
+    "coord": {
+      "lon": 2.45,
+      "lat": 48.633331
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Íbero",
+    "_id": 3120474,
+    "coord": {
+      "lon": -1.77506,
+      "lat": 42.802879
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Ílhavo",
+    "_id": 8010422,
+    "coord": {
+      "lon": -8.72,
+      "lat": 40.611698
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Ílhavo (São Salvador)",
+    "_id": 8010801,
+    "coord": {
+      "lon": -8.67622,
+      "lat": 40.596722
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Íscar",
+    "_id": 6362202,
+    "coord": {
+      "lon": -4.52458,
+      "lat": 41.34343
+    }
+  },
+  {
+    "country": "KM",
+    "name": "Île Autonome de Grande Comore",
+    "_id": 921882,
+    "coord": {
+      "lon": 43.333328,
+      "lat": -11.58333
+    }
+  },
+  {
+    "country": "HR",
+    "name": "Ðakovo",
+    "_id": 3202220,
+    "coord": {
+      "lon": 18.410561,
+      "lat": 45.308331
+    }
+  },
+  {
+    "country": "HR",
+    "name": "Ðurđevac",
+    "_id": 3200961,
+    "coord": {
+      "lon": 17.069719,
+      "lat": 46.041111
+    }
+  },
+  {
+    "country": "AR",
+    "name": "Ñirihuau",
+    "_id": 3843037,
+    "coord": {
+      "lon": -71.150002,
+      "lat": -41.116669
+    }
+  },
+  {
+    "country": "CL",
+    "name": "Ñuñoa",
+    "_id": 3878431,
+    "coord": {
+      "lon": -70.599998,
+      "lat": -33.466671
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Òdena",
+    "_id": 6356172,
+    "coord": {
+      "lon": 1.63284,
+      "lat": 41.61784
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Òrrius",
+    "_id": 6356181,
+    "coord": {
+      "lon": 2.34958,
+      "lat": 41.553928
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Óbidos",
+    "_id": 8010552,
+    "coord": {
+      "lon": -9.17603,
+      "lat": 39.35854
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Óis do Bairro",
+    "_id": 8014305,
+    "coord": {
+      "lon": -8.48371,
+      "lat": 40.428669
+    }
+  },
+  {
+    "country": "PT",
+    "name": "Óis do Bairro",
+    "_id": 2737086,
+    "coord": {
+      "lon": -8.48372,
+      "lat": 40.432079
+    }
+  },
+  {
+    "country": "IS",
+    "name": "Ólafsvík",
+    "_id": 3414079,
+    "coord": {
+      "lon": -23.714239,
+      "lat": 64.894524
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Ólvega",
+    "_id": 6361174,
+    "coord": {
+      "lon": -1.97983,
+      "lat": 41.791481
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Órgiva",
+    "_id": 6357755,
+    "coord": {
+      "lon": -3.38416,
+      "lat": 36.866428
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Ószőlőskert",
+    "_id": 716686,
+    "coord": {
+      "lon": 21.933331,
+      "lat": 47.866669
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Ôlho do Sertão",
+    "_id": 3393544,
+    "coord": {
+      "lon": -36.75,
+      "lat": -9.83333
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Ôlho d’Água",
+    "_id": 3455976,
+    "coord": {
+      "lon": -48.599998,
+      "lat": -16.033331
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Ôlho d’Água",
+    "_id": 3393680,
+    "coord": {
+      "lon": -44.650002,
+      "lat": -4.56667
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Ôlho d’Água de Igreja",
+    "_id": 3393595,
+    "coord": {
+      "lon": -38.933331,
+      "lat": -7.28333
+    }
+  },
+  {
+    "country": "AT",
+    "name": "Öblarn",
+    "_id": 7873502,
+    "coord": {
+      "lon": 14.02492,
+      "lat": 47.42738
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öchlitz",
+    "_id": 2857654,
+    "coord": {
+      "lon": 11.76667,
+      "lat": 51.333328
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öd",
+    "_id": 2858178,
+    "coord": {
+      "lon": 12.45,
+      "lat": 48.049999
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ödenahlen",
+    "_id": 2858146,
+    "coord": {
+      "lon": 9.63333,
+      "lat": 48.116669
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ödenstockach",
+    "_id": 2858108,
+    "coord": {
+      "lon": 11.69606,
+      "lat": 48.08485
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ödenwaldstetten",
+    "_id": 2858100,
+    "coord": {
+      "lon": 9.37254,
+      "lat": 48.348461
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ödernhardt",
+    "_id": 2858074,
+    "coord": {
+      "lon": 9.46571,
+      "lat": 48.853859
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ödinghausen",
+    "_id": 2858017,
+    "coord": {
+      "lon": 7.55,
+      "lat": 50.900002
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ödmühl",
+    "_id": 2858007,
+    "coord": {
+      "lon": 12.75,
+      "lat": 47.76667
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öfingen",
+    "_id": 2857763,
+    "coord": {
+      "lon": 8.63663,
+      "lat": 47.990879
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öhde",
+    "_id": 2857725,
+    "coord": {
+      "lon": 7.23333,
+      "lat": 51.26667
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öhningen",
+    "_id": 6555867,
+    "coord": {
+      "lon": 8.9,
+      "lat": 47.666698
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öhrenfeld",
+    "_id": 2857576,
+    "coord": {
+      "lon": 10.71667,
+      "lat": 51.849998
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Öja",
+    "_id": 643991,
+    "coord": {
+      "lon": 22.91667,
+      "lat": 63.833328
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öjendorf",
+    "_id": 2857529,
+    "coord": {
+      "lon": 10.13333,
+      "lat": 53.549999
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ölbronn",
+    "_id": 2857476,
+    "coord": {
+      "lon": 8.75,
+      "lat": 48.98333
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ölbronn-Dürrn",
+    "_id": 6555715,
+    "coord": {
+      "lon": 8.75,
+      "lat": 48.966702
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ölböm",
+    "_id": 2857478,
+    "coord": {
+      "lon": 10.51667,
+      "lat": 54.316669
+    }
+  },
+  {
+    "country": "AT",
+    "name": "Ölkam",
+    "_id": 2769487,
+    "coord": {
+      "lon": 14.3593,
+      "lat": 48.225021
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öllingen",
+    "_id": 6555986,
+    "coord": {
+      "lon": 10.14729,
+      "lat": 48.52877
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ölsen",
+    "_id": 6553432,
+    "coord": {
+      "lon": 7.6,
+      "lat": 50.733299
+    }
+  },
+  {
+    "country": "MN",
+    "name": "Ömnögovĭ Aymag",
+    "_id": 2029669,
+    "coord": {
+      "lon": 104,
+      "lat": 43
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Ön",
+    "_id": 603897,
+    "coord": {
+      "lon": 20.2866,
+      "lat": 63.80788
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öpfingen",
+    "_id": 6555987,
+    "coord": {
+      "lon": 9.80315,
+      "lat": 48.286388
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Örebro Kommun",
+    "_id": 2686656,
+    "coord": {
+      "lon": 15.41667,
+      "lat": 59.26667
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Örebro Län",
+    "_id": 2686655,
+    "coord": {
+      "lon": 15,
+      "lat": 59.5
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Öreghegy",
+    "_id": 3047005,
+    "coord": {
+      "lon": 18.133329,
+      "lat": 47.116669
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Örken",
+    "_id": 3206589,
+    "coord": {
+      "lon": 8.55,
+      "lat": 52.083328
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Örlsdorf",
+    "_id": 2857899,
+    "coord": {
+      "lon": 11.16966,
+      "lat": 50.298
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Örnsköldsviks Kommun",
+    "_id": 2686466,
+    "coord": {
+      "lon": 18.716669,
+      "lat": 63.283329
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öschelbronn",
+    "_id": 2856935,
+    "coord": {
+      "lon": 8.81667,
+      "lat": 48.900002
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ösede",
+    "_id": 2856912,
+    "coord": {
+      "lon": 8.06667,
+      "lat": 52.216671
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Östanbo",
+    "_id": 2686087,
+    "coord": {
+      "lon": 17.133329,
+      "lat": 61.26667
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Österbotten",
+    "_id": 830676,
+    "coord": {
+      "lon": 22,
+      "lat": 63
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Österby",
+    "_id": 2685915,
+    "coord": {
+      "lon": 18.799999,
+      "lat": 57.716671
+    }
+  },
+  {
+    "country": "FI",
+    "name": "Österby",
+    "_id": 840758,
+    "coord": {
+      "lon": 24.43528,
+      "lat": 60.177219
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Östergötlands Län",
+    "_id": 2685867,
+    "coord": {
+      "lon": 15.75,
+      "lat": 58.416672
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Östersunds Kommun",
+    "_id": 2685747,
+    "coord": {
+      "lon": 14.91667,
+      "lat": 63.25
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Österåkers Kommun",
+    "_id": 2685981,
+    "coord": {
+      "lon": 18.299789,
+      "lat": 59.483452
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Östra Vi",
+    "_id": 2685177,
+    "coord": {
+      "lon": 18.316669,
+      "lat": 57.633331
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Östrich",
+    "_id": 2856210,
+    "coord": {
+      "lon": 6.31667,
+      "lat": 51.083328
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ötigheim",
+    "_id": 6555633,
+    "coord": {
+      "lon": 8.23333,
+      "lat": 48.883301
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ötinghausen",
+    "_id": 2856161,
+    "coord": {
+      "lon": 8.61667,
+      "lat": 52.150002
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ötisheim",
+    "_id": 6555709,
+    "coord": {
+      "lon": 8.8,
+      "lat": 48.966702
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ötjendorf",
+    "_id": 2856158,
+    "coord": {
+      "lon": 10.33333,
+      "lat": 53.683331
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ötzingen",
+    "_id": 6554167,
+    "coord": {
+      "lon": 7.83333,
+      "lat": 50.5
+    }
+  },
+  {
+    "country": "MN",
+    "name": "Övörhangay Aymag",
+    "_id": 2029546,
+    "coord": {
+      "lon": 102.5,
+      "lat": 46
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Öxing",
+    "_id": 2855812,
+    "coord": {
+      "lon": 11.96667,
+      "lat": 48.049999
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Ølby Lyng",
+    "_id": 2615754,
+    "coord": {
+      "lon": 12.18416,
+      "lat": 55.49015
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Ørland",
+    "_id": 3143410,
+    "coord": {
+      "lon": 9.66633,
+      "lat": 63.685741
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Ørsta",
+    "_id": 3143333,
+    "coord": {
+      "lon": 6.13084,
+      "lat": 62.199371
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Østerby",
+    "_id": 2615589,
+    "coord": {
+      "lon": 10.13967,
+      "lat": 56.083038
+    }
+  },
+  {
+    "country": "DK",
+    "name": "Østerby",
+    "_id": 2615590,
+    "coord": {
+      "lon": 8.34587,
+      "lat": 55.98381
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Østfold fylke",
+    "_id": 3143188,
+    "coord": {
+      "lon": 11.5,
+      "lat": 59.333328
+    }
+  },
+  {
+    "country": "NO",
+    "name": "Øyer",
+    "_id": 3142849,
+    "coord": {
+      "lon": 10.41297,
+      "lat": 61.26495
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Úbeda",
+    "_id": 6358538,
+    "coord": {
+      "lon": -3.36868,
+      "lat": 38.013569
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Újezd nad Lesy",
+    "_id": 3063652,
+    "coord": {
+      "lon": 14.6595,
+      "lat": 50.076481
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Újhegy",
+    "_id": 3043542,
+    "coord": {
+      "lon": 17.283331,
+      "lat": 46.98333
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Újszeged",
+    "_id": 714419,
+    "coord": {
+      "lon": 20.16571,
+      "lat": 46.24754
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Újtanya",
+    "_id": 714397,
+    "coord": {
+      "lon": 22,
+      "lat": 47.966671
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Újtelep",
+    "_id": 714367,
+    "coord": {
+      "lon": 21.383329,
+      "lat": 48.01667
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Újtelep",
+    "_id": 3043417,
+    "coord": {
+      "lon": 17.08333,
+      "lat": 46.950001
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Ústecký kraj",
+    "_id": 3339577,
+    "coord": {
+      "lon": 13.83333,
+      "lat": 50.5
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Úsztatómajor",
+    "_id": 3043306,
+    "coord": {
+      "lon": 17.25,
+      "lat": 46.76667
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Übach-Palenberg",
+    "_id": 2820622,
+    "coord": {
+      "lon": 6.08333,
+      "lat": 50.933331
+    }
+  },
+  {
+    "country": "AT",
+    "name": "Übelbach",
+    "_id": 7873416,
+    "coord": {
+      "lon": 15.16588,
+      "lat": 47.23571
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Übereisenbach",
+    "_id": 6554510,
+    "coord": {
+      "lon": 6.15,
+      "lat": 50
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Überherrn",
+    "_id": 6547527,
+    "coord": {
+      "lon": 6.7088,
+      "lat": 49.254398
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Überhöfe",
+    "_id": 2820582,
+    "coord": {
+      "lon": 7.16667,
+      "lat": 50.916672
+    }
+  },
+  {
+    "country": "AT",
+    "name": "Übersaxen",
+    "_id": 7873751,
+    "coord": {
+      "lon": 9.69016,
+      "lat": 47.251751
+    }
+  },
+  {
+    "country": "AT",
+    "name": "Übersbach",
+    "_id": 7872324,
+    "coord": {
+      "lon": 16.053341,
+      "lat": 47.02013
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Überscheid",
+    "_id": 2820565,
+    "coord": {
+      "lon": 6.71667,
+      "lat": 50.049999
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Übersee",
+    "_id": 6556418,
+    "coord": {
+      "lon": 12.4832,
+      "lat": 47.8176
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üchtelhausen",
+    "_id": 6557072,
+    "coord": {
+      "lon": 10.2667,
+      "lat": 50.083302
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ückeritz",
+    "_id": 2820522,
+    "coord": {
+      "lon": 13.18497,
+      "lat": 53.922539
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ückeritz",
+    "_id": 6548325,
+    "coord": {
+      "lon": 14.05,
+      "lat": 54.016701
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ückesdorf",
+    "_id": 2820517,
+    "coord": {
+      "lon": 7.08333,
+      "lat": 50.700001
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üdemerfeld",
+    "_id": 2820507,
+    "coord": {
+      "lon": 6.3,
+      "lat": 51.666672
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üdersdorf",
+    "_id": 6554671,
+    "coord": {
+      "lon": 6.8,
+      "lat": 50.150002
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üdingen",
+    "_id": 2820489,
+    "coord": {
+      "lon": 6.48333,
+      "lat": 50.73333
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ühlingen-Birkendorf",
+    "_id": 6555923,
+    "coord": {
+      "lon": 8.31667,
+      "lat": 47.716702
+    }
+  },
+  {
+    "country": "EE",
+    "name": "Ülenurme vald",
+    "_id": 7522400,
+    "coord": {
+      "lon": 26.68075,
+      "lat": 58.315201
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üllnitz",
+    "_id": 2820261,
+    "coord": {
+      "lon": 11.66667,
+      "lat": 51.883331
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ülpenich",
+    "_id": 2820239,
+    "coord": {
+      "lon": 6.7,
+      "lat": 50.683331
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ülsby",
+    "_id": 7602403,
+    "coord": {
+      "lon": 9.6,
+      "lat": 54.633331
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ümmingen",
+    "_id": 2820168,
+    "coord": {
+      "lon": 7.3,
+      "lat": 51.466671
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Ürzig",
+    "_id": 6554378,
+    "coord": {
+      "lon": 7,
+      "lat": 49.983299
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üschersdorf",
+    "_id": 2818114,
+    "coord": {
+      "lon": 10.61667,
+      "lat": 50.150002
+    }
+  },
+  {
+    "country": "KZ",
+    "name": "Üsharal",
+    "_id": 1517836,
+    "coord": {
+      "lon": 80.939438,
+      "lat": 46.16972
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Üsküdar",
+    "_id": 738329,
+    "coord": {
+      "lon": 29.023689,
+      "lat": 41.022518
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üssinghausen",
+    "_id": 2818085,
+    "coord": {
+      "lon": 9.8,
+      "lat": 51.683331
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Üxheim",
+    "_id": 6554672,
+    "coord": {
+      "lon": 6.75,
+      "lat": 50.349998
+    }
+  },
+  {
+    "country": "BR",
+    "name": "áurea",
+    "_id": 3471312,
+    "coord": {
+      "lon": -52.049438,
+      "lat": -27.69722
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Ābyek",
+    "_id": 144795,
+    "coord": {
+      "lon": 50.531021,
+      "lat": 36.039928
+    }
+  },
+  {
+    "country": "ET",
+    "name": "Ādīs",
+    "_id": 344982,
+    "coord": {
+      "lon": 38.76667,
+      "lat": 8.95
+    }
+  },
+  {
+    "country": "ET",
+    "name": "Ādīs Ābeba Āstedader",
+    "_id": 444178,
+    "coord": {
+      "lon": 38.75,
+      "lat": 9
+    }
+  },
+  {
+    "country": "ET",
+    "name": "Āfar Kilil",
+    "_id": 444179,
+    "coord": {
+      "lon": 41.5,
+      "lat": 12
+    }
+  },
+  {
+    "country": "IN",
+    "name": "Āgra",
+    "_id": 1279262,
+    "coord": {
+      "lon": 77.966667,
+      "lat": 27.08333
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Ākhūndzādah Khēl",
+    "_id": 1457199,
+    "coord": {
+      "lon": 68.584442,
+      "lat": 34.352501
+    }
+  },
+  {
+    "country": "ET",
+    "name": "Āmara Kilil",
+    "_id": 444180,
+    "coord": {
+      "lon": 38.5,
+      "lat": 11.5
+    }
+  },
+  {
+    "country": "IN",
+    "name": "Āmer",
+    "_id": 1278809,
+    "coord": {
+      "lon": 75.866669,
+      "lat": 26.983334
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Āq Kowtal",
+    "_id": 1148535,
+    "coord": {
+      "lon": 64.460831,
+      "lat": 35.542782
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Āqdūz",
+    "_id": 14177,
+    "coord": {
+      "lon": 44.26556,
+      "lat": 39.197498
+    }
+  },
+  {
+    "country": "PK",
+    "name": "Ārya",
+    "_id": 1184330,
+    "coord": {
+      "lon": 73.066673,
+      "lat": 33.599998
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Āsmān Bānḏah",
+    "_id": 1473427,
+    "coord": {
+      "lon": 70.091843,
+      "lat": 34.162819
+    }
+  },
+  {
+    "country": "ET",
+    "name": "Āwarē",
+    "_id": 343143,
+    "coord": {
+      "lon": 44.15667,
+      "lat": 8.25611
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Āz̄ar Bonāb",
+    "_id": 6711051,
+    "coord": {
+      "lon": 46.123699,
+      "lat": 37.372002
+    }
+  },
+  {
+    "country": "HR",
+    "name": "Čabar",
+    "_id": 3202932,
+    "coord": {
+      "lon": 14.64083,
+      "lat": 45.595829
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Čakovice",
+    "_id": 3078251,
+    "coord": {
+      "lon": 14.52393,
+      "lat": 50.151279
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Černčice",
+    "_id": 3078064,
+    "coord": {
+      "lon": 13.91642,
+      "lat": 50.56176
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Čertousy",
+    "_id": 3077996,
+    "coord": {
+      "lon": 14.63333,
+      "lat": 50.116669
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Červený Hrádek",
+    "_id": 3077960,
+    "coord": {
+      "lon": 14.4481,
+      "lat": 49.659801
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "České Křižánky",
+    "_id": 3077909,
+    "coord": {
+      "lon": 16.062519,
+      "lat": 49.68956
+    }
+  },
+  {
+    "country": "RS",
+    "name": "Česta",
+    "_id": 791949,
+    "coord": {
+      "lon": 21.653891,
+      "lat": 43.430561
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Čestlice",
+    "_id": 3077872,
+    "coord": {
+      "lon": 14.58361,
+      "lat": 50.00251
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Čisovice",
+    "_id": 3077385,
+    "coord": {
+      "lon": 14.31478,
+      "lat": 49.86338
+    }
+  },
+  {
+    "country": "SI",
+    "name": "Črnuče",
+    "_id": 3202328,
+    "coord": {
+      "lon": 14.53333,
+      "lat": 46.099998
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Čtyři Dvory",
+    "_id": 3077331,
+    "coord": {
+      "lon": 14.45269,
+      "lat": 48.982738
+    }
+  },
+  {
+    "country": "HR",
+    "name": "Čučerski Vidovec",
+    "_id": 3202308,
+    "coord": {
+      "lon": 16.03722,
+      "lat": 45.902222
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Ďáblice",
+    "_id": 3077309,
+    "coord": {
+      "lon": 14.48565,
+      "lat": 50.145611
+    }
+  },
+  {
+    "country": "LV",
+    "name": "Ērgļi",
+    "_id": 460001,
+    "coord": {
+      "lon": 25.636681,
+      "lat": 56.897518
+    }
+  },
+  {
+    "country": "MT",
+    "name": "Ħal-Bajjada",
+    "_id": 2563015,
+    "coord": {
+      "lon": 14.39583,
+      "lat": 35.878059
+    }
+  },
+  {
+    "country": "PK",
+    "name": "Īsa Goth",
+    "_id": 1181407,
+    "coord": {
+      "lon": 62.126945,
+      "lat": 25.288334
+    }
+  },
+  {
+    "country": "TR",
+    "name": "İkisaray",
+    "_id": 311616,
+    "coord": {
+      "lon": 29.48333,
+      "lat": 38.683331
+    }
+  },
+  {
+    "country": "TR",
+    "name": "İncirlik",
+    "_id": 311319,
+    "coord": {
+      "lon": 35.4361,
+      "lat": 36.989719
+    }
+  },
+  {
+    "country": "TR",
+    "name": "İstanbul",
+    "_id": 745042,
+    "coord": {
+      "lon": 28.983311,
+      "lat": 41.03508
+    }
+  },
+  {
+    "country": "TR",
+    "name": "İzmir",
+    "_id": 311044,
+    "coord": {
+      "lon": 27.092291,
+      "lat": 38.462189
+    }
+  },
+  {
+    "country": "TR",
+    "name": "İçel",
+    "_id": 311728,
+    "coord": {
+      "lon": 34.650879,
+      "lat": 36.862041
+    }
+  },
+  {
+    "country": "LV",
+    "name": "Ķivita",
+    "_id": 458774,
+    "coord": {
+      "lon": 21.183331,
+      "lat": 56.549999
+    }
+  },
+  {
+    "country": "LV",
+    "name": "Ļurbava",
+    "_id": 457742,
+    "coord": {
+      "lon": 27.66486,
+      "lat": 56.781792
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łany Wielkie",
+    "_id": 3093925,
+    "coord": {
+      "lon": 18.543119,
+      "lat": 50.2836
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łapiguz",
+    "_id": 766790,
+    "coord": {
+      "lon": 22.356779,
+      "lat": 51.924782
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łapsze Niżne",
+    "_id": 7532777,
+    "coord": {
+      "lon": 20.24205,
+      "lat": 49.398911
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łapy",
+    "_id": 7533050,
+    "coord": {
+      "lon": 22.8771,
+      "lat": 52.993698
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łapy Zięciuki",
+    "_id": 766774,
+    "coord": {
+      "lon": 22.86302,
+      "lat": 52.985561
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łask",
+    "_id": 7533524,
+    "coord": {
+      "lon": 19.158199,
+      "lat": 51.601799
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łasztownia",
+    "_id": 3093826,
+    "coord": {
+      "lon": 14.56667,
+      "lat": 53.416672
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Ławica",
+    "_id": 3093816,
+    "coord": {
+      "lon": 16.81251,
+      "lat": 52.406151
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łaziska",
+    "_id": 7532479,
+    "coord": {
+      "lon": 21.855801,
+      "lat": 51.152401
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łaziska Górne",
+    "_id": 7532266,
+    "coord": {
+      "lon": 18.8528,
+      "lat": 50.143398
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łazy",
+    "_id": 7533249,
+    "coord": {
+      "lon": 19.392,
+      "lat": 50.425201
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łańcut",
+    "_id": 7531339,
+    "coord": {
+      "lon": 22.224569,
+      "lat": 50.069698
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łażany",
+    "_id": 3093802,
+    "coord": {
+      "lon": 16.492201,
+      "lat": 50.957451
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łeba",
+    "_id": 7532912,
+    "coord": {
+      "lon": 17.557871,
+      "lat": 54.761879
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łobez",
+    "_id": 7533328,
+    "coord": {
+      "lon": 15.6133,
+      "lat": 53.635899
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łoje",
+    "_id": 766057,
+    "coord": {
+      "lon": 22.5618,
+      "lat": 54.28046
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łomianki",
+    "_id": 7533497,
+    "coord": {
+      "lon": 20.8939,
+      "lat": 52.333199
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łomianki Dolne",
+    "_id": 766041,
+    "coord": {
+      "lon": 20.90514,
+      "lat": 52.35408
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łomża",
+    "_id": 7530773,
+    "coord": {
+      "lon": 22.05888,
+      "lat": 53.182671
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łomża",
+    "_id": 7531442,
+    "coord": {
+      "lon": 22.05888,
+      "lat": 53.182671
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łomżyca",
+    "_id": 766023,
+    "coord": {
+      "lon": 22.03982,
+      "lat": 53.17382
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łosice",
+    "_id": 7533149,
+    "coord": {
+      "lon": 22.719801,
+      "lat": 52.1959
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łubniany",
+    "_id": 7532595,
+    "coord": {
+      "lon": 18.0193,
+      "lat": 50.783901
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łubowo",
+    "_id": 7531627,
+    "coord": {
+      "lon": 17.426821,
+      "lat": 52.502602
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łuków",
+    "_id": 7532097,
+    "coord": {
+      "lon": 22.3855,
+      "lat": 51.925201
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łużna",
+    "_id": 7532661,
+    "coord": {
+      "lon": 21.060699,
+      "lat": 49.697201
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łysica",
+    "_id": 3092630,
+    "coord": {
+      "lon": 19.450001,
+      "lat": 54.383331
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łączki Jagiellońskie",
+    "_id": 766869,
+    "coord": {
+      "lon": 21.6919,
+      "lat": 49.788471
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łęczna",
+    "_id": 7533052,
+    "coord": {
+      "lon": 22.885099,
+      "lat": 51.302502
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łęczyca",
+    "_id": 7532231,
+    "coord": {
+      "lon": 19.198999,
+      "lat": 52.054298
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łęczyca",
+    "_id": 3093725,
+    "coord": {
+      "lon": 16.87517,
+      "lat": 52.307949
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Łęknice",
+    "_id": 3093646,
+    "coord": {
+      "lon": 19.21406,
+      "lat": 50.346008
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ō-kubo",
+    "_id": 1854255,
+    "coord": {
+      "lon": 135.350006,
+      "lat": 34.400002
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōdaira",
+    "_id": 2111543,
+    "coord": {
+      "lon": 140.283325,
+      "lat": 37.849998
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōdaka",
+    "_id": 1854762,
+    "coord": {
+      "lon": 136.933334,
+      "lat": 35.066669
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōdera",
+    "_id": 1854742,
+    "coord": {
+      "lon": 139.983337,
+      "lat": 37.549999
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōfunakoshi",
+    "_id": 1854712,
+    "coord": {
+      "lon": 129.354721,
+      "lat": 34.273331
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōgimachiya",
+    "_id": 1854642,
+    "coord": {
+      "lon": 139.399994,
+      "lat": 35.833328
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōhama",
+    "_id": 1854588,
+    "coord": {
+      "lon": 124.19706,
+      "lat": 24.344481
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōhasama",
+    "_id": 2111488,
+    "coord": {
+      "lon": 141.283325,
+      "lat": 39.466671
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōishida",
+    "_id": 2111471,
+    "coord": {
+      "lon": 140.371384,
+      "lat": 38.586941
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōita-ken",
+    "_id": 1854484,
+    "coord": {
+      "lon": 131.433533,
+      "lat": 33.19899
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōji",
+    "_id": 1854461,
+    "coord": {
+      "lon": 135.616669,
+      "lat": 34.98333
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōmagari",
+    "_id": 2128690,
+    "coord": {
+      "lon": 141.473892,
+      "lat": 42.968891
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōmiya",
+    "_id": 1854128,
+    "coord": {
+      "lon": 138.616669,
+      "lat": 35.216671
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōsaka-fu",
+    "_id": 1853904,
+    "coord": {
+      "lon": 135.519684,
+      "lat": 34.68631
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Ōtsuki",
+    "_id": 2111302,
+    "coord": {
+      "lon": 140.316666,
+      "lat": 37.383331
+    }
+  },
+  {
+    "country": "HU",
+    "name": "Őriszentpéter",
+    "_id": 3046922,
+    "coord": {
+      "lon": 16.42944,
+      "lat": 46.840832
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Œting",
+    "_id": 6615087,
+    "coord": {
+      "lon": 6.91667,
+      "lat": 49.166672
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Řitka",
+    "_id": 3066849,
+    "coord": {
+      "lon": 14.29923,
+      "lat": 49.894508
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Ściegny",
+    "_id": 3086212,
+    "coord": {
+      "lon": 15.77878,
+      "lat": 50.788738
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Ścinawa",
+    "_id": 7533214,
+    "coord": {
+      "lon": 16.4251,
+      "lat": 51.410099
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Śrem",
+    "_id": 7533378,
+    "coord": {
+      "lon": 17.0187,
+      "lat": 52.0867
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Środa Wielkopolska",
+    "_id": 7533339,
+    "coord": {
+      "lon": 17.2803,
+      "lat": 52.2299
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Śródmieście",
+    "_id": 3085041,
+    "coord": {
+      "lon": 19.939581,
+      "lat": 50.061779
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świdnica",
+    "_id": 7532248,
+    "coord": {
+      "lon": 16.4925,
+      "lat": 50.840599
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świdnik",
+    "_id": 7531487,
+    "coord": {
+      "lon": 22.68494,
+      "lat": 51.216709
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świdnik Mały",
+    "_id": 757690,
+    "coord": {
+      "lon": 22.6805,
+      "lat": 51.256008
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świdwin",
+    "_id": 7531696,
+    "coord": {
+      "lon": 15.7973,
+      "lat": 53.7742
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świebodzice",
+    "_id": 7531967,
+    "coord": {
+      "lon": 16.338499,
+      "lat": 50.872501
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świebodzin",
+    "_id": 7533428,
+    "coord": {
+      "lon": 15.5311,
+      "lat": 52.244202
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świecie",
+    "_id": 7533276,
+    "coord": {
+      "lon": 18.418699,
+      "lat": 53.403099
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świeradów-Zdrój",
+    "_id": 7531973,
+    "coord": {
+      "lon": 15.3231,
+      "lat": 50.916901
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świerklaniec",
+    "_id": 7531935,
+    "coord": {
+      "lon": 18.936569,
+      "lat": 50.442261
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świerklany",
+    "_id": 7532592,
+    "coord": {
+      "lon": 18.58046,
+      "lat": 50.02026
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świnobród",
+    "_id": 3083956,
+    "coord": {
+      "lon": 17.059879,
+      "lat": 50.84996
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świnoujście",
+    "_id": 7530749,
+    "coord": {
+      "lon": 14.31313,
+      "lat": 53.850201
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świnoujście",
+    "_id": 7532101,
+    "coord": {
+      "lon": 14.3131,
+      "lat": 53.850201
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świątniki Górne",
+    "_id": 7533033,
+    "coord": {
+      "lon": 19.954599,
+      "lat": 49.932301
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świętochłowice",
+    "_id": 7532438,
+    "coord": {
+      "lon": 18.9102,
+      "lat": 50.297901
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Świętochłowice",
+    "_id": 7530992,
+    "coord": {
+      "lon": 18.910219,
+      "lat": 50.297958
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Şanlıurfa",
+    "_id": 298332,
+    "coord": {
+      "lon": 38.781738,
+      "lat": 37.21283
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Şehremini",
+    "_id": 739887,
+    "coord": {
+      "lon": 28.931549,
+      "lat": 41.015202
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Şenlikköy",
+    "_id": 739812,
+    "coord": {
+      "lon": 28.79817,
+      "lat": 40.976849
+    }
+  },
+  {
+    "country": "MD",
+    "name": "Şerpeni",
+    "_id": 617426,
+    "coord": {
+      "lon": 29.34972,
+      "lat": 47.020828
+    }
+  },
+  {
+    "country": "SA",
+    "name": "Şumaymah",
+    "_id": 101752,
+    "coord": {
+      "lon": 39.157711,
+      "lat": 21.249649
+    }
+  },
+  {
+    "country": "AZ",
+    "name": "Şuşa Şəhəri",
+    "_id": 409419,
+    "coord": {
+      "lon": 46.75,
+      "lat": 39.75
+    }
+  },
+  {
+    "country": "TR",
+    "name": "Şırnak",
+    "_id": 443189,
+    "coord": {
+      "lon": 42.5,
+      "lat": 37.5
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Şūfīābād",
+    "_id": 113832,
+    "coord": {
+      "lon": 53.320202,
+      "lat": 35.457298
+    }
+  },
+  {
+    "country": "AZ",
+    "name": "Şəki Şəhəri",
+    "_id": 828303,
+    "coord": {
+      "lon": 47.166672,
+      "lat": 41.183331
+    }
+  },
+  {
+    "country": "LT",
+    "name": "Šakiai",
+    "_id": 595043,
+    "coord": {
+      "lon": 23.049999,
+      "lat": 54.950001
+    }
+  },
+  {
+    "country": "RS",
+    "name": "Šapine",
+    "_id": 786100,
+    "coord": {
+      "lon": 21.363331,
+      "lat": 44.572498
+    }
+  },
+  {
+    "country": "LT",
+    "name": "Šiaulių Apskritis",
+    "_id": 864481,
+    "coord": {
+      "lon": 23.33333,
+      "lat": 56
+    }
+  },
+  {
+    "country": "HR",
+    "name": "Šibensko-Kninska Županija",
+    "_id": 3337525,
+    "coord": {
+      "lon": 15.91667,
+      "lat": 43.833328
+    }
+  },
+  {
+    "country": "RS",
+    "name": "Šinovik",
+    "_id": 3319247,
+    "coord": {
+      "lon": 19.72167,
+      "lat": 43.74556
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Štípa",
+    "_id": 3065138,
+    "coord": {
+      "lon": 17.73126,
+      "lat": 49.26923
+    }
+  },
+  {
+    "country": "RS",
+    "name": "Šumarak",
+    "_id": 785305,
+    "coord": {
+      "lon": 21.139999,
+      "lat": 44.821388
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Šumbark",
+    "_id": 3064681,
+    "coord": {
+      "lon": 18.404619,
+      "lat": 49.79565
+    }
+  },
+  {
+    "country": "MD",
+    "name": "Ţarigrad",
+    "_id": 618267,
+    "coord": {
+      "lon": 27.75083,
+      "lat": 48.04472
+    }
+  },
+  {
+    "country": "MD",
+    "name": "Ţaul",
+    "_id": 617206,
+    "coord": {
+      "lon": 27.672779,
+      "lat": 48.215832
+    }
+  },
+  {
+    "country": "RO",
+    "name": "Ţiba",
+    "_id": 665197,
+    "coord": {
+      "lon": 25.799999,
+      "lat": 46.349998
+    }
+  },
+  {
+    "country": "MD",
+    "name": "Ţipordei",
+    "_id": 617202,
+    "coord": {
+      "lon": 28.61417,
+      "lat": 47.93528
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Ţālesh Maḩalleh",
+    "_id": 9874,
+    "coord": {
+      "lon": 50.679192,
+      "lat": 36.894329
+    }
+  },
+  {
+    "country": "LV",
+    "name": "Ūdriņi",
+    "_id": 454726,
+    "coord": {
+      "lon": 25.678141,
+      "lat": 57.616589
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Ūrāyin-e ‘Ulyā",
+    "_id": 1121941,
+    "coord": {
+      "lon": 62.182041,
+      "lat": 33.24662
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żagań",
+    "_id": 7532682,
+    "coord": {
+      "lon": 15.3156,
+      "lat": 51.614899
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żary",
+    "_id": 7532206,
+    "coord": {
+      "lon": 15.1455,
+      "lat": 51.6245
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żarów",
+    "_id": 7533405,
+    "coord": {
+      "lon": 16.4932,
+      "lat": 50.942799
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żelechów",
+    "_id": 753392,
+    "coord": {
+      "lon": 20.72777,
+      "lat": 52.01532
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żnin",
+    "_id": 7533226,
+    "coord": {
+      "lon": 17.73,
+      "lat": 52.844601
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żory",
+    "_id": 7532344,
+    "coord": {
+      "lon": 18.689199,
+      "lat": 50.038898
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żory",
+    "_id": 7530953,
+    "coord": {
+      "lon": 18.6884,
+      "lat": 50.03896
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żyrardów",
+    "_id": 7532743,
+    "coord": {
+      "lon": 20.4405,
+      "lat": 52.0555
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żyrzyn",
+    "_id": 7532176,
+    "coord": {
+      "lon": 22.070101,
+      "lat": 51.5089
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żywiec",
+    "_id": 7532895,
+    "coord": {
+      "lon": 19.2097,
+      "lat": 49.706299
+    }
+  },
+  {
+    "country": "PL",
+    "name": "Żłobizna",
+    "_id": 3080105,
+    "coord": {
+      "lon": 17.45813,
+      "lat": 50.842701
+    }
+  },
+  {
+    "country": "SI",
+    "name": "Žabnica",
+    "_id": 3186994,
+    "coord": {
+      "lon": 14.33306,
+      "lat": 46.198608
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Žantov",
+    "_id": 3061864,
+    "coord": {
+      "lon": 15.04312,
+      "lat": 50.485649
+    }
+  },
+  {
+    "country": "RS",
+    "name": "Žarkovac",
+    "_id": 3186764,
+    "coord": {
+      "lon": 19.934719,
+      "lat": 45.003609
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Želechovice nad Dřevnicí",
+    "_id": 3061603,
+    "coord": {
+      "lon": 17.74477,
+      "lat": 49.217361
+    }
+  },
+  {
+    "country": "SI",
+    "name": "Žigoni",
+    "_id": 3216562,
+    "coord": {
+      "lon": 13.66778,
+      "lat": 45.879719
+    }
+  },
+  {
+    "country": "SK",
+    "name": "Žilinský Kraj",
+    "_id": 3056506,
+    "coord": {
+      "lon": 19.16667,
+      "lat": 49.166672
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Žižkov",
+    "_id": 3061412,
+    "coord": {
+      "lon": 14.45,
+      "lat": 50.083328
+    }
+  },
+  {
+    "country": "CZ",
+    "name": "Žďár",
+    "_id": 3061711,
+    "coord": {
+      "lon": 15.95693,
+      "lat": 50.433041
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Аксиньино",
+    "_id": 819411,
+    "coord": {
+      "lon": 37.049999,
+      "lat": 55.73
+    }
+  },
+  {
+    "country": "BG",
+    "name": "Асенова махала",
+    "_id": 6956552,
+    "coord": {
+      "lon": 25.649929,
+      "lat": 43.08643
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Астафьево",
+    "_id": 817459,
+    "coord": {
+      "lon": 37.970001,
+      "lat": 55.099998
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Березенки",
+    "_id": 816758,
+    "coord": {
+      "lon": 37.220001,
+      "lat": 55.07
+    }
+  },
+  {
+    "country": "UA",
+    "name": "Голубинка",
+    "_id": 71296900,
+    "coord": {
+      "lon": 33.92,
+      "lat": 44.59
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Кузьминское",
+    "_id": 817521,
+    "coord": {
+      "lon": 37.879723,
+      "lat": 55.25111
+    }
+  },
+  {
+    "country": "MK",
+    "name": "Мралино",
+    "_id": 787827,
+    "coord": {
+      "lon": 21.60194,
+      "lat": 41.95694
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Сухая Первая",
+    "_id": 2015953,
+    "coord": {
+      "lon": 109.800003,
+      "lat": 53.73333
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Федоровка",
+    "_id": 820073,
+    "coord": {
+      "lon": 37.236111,
+      "lat": 55.900276
+    }
+  },
+  {
+    "country": "SA",
+    "name": "Ḩafar al Bāţin",
+    "_id": 106297,
+    "coord": {
+      "lon": 45.970772,
+      "lat": 28.432791
+    }
+  },
+  {
+    "country": "YE",
+    "name": "Ḩajjah",
+    "_id": 75334,
+    "coord": {
+      "lon": 43.6063,
+      "lat": 15.63287
+    }
+  },
+  {
+    "country": "SA",
+    "name": "Ḩajlah",
+    "_id": 106261,
+    "coord": {
+      "lon": 42.633331,
+      "lat": 18.25
+    }
+  },
+  {
+    "country": "SY",
+    "name": "Ḩalkū",
+    "_id": 170031,
+    "coord": {
+      "lon": 41.216671,
+      "lat": 37.033329
+    }
+  },
+  {
+    "country": "OM",
+    "name": "Ḩalūf",
+    "_id": 288131,
+    "coord": {
+      "lon": 53.96524,
+      "lat": 17.354679
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Ḩamāmak",
+    "_id": 1438738,
+    "coord": {
+      "lon": 61.87384,
+      "lat": 31.705509
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩasan Yūsuf",
+    "_id": 6780871,
+    "coord": {
+      "lon": 44.273621,
+      "lat": 32.479019
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Ḩasanābād",
+    "_id": 7052836,
+    "coord": {
+      "lon": 61.054298,
+      "lat": 36.546501
+    }
+  },
+  {
+    "country": "KW",
+    "name": "Ḩawallī",
+    "_id": 285629,
+    "coord": {
+      "lon": 48.02861,
+      "lat": 29.332781
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩawīlīyah",
+    "_id": 6772182,
+    "coord": {
+      "lon": 47.02256,
+      "lat": 31.49262
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩaydarīyah",
+    "_id": 6776436,
+    "coord": {
+      "lon": 45.277351,
+      "lat": 31.30686
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩayy al Janā’in",
+    "_id": 6780885,
+    "coord": {
+      "lon": 44.429401,
+      "lat": 32.475891
+    }
+  },
+  {
+    "country": "SY",
+    "name": "Ḩayy al Ḩamīdīyah",
+    "_id": 7637147,
+    "coord": {
+      "lon": 36.717419,
+      "lat": 34.73325
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩayy al ‘Adl",
+    "_id": 435797,
+    "coord": {
+      "lon": 43.300541,
+      "lat": 33.418869
+    }
+  },
+  {
+    "country": "YE",
+    "name": "Ḩayy as Salām",
+    "_id": 7472737,
+    "coord": {
+      "lon": 49.130562,
+      "lat": 14.53314
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩayy ash Shīshīn",
+    "_id": 6871849,
+    "coord": {
+      "lon": 43.687931,
+      "lat": 34.593109
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩayy aţ Ţayarān",
+    "_id": 6860697,
+    "coord": {
+      "lon": 43.143951,
+      "lat": 36.32299
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Ḩaīratān",
+    "_id": 1139976,
+    "coord": {
+      "lon": 67.424103,
+      "lat": 37.221401
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Ḩeşār-e Sefīd",
+    "_id": 833,
+    "coord": {
+      "lon": 47.159401,
+      "lat": 34.330502
+    }
+  },
+  {
+    "country": "LY",
+    "name": "Ḩijārah",
+    "_id": 2216746,
+    "coord": {
+      "lon": 14.45642,
+      "lat": 27.023001
+    }
+  },
+  {
+    "country": "BH",
+    "name": "Ḩillat ‘Abd aş Şāliḩ",
+    "_id": 290240,
+    "coord": {
+      "lon": 50.51667,
+      "lat": 26.22139
+    }
+  },
+  {
+    "country": "SY",
+    "name": "Ḩisyān as Sawāb",
+    "_id": 403403,
+    "coord": {
+      "lon": 40.25988,
+      "lat": 34.164299
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Ḩowẕ Kêlay",
+    "_id": 1466891,
+    "coord": {
+      "lon": 65.553902,
+      "lat": 31.41453
+    }
+  },
+  {
+    "country": "IR",
+    "name": "Ḩowẕ-e Sorkh",
+    "_id": 123256,
+    "coord": {
+      "lon": 59.136929,
+      "lat": 35.195129
+    }
+  },
+  {
+    "country": "SY",
+    "name": "Ḩumaymīm",
+    "_id": 169492,
+    "coord": {
+      "lon": 35.940449,
+      "lat": 35.401791
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "Ḩājj Sallūm",
+    "_id": 96215,
+    "coord": {
+      "lon": 44.349171,
+      "lat": 33.455349
+    }
+  },
+  {
+    "country": "YE",
+    "name": "Ḩārat al Bustān",
+    "_id": 7475283,
+    "coord": {
+      "lon": 42.951511,
+      "lat": 14.79922
+    }
+  },
+  {
+    "country": "VN",
+    "name": "Ấp Ba",
+    "_id": 1594018,
+    "coord": {
+      "lon": 108.212502,
+      "lat": 16.04056
+    }
+  },
+  {
+    "country": "VN",
+    "name": "Ấp Vạn Tự Tây",
+    "_id": 1591793,
+    "coord": {
+      "lon": 109.099998,
+      "lat": 12.15
+    }
+  },
+  {
+    "country": "IR",
+    "name": "‘Abbāsābād-e Qūsheh",
+    "_id": 69349,
+    "coord": {
+      "lon": 59.216671,
+      "lat": 32.866669
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "‘Abd Shaḩḩādh Mūsá",
+    "_id": 6806015,
+    "coord": {
+      "lon": 44.219349,
+      "lat": 33.574348
+    }
+  },
+  {
+    "country": "IL",
+    "name": "‘Afula",
+    "_id": 295740,
+    "coord": {
+      "lon": 35.291672,
+      "lat": 32.611111
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "‘Alwān Muḩammad",
+    "_id": 6835394,
+    "coord": {
+      "lon": 45.00959,
+      "lat": 33.999084
+    }
+  },
+  {
+    "country": "AF",
+    "name": "‘Alī Muḩammad Khēl",
+    "_id": 1148914,
+    "coord": {
+      "lon": 69.418037,
+      "lat": 33.518311
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "‘Alī al Aḩmad",
+    "_id": 99308,
+    "coord": {
+      "lon": 44.049999,
+      "lat": 33.066666
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "‘Arab Ḩasan as Suhayl",
+    "_id": 96269,
+    "coord": {
+      "lon": 44.15752,
+      "lat": 33.32304
+    }
+  },
+  {
+    "country": "OM",
+    "name": "‘Ashub",
+    "_id": 388692,
+    "coord": {
+      "lon": 56.231392,
+      "lat": 26.1675
+    }
+  },
+  {
+    "country": "PS",
+    "name": "‘Ayn Sārah",
+    "_id": 8073072,
+    "coord": {
+      "lon": 35.09882,
+      "lat": 31.536489
+    }
+  },
+  {
+    "country": "IQ",
+    "name": "‘Ayn al Arnab",
+    "_id": 6759153,
+    "coord": {
+      "lon": 42.462509,
+      "lat": 33.605831
+    }
+  },
+  {
+    "country": "IL",
+    "name": "‘Azriqam",
+    "_id": 295582,
+    "coord": {
+      "lon": 34.700001,
+      "lat": 31.75
+    }
+  },
+  {
+    "country": "SD",
+    "name": "‘Azāzah",
+    "_id": 378020,
+    "coord": {
+      "lon": 35.299999,
+      "lat": 14.13333
+    }
+  },
+  {
+    "country": "IL",
+    "name": "‘En Netafim",
+    "_id": 295189,
+    "coord": {
+      "lon": 34.882801,
+      "lat": 29.584299
+    }
+  },
+  {
+    "country": "IL",
+    "name": "‘En Zetim",
+    "_id": 295179,
+    "coord": {
+      "lon": 35.48513,
+      "lat": 32.994781
+    }
+  },
+  {
+    "country": "EG",
+    "name": "‘Ezbet el-Auqât",
+    "_id": 357542,
+    "coord": {
+      "lon": 31.30526,
+      "lat": 29.865339
+    }
+  },
+  {
+    "country": "EG",
+    "name": "‘Izbat Abū ‘Aţwah",
+    "_id": 357678,
+    "coord": {
+      "lon": 32.260559,
+      "lat": 30.5644
+    }
+  },
+  {
+    "country": "EG",
+    "name": "‘Izbat Nādī aş Şayd",
+    "_id": 415505,
+    "coord": {
+      "lon": 29.936859,
+      "lat": 31.17889
+    }
+  },
+  {
+    "country": "EG",
+    "name": "‘Uqrat Şafḩah",
+    "_id": 414338,
+    "coord": {
+      "lon": 33.87167,
+      "lat": 28.664721
+    }
+  },
+  {
+    "country": "KW",
+    "name": "‘Ushaysh al Jahrā’",
+    "_id": 285375,
+    "coord": {
+      "lon": 47.663891,
+      "lat": 29.31583
+    }
+  },
+  {
+    "country": "SA",
+    "name": "‘Uşayfirāt",
+    "_id": 391749,
+    "coord": {
+      "lon": 49.432049,
+      "lat": 26.10927
+    }
+  },
+  {
+    "country": "AE",
+    "name": "‘Ūd al Bayḑā’",
+    "_id": 290624,
+    "coord": {
+      "lon": 55.45533,
+      "lat": 25.016251
+    }
+  },
+  {
+    "country": "DZ",
+    "name": "’Aïn Khalfoun",
+    "_id": 2508044,
+    "coord": {
+      "lon": 5.33836,
+      "lat": 36.176102
+    }
+  },
+  {
+    "country": "DZ",
+    "name": "’Aïn el Beïda",
+    "_id": 2508186,
+    "coord": {
+      "lon": 5.39954,
+      "lat": 31.9377
+    }
+  },
+  {
+    "country": "JP",
+    "name": "御影",
+    "_id": 7302982,
+    "coord": {
+      "lon": 135.252426,
+      "lat": 34.724258
+    }
+  },
+  {
+    "country": "JP",
+    "name": "松山市",
+    "_id": 7303001,
+    "coord": {
+      "lon": 132.756729,
+      "lat": 33.83905
+    }
+  },
+  {
+    "country": "JP",
+    "name": "芦屋",
+    "_id": 7302983,
+    "coord": {
+      "lon": 135.30719,
+      "lat": 34.733921
+    }
+  },
+  {
+    "country": "KR",
+    "name": "괴내",
+    "_id": 6802827,
+    "coord": {
+      "lon": 127.320099,
+      "lat": 37.507198
+    }
+  }
+]
