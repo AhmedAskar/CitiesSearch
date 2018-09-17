@@ -8,7 +8,7 @@
 
 import UIKit
 
-class CitiesSearchViewController: UITableViewController, UISearchResultsUpdating {
+class CitiesSearchViewController: UITableViewController {
     
     // MARK: Properities
     let searchController = UISearchController(searchResultsController: nil)
@@ -21,12 +21,12 @@ class CitiesSearchViewController: UITableViewController, UISearchResultsUpdating
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        self.title = "Cities"
+        self.title = Constant.cities
         
         // Setup the Search Controller
         searchController.searchResultsUpdater = self
         searchController.obscuresBackgroundDuringPresentation = false
-        searchController.searchBar.placeholder = "Search Cities"
+        searchController.searchBar.placeholder = Constant.searchPlaceHolder
         navigationItem.searchController = searchController
         definesPresentationContext = true
         
@@ -50,12 +50,12 @@ class CitiesSearchViewController: UITableViewController, UISearchResultsUpdating
             }
         }
         
-        viewModel.searchCity(result: .all)
+        viewModel.findCities(result: .all)
     }
     
     func showAlert(_ message: String) {
-        let alert = UIAlertController(title: "Alert", message: message, preferredStyle: .alert)
-        alert.addAction( UIAlertAction(title: "Ok", style: .cancel, handler: nil))
+        let alert = UIAlertController(title: Constant.alertTitle , message: message, preferredStyle: .alert)
+        alert.addAction( UIAlertAction(title: Constant.alertBtn, style: .cancel, handler: nil))
         self.present(alert, animated: true, completion: nil)
     }
 }
@@ -67,24 +67,25 @@ extension CitiesSearchViewController {
     }
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "Cell")
+        let cell = tableView.dequeueReusableCell(withIdentifier: Constant.cellIdentifier)
         let city = viewModel.cities[indexPath.row]
         cell?.textLabel?.text = "\(city.name),\(city.country)"
         return cell!
     }
     
-    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+    override func tableView(_ tableView: UITableView, willSelectRowAt indexPath: IndexPath) -> IndexPath? {
         selectedCity = viewModel.cities[indexPath.row]
+        return indexPath
     }
 }
 
-extension CitiesSearchViewController {
+extension CitiesSearchViewController: UISearchResultsUpdating {
     func updateSearchResults(for searchController: UISearchController) {
         if let text = searchController.searchBar.text {
             if !text.isEmpty {
-                viewModel.searchCity(result: .search(text: text))
+                viewModel.findCities(result: .search(text: text))
             }else{
-                viewModel.searchCity(result: .all)
+                viewModel.findCities(result: .all)
             }
         }
     }

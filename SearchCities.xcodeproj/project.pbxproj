@@ -50,6 +50,7 @@
 		142395A2214EDB8100D943A0 /* CitiesTriesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142395A1214EDB8100D943A0 /* CitiesTriesTest.swift */; };
 		1457FC73214F30CF000C080E /* String+Special.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1457FC72214F30CF000C080E /* String+Special.swift */; };
 		14B42B4E214F7022009AE077 /* sp.json in Resources */ = {isa = PBXBuildFile; fileRef = 14B42B4D214F7021009AE077 /* sp.json */; };
+		14B42B51214FA376009AE077 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B42B50214FA376009AE077 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -110,6 +111,7 @@
 		142395A1214EDB8100D943A0 /* CitiesTriesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesTriesTest.swift; sourceTree = "<group>"; };
 		1457FC72214F30CF000C080E /* String+Special.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Special.swift"; sourceTree = "<group>"; };
 		14B42B4D214F7021009AE077 /* sp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sp.json; sourceTree = "<group>"; };
+		14B42B50214FA376009AE077 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 		14239520214D385F00D943A0 /* SearchCities */ = {
 			isa = PBXGroup;
 			children = (
+				14B42B4F214FA363009AE077 /* Utilities */,
 				14239562214DBDCE00D943A0 /* Application */,
 				14239544214D3A9C00D943A0 /* Model */,
 				14239546214D3AAD00D943A0 /* Views */,
@@ -296,6 +299,14 @@
 			path = Extension;
 			sourceTree = "<group>";
 		};
+		14B42B4F214FA363009AE077 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				14B42B50214FA376009AE077 /* Constant.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -432,6 +443,7 @@
 				1423955F214D8A6000D943A0 /* CityMapViewController.swift in Sources */,
 				1423954A214D3AC000D943A0 /* City.swift in Sources */,
 				14239524214D385F00D943A0 /* CitiesSearchViewController.swift in Sources */,
+				14B42B51214FA376009AE077 /* Constant.swift in Sources */,
 				14239522214D385F00D943A0 /* AppDelegate.swift in Sources */,
 				1423955B214D560D00D943A0 /* CitiesTrie.swift in Sources */,
 			);

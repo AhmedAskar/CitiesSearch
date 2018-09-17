@@ -6,12 +6,29 @@
          contextName = "GLOBAL">
          <PersistentStrings>
             <PersistentString
+               value = "viewModel.cities">
+            </PersistentString>
+            <PersistentString
                value = "city">
+            </PersistentString>
+            <PersistentString
+               value = "selectedCity">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
       <ContextState
          contextName = "Signal.on(success:fail:):CitiesViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CityMapViewController.viewDidLoad():CityMapViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CitiesSearchViewController.tableView(_:didSelectRowAt:):CitiesSearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.cities">
+            </PersistentString>
+         </PersistentStrings>
       </ContextState>
    </ContextStates>
 </VariablesViewState>

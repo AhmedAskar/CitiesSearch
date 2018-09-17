@@ -22,6 +22,11 @@ class CityMapViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
         let coordinates = CLLocationCoordinate2D(latitude: city?.coord.lat ?? 0.0, longitude: city?.coord.lon ?? 0.0)
         centerMap(on: coordinates)
         
@@ -33,8 +38,9 @@ class CityMapViewController: UIViewController {
         mapView.addAnnotation(annotation)
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+
         checkLocationAuthorizationStatus()
     }
     

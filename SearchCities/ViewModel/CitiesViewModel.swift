@@ -56,7 +56,7 @@ class CitiesViewModel {
         }
     }
     
-    func searchCity(result: ListResult) {
+    func findCities(result: ListResult) {
         switch result {
         case .all:
             // Loading Cities from a prefix file by default

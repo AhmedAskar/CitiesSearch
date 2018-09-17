@@ -39,7 +39,7 @@ class CityService: CityServiceProtocol {
         // Case filePrefix is already loaded and dict contains Trie data of cities
         if let trie = dicOfTries[fileCharPrefix] {
             let searchCities = trie.find(prefix: prefix)
-            complete(searchCities.sorted(by: {$0.name < $1.name}) , nil)
+            complete(searchCities, nil)
             
         } else {
             // dict doesn't contain the Trie data of cities and loaded it from it's prefix file
