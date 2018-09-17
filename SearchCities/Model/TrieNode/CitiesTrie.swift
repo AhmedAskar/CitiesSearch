@@ -6,9 +6,6 @@
 //  Copyright © 2018 Ahmed Askar. All rights reserved.
 //
 
-
-
-
 import Foundation
 
 class CitiesTrie {
