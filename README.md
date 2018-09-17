@@ -22,18 +22,25 @@ You can read more about Trie algorithm and how to implement it to fit your case.
 
 The main logic to make the search very fast is that you map the character prefix and load it is cities tree and after that hasing them (key, value) > key represents the charachter and the value represents the citiesTree
 
+```swift
 for city in cities {
 citiesTrie.insert(city: city)
 }
 dicOfTries[fileCharPrefix] = citiesTrie
+// Your code
+}
+```
 
 So once you already have loaded the citiesTree so you don't have to load the cities again.
 
+```swift
 // Case filePrefix is already loaded and dict contains Trie data of cities
 if let trie = dicOfTries[fileCharPrefix] {
 let searchCities = trie.find(prefix: prefix)
 complete(searchCities.sorted(by: {$0.name < $1.name}) , nil)
 }
+}
+```
 
 ## Requirements
 
