@@ -9,7 +9,6 @@
 import Foundation
 
 protocol CityServiceProtocol {
-    var dicOfTries: [String : CitiesTrie] { get set}
     func loadCities(prefix: String, complete: @escaping (_ cities: [City]? , _ error: String?)->())
 }
 

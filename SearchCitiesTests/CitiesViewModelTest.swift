@@ -36,7 +36,7 @@ class CitiesViewModelTest: XCTestCase {
     
     func testSearchCity() {
         cityService.completeCities = [City]()
-        viewModelTest.searchCity(result: ListResult.all)
+        viewModelTest.findCities(result: ListResult.all)
         XCTAssert(cityService!.isLoadCityCalled)
     }
     
@@ -48,7 +48,8 @@ class CitiesViewModelTest: XCTestCase {
         }
         let searchCities = citiesTrie.find(prefix: "ya")
         XCTAssertTrue(searchCities.count > 1)
-        XCTAssertEqual(searchCities[0].name, "Yawata")
+        XCTAssertNotEqual(searchCities[0].name, "Yawata")
+        XCTAssertEqual(searchCities[0].name, "Yaamba")
     }
 }
 
@@ -60,14 +61,14 @@ extension CitiesViewModelTest {
     }
 }
 
-class MockCityService: CityService {
+class MockCityService: CityServiceProtocol {
     
     var isLoadCityCalled = false
     
     var completeCities: [City] = [City]()
     var completeClosure: (([City]?, String?) -> ())!
     
-    override func loadCities(prefix char: String, complete: @escaping ([City]?, String?) -> ()) {
+    func loadCities(prefix char: String, complete: @escaping ([City]?, String?) -> ()) {
         isLoadCityCalled = true
         completeClosure = complete
     }
