@@ -609,6 +609,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = URXBC887S2;
 				INFOPLIST_FILE = SearchCities/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -618,7 +619,7 @@
 				PROVISIONING_PROFILE = "eda72978-0b6f-40c4-84bd-0ed4b2bbd637";
 				PROVISIONING_PROFILE_SPECIFIER = "Pixcel Development";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -630,6 +631,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = URXBC887S2;
 				INFOPLIST_FILE = SearchCities/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -639,7 +641,7 @@
 				PROVISIONING_PROFILE = "f20cfc5b-d95c-4f57-b408-f19e3d99f1bc";
 				PROVISIONING_PROFILE_SPECIFIER = Pixcel_AdHoc;
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
