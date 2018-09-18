@@ -37,7 +37,6 @@ So once you already have loaded the citiesTree so you don't have to load the cit
 // Case filePrefix is already loaded and dict contains Trie data of cities
 if let trie = dicOfTries[fileCharPrefix] {
 let searchCities = trie.find(prefix: prefix)
-complete(searchCities.sorted(by: {$0.name < $1.name}) , nil)
 }
 }
 ```

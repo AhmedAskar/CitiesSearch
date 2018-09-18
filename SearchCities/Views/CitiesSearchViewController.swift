@@ -27,7 +27,8 @@ class CitiesSearchViewController: UITableViewController {
         searchController.searchResultsUpdater = self
         searchController.obscuresBackgroundDuringPresentation = false
         searchController.searchBar.placeholder = Constant.searchPlaceHolder
-        navigationItem.searchController = searchController
+        self.tableView.tableHeaderView = searchController.searchBar
+
         definesPresentationContext = true
         
         initVM()

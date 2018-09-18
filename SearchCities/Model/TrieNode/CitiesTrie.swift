@@ -46,7 +46,7 @@ class CitiesTrie {
         let characters = Array(prefix.lowercased())
         var currentNode = root
         for character in characters {
-            guard let node = currentNode.children[character] else {return []}
+            guard let node = currentNode.children[character] else { return [] }
             currentNode = node
         }
         
