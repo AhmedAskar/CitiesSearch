@@ -614,7 +614,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Askar.SearchCities;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omnichannel.cmsclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "eda72978-0b6f-40c4-84bd-0ed4b2bbd637";
 				PROVISIONING_PROFILE_SPECIFIER = "Pixcel Development";
@@ -636,7 +636,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Askar.SearchCities;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omnichannel.cmsclient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "f20cfc5b-d95c-4f57-b408-f19e3d99f1bc";
 				PROVISIONING_PROFILE_SPECIFIER = Pixcel_AdHoc;
