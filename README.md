@@ -41,15 +41,9 @@ let searchCities = trie.find(prefix: prefix)
 }
 ```
 
-## Requirements
-
-- iOS 9.0+
-- Xcode 9+
-- Swift 3.2+
-
 ## Contributions
 
-If you have some ideas on how to improve the network layer, Fork it, implement your changes and create that pull request already 😉.
+If you have some ideas on how to improve the implemetation Fork it, implement your changes and create that pull request already 😉.
 
 All contributions are welcome 🤗.
 
