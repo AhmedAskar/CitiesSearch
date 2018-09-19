@@ -37,7 +37,7 @@ class CitiesSearchViewController: UITableViewController {
     func initVM() {
 
         // Native binding
-        viewModel.errorCitiesFailuer = { [weak self] () in
+        viewModel.errorCitiesFailuer = { [weak self] in
             DispatchQueue.main.async {
                 if let errorMessage = self?.viewModel.errorMessage {
                     self?.showAlert(errorMessage)
