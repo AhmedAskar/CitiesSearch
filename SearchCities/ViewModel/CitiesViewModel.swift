@@ -45,12 +45,12 @@ class CitiesViewModel {
     }
     
     func loadCities(text: String) {
-        cityService.loadCities(prefix: text) { (cities, error) in
+        cityService.loadCities(prefix: text) { [weak self] (cities, error) in
             if let error = error {
-                self.errorMessage = error
+                self?.errorMessage = error
             }else{
                 if let resultCities = cities {
-                    self.cities = resultCities
+                    self?.cities = resultCities
                 }
             }
         }
