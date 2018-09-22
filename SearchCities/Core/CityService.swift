@@ -20,6 +20,8 @@ class CityService: CityServiceProtocol {
     
     func loadCities(prefix: String , complete: @escaping (_ cities: [City]? , _ error: String?)->()) {
         
+        let methodStart = Date()
+        
         var fileCharPrefix = prefix
         
         if prefix.isEmpty {
@@ -55,10 +57,15 @@ class CityService: CityServiceProtocol {
                         }
                         dicOfTries[fileCharPrefix] = citiesTrie
                     }
-                    complete(cities , nil)
-                
-                }catch{
                     
+                    let methodFinish = Date()
+                    let executionTime = methodFinish.timeIntervalSince(methodStart)
+                    print("Execution time: \(executionTime)")
+                    
+                    complete(cities , nil)
+                    
+                }catch{
+                    print(error)
                     complete(nil , "Can't load all cities")
                 }
             }

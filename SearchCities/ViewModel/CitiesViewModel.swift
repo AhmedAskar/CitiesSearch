@@ -38,6 +38,9 @@ class CitiesViewModel {
     var citiesLoadCompletion: (()->())?
     var errorCitiesFailuer: (()->())?
  
+//    var citiesLoadCompletion: (([City])->())?
+//    var errorCitiesFailuer: ((String)->())?
+
     //MARK: init
     
     init(cityService: CityServiceProtocol = CityService()) {
@@ -48,9 +51,11 @@ class CitiesViewModel {
         cityService.loadCities(prefix: text) { [weak self] (cities, error) in
             if let error = error {
                 self?.errorMessage = error
+//                self.errorCitiesFailuer?(error)
             }else{
                 if let resultCities = cities {
                     self?.cities = resultCities
+//                    self.citiesLoadCompletion?(resultCities)
                 }
             }
         }

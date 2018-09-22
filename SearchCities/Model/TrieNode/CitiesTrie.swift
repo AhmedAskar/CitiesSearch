@@ -13,7 +13,7 @@ class CitiesTrie {
     private let root: CityNode
     
     init() {
-        root = CityNode(value: " ", parent: nil)
+        root = CityNode(value: " ")
     }
     
     func insert(city: City) {

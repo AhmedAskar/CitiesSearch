@@ -37,9 +37,11 @@ class CitiesTriesTest: XCTestCase {
             let path = Bundle.main.path(forResource: "y", ofType: "json")!
             data = try! Data(contentsOf: URL(fileURLWithPath: path))
 
-        } catch {
-            XCTAssertNil(error)
         }
+//        catch {
+//            XCTAssertNil(error)
+//        }
+        
         XCTAssertNotNil(data)
         citiesArray = try! JSONDecoder().decode(Array<City>.self, from: data!)
         
@@ -52,13 +54,14 @@ class CitiesTriesTest: XCTestCase {
         }
         
         var data: Data?
-
+        
         do {
             let path = Bundle.main.path(forResource: "@", ofType: "json")
             data = try? Data(contentsOf: URL(fileURLWithPath: path!))
-        }catch{
-            XCTAssertNil(error)
         }
+//        catch {
+//            XCTAssertNil(error)
+//        }
         
         XCTAssertNotNil(data)
         citiesArray = try! JSONDecoder().decode(Array<City>.self, from: data!)

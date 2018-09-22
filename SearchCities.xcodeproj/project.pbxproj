@@ -49,6 +49,7 @@
 		142395A0214ED56D00D943A0 /* CitiesViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1423959F214ED56D00D943A0 /* CitiesViewModelTest.swift */; };
 		142395A2214EDB8100D943A0 /* CitiesTriesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142395A1214EDB8100D943A0 /* CitiesTriesTest.swift */; };
 		1457FC73214F30CF000C080E /* String+Special.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1457FC72214F30CF000C080E /* String+Special.swift */; };
+		146724DA2155707600D5FA6B /* CityMapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146724D92155707600D5FA6B /* CityMapViewModel.swift */; };
 		14B42B4E214F7022009AE077 /* sp.json in Resources */ = {isa = PBXBuildFile; fileRef = 14B42B4D214F7021009AE077 /* sp.json */; };
 		14B42B51214FA376009AE077 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14B42B50214FA376009AE077 /* Constant.swift */; };
 /* End PBXBuildFile section */
@@ -110,6 +111,7 @@
 		1423959F214ED56D00D943A0 /* CitiesViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesViewModelTest.swift; sourceTree = "<group>"; };
 		142395A1214EDB8100D943A0 /* CitiesTriesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesTriesTest.swift; sourceTree = "<group>"; };
 		1457FC72214F30CF000C080E /* String+Special.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Special.swift"; sourceTree = "<group>"; };
+		146724D92155707600D5FA6B /* CityMapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityMapViewModel.swift; sourceTree = "<group>"; };
 		14B42B4D214F7021009AE077 /* sp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sp.json; sourceTree = "<group>"; };
 		14B42B50214FA376009AE077 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -201,6 +203,7 @@
 			isa = PBXGroup;
 			children = (
 				14239551214D3DB400D943A0 /* CitiesViewModel.swift */,
+				146724D92155707600D5FA6B /* CityMapViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -441,6 +444,7 @@
 				141A7FB3214FF542008DB10A /* CityNode.swift in Sources */,
 				141A7FB4214FF542008DB10A /* CitiesTrie.swift in Sources */,
 				1423955F214D8A6000D943A0 /* CityMapViewController.swift in Sources */,
+				146724DA2155707600D5FA6B /* CityMapViewModel.swift in Sources */,
 				1423954A214D3AC000D943A0 /* City.swift in Sources */,
 				14239524214D385F00D943A0 /* CitiesSearchViewController.swift in Sources */,
 				14B42B51214FA376009AE077 /* Constant.swift in Sources */,

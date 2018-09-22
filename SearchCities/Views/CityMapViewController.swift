@@ -12,7 +12,9 @@ import MapKit
 class CityMapViewController: UIViewController {
     
     // MARK: Properities
-    var city: City?
+    var viewModel: CityMapViewModel?
+    
+//    var city: City?
     private let locationManager = CLLocationManager()
     
     // MARK: - Outlets
@@ -27,15 +29,19 @@ class CityMapViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
-        let coordinates = CLLocationCoordinate2D(latitude: city?.coord.lat ?? 0.0, longitude: city?.coord.lon ?? 0.0)
-        centerMap(on: coordinates)
+        viewModel?.cityMapLoadCompletion = { [weak self] in
+            let coordinates = CLLocationCoordinate2D(latitude: self?.viewModel?.city?.coord.lat ?? 0.0, longitude: self?.viewModel?.city?.coord.lon ?? 0.0)
+            self?.centerMap(on: coordinates)
+            
+            let annotation = MKPointAnnotation()
+            annotation.coordinate = coordinates
+            annotation.title = self?.viewModel?.city?.name
+            annotation.subtitle = self?.viewModel?.city?.country
+            
+            self?.mapView.addAnnotation(annotation)
+        }
         
-        let annotation = MKPointAnnotation()
-        annotation.coordinate = coordinates
-        annotation.title = city?.name
-        annotation.subtitle = city?.country
-        
-        mapView.addAnnotation(annotation)
+        viewModel?.loadCityMap()
     }
     
     override func viewWillAppear(_ animated: Bool) {

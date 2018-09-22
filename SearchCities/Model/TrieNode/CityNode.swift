@@ -12,18 +12,16 @@ class CityNode {
     
     var value: Character
     var city: City?
-    weak var parent: CityNode?
     var children: [Character: CityNode] = [:]
     
-    init(value: Character, city: City? = nil, parent: CityNode?) {
+    init(value: Character, city: City? = nil) {
         self.value = value
         self.city = city
-        self.parent = parent
     }
     
     func add(value: Character, city: City?) {
         guard children[value] == nil else { return }
-        children[value] = CityNode(value: value, city: city, parent: self)
+        children[value] = CityNode(value: value, city: city)
     }
     
     func getAllChildNodes() -> [City] {

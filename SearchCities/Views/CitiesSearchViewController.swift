@@ -95,7 +95,9 @@ extension CitiesSearchViewController: UISearchResultsUpdating {
 extension CitiesSearchViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if let vc = segue.destination as? CityMapViewController {
-            vc.city = selectedCity
+            let viewModel = CityMapViewModel(city: selectedCity!)
+            vc.viewModel = viewModel
+//            vc.city = selectedCity
         }
     }
 }
