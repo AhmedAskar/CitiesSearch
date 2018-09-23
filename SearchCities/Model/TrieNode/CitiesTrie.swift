@@ -10,11 +10,14 @@ import Foundation
 
 class CitiesTrie {
     
-    private let root: CityNode
+    fileprivate let root: CityNode
     
     init() {
         root = CityNode(value: " ")
     }
+}
+
+extension CitiesTrie {
     
     func insert(city: City) {
         guard !city.name.isEmpty else { return }

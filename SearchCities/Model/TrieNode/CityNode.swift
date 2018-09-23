@@ -26,7 +26,9 @@ class CityNode {
     
     func getAllChildNodes() -> [City] {
         var list = [City]()
-        if let city = self.city{ list.append(city) }
+        if let city = self.city{
+            list.append(city)
+        }
         let sortedChildrenKeys = children.keys.sorted()
         for key in sortedChildrenKeys {
             list.append(contentsOf: children[key]!.getAllChildNodes())
